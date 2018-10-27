@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A3226355-F831-40F5-8015-5D9B4D52E371",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 781,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1C8AA6E-C218-43BD-8C73-B3F18E87A90B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6263955F-DA19-464C-9E43-1F95D5FB7EE4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D748FCA-61D2-4791-ADDC-6BE5FEB69E7F",
+    "height": 900,
+    "width": 1440,
+    "x": 225,
+    "y": 1000
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "30E5A9B0-D9FC-4A3E-BF08-FA6AB383AA01",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AE6A21C2-A3FF-422D-8700-262675D1915F"
+    }
+  ],
+  "name": "Color/Steel Blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "59EA4A2A-5011-4F15-BAC1-637B01396BB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2871F14-91E6-4553-A412-31C714772A8D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A5EACB06-9BB2-47FC-BA95-340B289F84F1",
+    "guides": [
+    ]
+  }
+}
