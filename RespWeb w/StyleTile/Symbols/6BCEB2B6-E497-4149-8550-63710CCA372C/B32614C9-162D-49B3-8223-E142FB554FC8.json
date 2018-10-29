@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 1,
+            "green": 0.8549019607843138,
+            "red": 0.7333333333333333
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Follow Us!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 44,
-    "width": 124,
-    "x": 151,
-    "y": 48
+    "width": 180,
+    "x": 159,
+    "y": 56
   },
-  "glyphBounds": "{{2, 8}, {119, 28}}",
+  "glyphBounds": "{{3, 8}, {168, 28}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header",
+  "name": "Follow Us!",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,9 +80,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 1,
+          "green": 0.8549019607843138,
+          "red": 0.7333333333333333
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

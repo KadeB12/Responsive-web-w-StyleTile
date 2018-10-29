@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 1,
+            "green": 0.8549019607843138,
+            "red": 0.7333333333333333
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 81,
+        "length": 146,
         "location": 0
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla "
+    "string": "Our department is dedicated to making our presence known!  Please support our students and stay up to date by following our Social media accounts!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 94,
+    "height": 114,
     "width": 271,
     "x": 91,
     "y": 132
   },
-  "glyphBounds": "{{0, 5}, {234, 61}}",
+  "glyphBounds": "{{0, 4}, {258, 103}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal",
+  "name": "Our department is de",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,9 +80,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 1,
+          "green": 0.8549019607843138,
+          "red": 0.7333333333333333
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

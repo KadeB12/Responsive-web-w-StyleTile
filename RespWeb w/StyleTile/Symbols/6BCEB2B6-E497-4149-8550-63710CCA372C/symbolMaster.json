@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 9503,
   "clippingMaskMode": 0,
   "do_objectID": "6BCEB2B6-E497-4149-8550-63710CCA372C",
   "exportOptions": {
@@ -46,11 +46,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "A503DE3B-0301-4793-A412-F2F019B4FE95"
+    },
+    {
+      "class": "bitmap",
+      "id": "D1377B3D-C160-4603-8223-23BEEBCB9D13"
     },
     {
       "class": "rectangle",
@@ -62,27 +66,15 @@
     },
     {
       "class": "text",
-      "id": "B18DD3A9-DBAD-40FC-AFB0-000AE494E557"
-    },
-    {
-      "class": "text",
-      "id": "9F90BC1A-5384-4B00-99E7-63362C7B23EC"
-    },
-    {
-      "class": "text",
-      "id": "9B63ED3E-D6F4-4465-B99F-48C579DF268F"
-    },
-    {
-      "class": "text",
-      "id": "772BBB4F-58F6-497E-85F6-F8C04B3ADE8F"
+      "id": "69FB7F8C-B27A-40AE-82A0-2DB737284811"
     },
     {
       "class": "rectangle",
       "id": "E4099755-FA1B-4C8B-9566-E76414BDD381"
     },
     {
-      "class": "rectangle",
-      "id": "661BEEA4-1863-47B2-8289-42E9521F89CB"
+      "class": "text",
+      "id": "FD5DDDCD-B7C0-4012-AA8C-F8D1693854A8"
     },
     {
       "class": "rectangle",
@@ -94,15 +86,15 @@
     },
     {
       "class": "text",
+      "id": "950581C3-337E-4639-9611-403D66D1F115"
+    },
+    {
+      "class": "text",
+      "id": "9ECC50D4-C671-4E65-A586-3613734547A0"
+    },
+    {
+      "class": "text",
       "id": "C4EE33A5-82C6-418B-BD99-89C711A05601"
-    },
-    {
-      "class": "text",
-      "id": "0844FF1F-A710-4B50-9CA8-CA3560CB19D4"
-    },
-    {
-      "class": "text",
-      "id": "9A2A74F0-4B1D-4720-8283-D75707454F1E"
     },
     {
       "class": "oval",
@@ -110,15 +102,23 @@
     },
     {
       "class": "oval",
-      "id": "02B3BC04-20FB-4723-81A3-2DFC3309DBBD"
+      "id": "B2338ECC-82C6-4C6D-85B9-146D4276F150"
     },
     {
       "class": "oval",
-      "id": "34C84480-986A-4471-A6CE-1FA72CC41CD1"
+      "id": "05A8C2B1-48AB-4786-9D04-B575D48354A0"
     },
     {
       "class": "oval",
-      "id": "EC1C2177-5CE2-4AA0-93F8-2D821F73F0C8"
+      "id": "6ED2F99F-09CA-45C0-958F-4C297D12398C"
+    },
+    {
+      "class": "bitmap",
+      "id": "A4F3819A-C406-4364-BFA0-2206C88EBDB4"
+    },
+    {
+      "class": "group",
+      "id": "EB637B69-B85F-4973-A6FA-9C0386CDECEC"
     }
   ],
   "name": "Molecule/ Footer",

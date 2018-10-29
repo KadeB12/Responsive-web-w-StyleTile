@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 5,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Links"
+    "string": "Home"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,10 +51,10 @@
     "do_objectID": "1E287D57-053D-4B4F-B474-C2B322C3B393",
     "height": 23,
     "width": 60,
-    "x": 1168,
-    "y": 31
+    "x": 647,
+    "y": 34
   },
-  "glyphBounds": "{{1, 5}, {43, 15}}",
+  "glyphBounds": "{{1, 5}, {49, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Links Copy 5",
+  "name": "Home",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,9 +82,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

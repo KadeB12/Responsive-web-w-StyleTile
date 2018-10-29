@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 204,
+    "height": 150,
     "width": 263,
-    "x": 1076,
-    "y": 56
+    "x": 1136,
+    "y": 236
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -105,9 +105,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 0.8549019607843138,
+          "red": 0.7333333333333333
         },
         "fillType": 0,
         "isEnabled": true,

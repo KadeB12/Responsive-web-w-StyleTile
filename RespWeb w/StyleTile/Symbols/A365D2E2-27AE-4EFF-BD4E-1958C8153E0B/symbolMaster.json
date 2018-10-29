@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 332,
+  "changeIdentifier": 19522,
   "clippingMaskMode": 0,
   "do_objectID": "A365D2E2-27AE-4EFF-BD4E-1958C8153E0B",
   "exportOptions": {
@@ -57,8 +57,20 @@
       "id": "7DFA45B3-08D3-4D20-BDF7-F61F9A767251"
     },
     {
-      "class": "rectangle",
-      "id": "2E92EA73-8520-4BF6-B283-7EB57C78EF6C"
+      "class": "shapeGroup",
+      "id": "53C0DF3D-A4D0-47CA-8DF8-BF40A3C4CBBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25922901-A76D-4F95-AE09-F3267DE6ADB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41D3B4A5-1A4A-433A-BF33-6501FFE369FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ADA4E0A9-7B24-4864-986A-C2BA88355BDB"
     }
   ],
   "name": "Atom/ Page Numbers",

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 257,
+  "changeIdentifier": 28213,
   "clippingMaskMode": 0,
   "do_objectID": "EB2267AE-D25C-472D-9322-8D8BC91C9034",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -85,16 +85,16 @@
       "id": "88B8940B-A1D0-4506-9B67-04C554FA6508"
     },
     {
-      "class": "rectangle",
-      "id": "6C6626D8-694E-4DF2-8852-76E8EB8B2731"
-    },
-    {
-      "class": "rectangle",
-      "id": "1BB79DDD-5820-40F5-9A75-5E363279C34C"
-    },
-    {
       "class": "text",
       "id": "1F6137EC-3724-40FF-9B34-D2B7FD96E7B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47CAF08A-D2C9-4E7D-8567-7ECEAB28EDA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9277159B-D3F2-4B33-B593-DC0FB078112C"
     }
   ],
   "name": "Molecule/ Carousel 2",

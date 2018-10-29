@@ -31,7 +31,7 @@
     "y": -29
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,10 +51,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "9F5DF816-B133-44A4-8945-57B697049074"
-    },
-    {
       "class": "symbolInstance",
       "id": "0B0B5688-49C0-4C04-ADE2-2A9F41C268BF"
     },
@@ -68,11 +64,11 @@
     },
     {
       "class": "rectangle",
-      "id": "220F4A0F-247D-4124-807D-4CEDAAA13AC4"
+      "id": "E6D73BC3-1959-4E72-B019-129912854D70"
     },
     {
       "class": "rectangle",
-      "id": "E6D73BC3-1959-4E72-B019-129912854D70"
+      "id": "57428E17-1F3C-456B-90BA-AC84568C55CB"
     },
     {
       "class": "rectangle",
@@ -115,126 +111,6 @@
       "id": "EADB5506-4DB4-4284-BF0A-47C26B9994A9"
     },
     {
-      "class": "rectangle",
-      "id": "8977220C-38E2-4548-8D89-C8FF35EE706B"
-    },
-    {
-      "class": "rectangle",
-      "id": "F0D51D7F-8759-4C33-A924-1CB6AEE71ACC"
-    },
-    {
-      "class": "text",
-      "id": "0082687D-5EEE-4584-B77A-1F1365D9487F"
-    },
-    {
-      "class": "text",
-      "id": "F430F541-31D5-4C42-BEC8-3176284D832F"
-    },
-    {
-      "class": "text",
-      "id": "CA0B7FEA-DD5D-4416-9C45-B3A326CEDDDC"
-    },
-    {
-      "class": "text",
-      "id": "DC7CC9B1-DD29-4221-9BA1-C55E514281C1"
-    },
-    {
-      "class": "text",
-      "id": "90A86034-5F4B-4F65-9E00-5669AA5DB52B"
-    },
-    {
-      "class": "rectangle",
-      "id": "03DE99A4-18A2-4068-877A-98B2963E6772"
-    },
-    {
-      "class": "rectangle",
-      "id": "2A59E689-2604-496B-B2BA-C8EF50976B0C"
-    },
-    {
-      "class": "text",
-      "id": "BB0793FD-7739-4C92-8027-3A5DBEBBAF66"
-    },
-    {
-      "class": "text",
-      "id": "0C6C33B2-CEE4-409E-A71C-EB9D5A66FA43"
-    },
-    {
-      "class": "text",
-      "id": "BA8D4099-E2B1-414A-8499-9FB73AD4DFCD"
-    },
-    {
-      "class": "text",
-      "id": "BD09F900-72F7-4AA6-BA0B-DF2BB99DD40F"
-    },
-    {
-      "class": "text",
-      "id": "30082606-47FF-441A-8834-BFED1BDA7FF8"
-    },
-    {
-      "class": "text",
-      "id": "52E2D08A-9D1F-439A-B288-7D27D462473E"
-    },
-    {
-      "class": "text",
-      "id": "9AB396D7-A243-4AC7-A578-82101071DE23"
-    },
-    {
-      "class": "text",
-      "id": "76190CF8-6B33-470E-B87F-6F623E5FE7E1"
-    },
-    {
-      "class": "rectangle",
-      "id": "9EAFC9B5-25D4-45DF-B725-79755103A4CF"
-    },
-    {
-      "class": "rectangle",
-      "id": "E940E91E-B126-4199-B68C-A7D7BB8F508A"
-    },
-    {
-      "class": "text",
-      "id": "15E2A317-4585-40E2-A9DE-907CC90207C8"
-    },
-    {
-      "class": "text",
-      "id": "7FCE7193-494E-49D1-9496-3D0E1CDE16B2"
-    },
-    {
-      "class": "rectangle",
-      "id": "4CCE24EC-CE2D-44F7-8710-8E209711115F"
-    },
-    {
-      "class": "text",
-      "id": "1B8410FB-60C3-4201-B745-36D28AF2EE71"
-    },
-    {
-      "class": "text",
-      "id": "675067E7-DAB8-4900-9050-E9B01DE57D45"
-    },
-    {
-      "class": "text",
-      "id": "CA932BA2-90D6-4660-943E-B9C0738FCB01"
-    },
-    {
-      "class": "text",
-      "id": "8566545B-47D0-4F6B-A0EA-EF51FC673C10"
-    },
-    {
-      "class": "oval",
-      "id": "4444E3E2-D317-4668-B10E-656CE85A20D0"
-    },
-    {
-      "class": "oval",
-      "id": "D50082DB-0D7D-4C3F-88DE-69371BD3A6FF"
-    },
-    {
-      "class": "oval",
-      "id": "F745065C-F117-4087-BFD5-0D8C1F38DE52"
-    },
-    {
-      "class": "oval",
-      "id": "54D5B4A6-0E2A-499E-9EBF-E89B29A7AF28"
-    },
-    {
       "class": "symbolInstance",
       "id": "7E1ACDA4-2E6B-455E-8BE1-3686331A4A98"
     },
@@ -259,12 +135,20 @@
       "id": "8B0559D1-10A2-4F7A-A245-FBD9AF90C945"
     },
     {
-      "class": "symbolInstance",
-      "id": "70732413-F57F-4CA8-8E09-B826E6916A69"
+      "class": "group",
+      "id": "08D1AA9F-240A-4F63-AA5A-AD3BCB62F192"
     },
     {
       "class": "symbolInstance",
       "id": "BBD1B03D-78E0-454E-A589-60367FBA5856"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DD5594D-4264-4114-917B-9E74B171FFD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D2485D0-2E3E-47CD-A9B8-0C77B8D6C9C5"
     }
   ],
   "name": "About Us remix Copy",

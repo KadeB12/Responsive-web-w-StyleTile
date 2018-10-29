@@ -18,8 +18,8 @@
     "constrainProportions": true,
     "height": 33,
     "width": 33,
-    "x": 0,
-    "y": 4
+    "x": 13,
+    "y": 14
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -91,7 +91,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 0,
         "thickness": 1
       }
@@ -103,9 +103,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 0.8549019607843138,
+          "red": 0.7333333333333333
         },
         "fillType": 0,
         "isEnabled": true,

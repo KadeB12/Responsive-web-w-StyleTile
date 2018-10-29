@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 1,
+            "green": 0.8549019607843138,
+            "red": 0.7333333333333333
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 57,
+        "length": 73,
         "location": 0
       }
     ],
-    "string": "Sub text a sodales libero finibus in. Suspendisse in impe"
+    "string": "Sign up to recieve VCD news and events,  registration reminders and more!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 53,
-    "width": 262,
-    "x": 414,
-    "y": 105
+    "height": 65,
+    "width": 263,
+    "x": 417,
+    "y": 140
   },
-  "glyphBounds": "{{0, 4}, {254, 40}}",
+  "glyphBounds": "{{0, 4}, {234, 59}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sub text a sodales l",
+  "name": "Sign up to recieve V",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,9 +80,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 1,
+          "green": 0.8549019607843138,
+          "red": 0.7333333333333333
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

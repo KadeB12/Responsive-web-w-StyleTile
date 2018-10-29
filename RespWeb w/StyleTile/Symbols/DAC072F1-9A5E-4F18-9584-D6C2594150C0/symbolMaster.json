@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "941B7645-A19D-499C-9F6F-FFCA10783622",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1112,
+  "clippingMaskMode": 0,
+  "do_objectID": "DAC072F1-9A5E-4F18-9584-D6C2594150C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F6DE51B-532E-4567-8F42-CF47524DA4FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACA4B7EA-50FB-4B07-9C1C-8638844E2E76",
+    "height": 900,
+    "width": 1440,
+    "x": 225,
+    "y": -1235
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D81708F3-B816-406E-B63F-25B01236687A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9C80311F-5F7F-456C-94F3-BE66573CC8D7"
+    }
+  ],
+  "name": "Color/BlackBlue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "582A45E8-2B46-446E-BF16-DE1BE7F027B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50AE38AB-42EB-4E72-BCB7-5884F8A8AD5B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6E564D48-83F5-4EE4-9686-659775378CB0",
+    "guides": [
+    ]
+  }
+}

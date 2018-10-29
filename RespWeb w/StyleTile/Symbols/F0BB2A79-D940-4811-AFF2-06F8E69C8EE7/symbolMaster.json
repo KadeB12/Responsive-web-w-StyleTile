@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5F3E5602-8F98-4273-B461-A10E017AA9C3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 988,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0BB2A79-D940-4811-AFF2-06F8E69C8EE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2488D689-4D6B-42E6-9D44-7E612E04C128",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23BE5984-6E13-429B-B567-BEDEA8CD2FE1",
+    "height": 900,
+    "width": 1440,
+    "x": 1765,
+    "y": 1000
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1359EB4F-DE59-4933-97AF-AD92CC544229",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "636A7DFE-D365-4DDE-8925-5A753AFABF73"
+    }
+  ],
+  "name": "Color/Dark Steel Blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1421C1F4-01BE-46D6-B588-47C5C5B5CB9C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B7FFAF9E-052E-46F6-8292-09496229CED2",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2D77FC68-17D3-4ACC-AD96-A21C2C522BBB",
+    "guides": [
+    ]
+  }
+}

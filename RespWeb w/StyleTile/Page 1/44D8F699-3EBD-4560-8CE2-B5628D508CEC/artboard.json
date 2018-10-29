@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9FA005A3-50B0-47DE-9A83-CC21192A6295",
-    "height": 3746,
+    "height": 3620,
     "width": 1440,
     "x": 1530,
     "y": 3215
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,27 +52,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3646D0A0-5116-4193-90D5-3755CB89C586"
-    },
-    {
-      "class": "rectangle",
       "id": "76743C24-0007-4515-B948-9C35572EEC9F"
     },
     {
       "class": "symbolInstance",
       "id": "6D1364C6-883D-442E-B68B-07BC34E7B4AB"
-    },
-    {
-      "class": "rectangle",
-      "id": "005B4131-BBCF-45AD-84A9-4266D20C9BB0"
-    },
-    {
-      "class": "rectangle",
-      "id": "6192F120-2AA8-494F-93C0-8EB533B39D36"
-    },
-    {
-      "class": "rectangle",
-      "id": "B4D881E8-5506-43FE-830D-B5777C2DB77B"
     },
     {
       "class": "text",
@@ -81,6 +65,22 @@
     {
       "class": "text",
       "id": "1E1AFE69-79AC-4F27-A287-B65563C0F265"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0BB53F21-147D-4C60-B3FF-37882F224399"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE9BC519-588D-4FC8-801C-1B8AA7E86ACE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76703262-2B05-4ED3-BF4E-D9F9A70B8D81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62D7D016-D3D0-4438-865D-68F6D447982A"
     },
     {
       "class": "rectangle",
@@ -119,92 +119,16 @@
       "id": "87AB2831-6220-499B-A949-3F0523A2C1E6"
     },
     {
-      "class": "text",
-      "id": "D014106C-D304-4B2B-A989-11D719142EDD"
-    },
-    {
-      "class": "text",
-      "id": "14E4B87E-7A46-43D6-A0C0-7996901753B0"
-    },
-    {
-      "class": "text",
-      "id": "1F770455-30C2-4907-B959-C694D16B301A"
-    },
-    {
-      "class": "rectangle",
-      "id": "BE0981C0-0940-4B10-B30C-4AE860EA33F1"
-    },
-    {
-      "class": "text",
-      "id": "71A6CC3A-4C8C-4A97-BB41-18EF320B1F9B"
-    },
-    {
-      "class": "text",
-      "id": "62EBC3F9-C8CE-4368-8240-7C97962A6A20"
-    },
-    {
-      "class": "text",
-      "id": "671938B5-C609-4CEE-9FFB-AC13C300D249"
-    },
-    {
-      "class": "text",
-      "id": "271E6740-0E16-49FB-8DBA-3B13A811F7B1"
-    },
-    {
-      "class": "text",
-      "id": "C4B21C80-7316-47A9-9445-042D3572DEE4"
-    },
-    {
-      "class": "rectangle",
-      "id": "1B4FF551-ACE5-41AE-9651-50C9B6C6062D"
-    },
-    {
-      "class": "rectangle",
-      "id": "ED92CE73-CF34-4BA0-B802-F5F3FCD11B8C"
-    },
-    {
-      "class": "rectangle",
-      "id": "07D6D5C9-CCC7-48D5-8DA8-D604B0DC5ED3"
-    },
-    {
-      "class": "text",
-      "id": "BE2D3DCC-8A64-4267-9F08-0E2E67237C28"
-    },
-    {
-      "class": "text",
-      "id": "22DEDEEC-FC01-4684-8E10-5BA081C2A27B"
-    },
-    {
-      "class": "text",
-      "id": "B8A76BF1-8650-47C9-9CE4-B00F486EBBE9"
-    },
-    {
-      "class": "text",
-      "id": "425C7AB0-76D2-4638-A183-825DA7CD4754"
-    },
-    {
-      "class": "oval",
-      "id": "31F17E0D-9322-4797-A582-1DAA306BE917"
-    },
-    {
-      "class": "oval",
-      "id": "2F95C554-6095-42D0-9775-7349B09C4C1F"
-    },
-    {
-      "class": "oval",
-      "id": "F97112F1-81D1-4C6A-B4CF-D897C5C25814"
-    },
-    {
-      "class": "oval",
-      "id": "D7F51CE9-BDBC-43DC-966B-AFB0F653149E"
-    },
-    {
-      "class": "text",
-      "id": "E3E9CF6D-AFBF-441C-A05C-3AE8C4B08BD4"
+      "class": "symbolInstance",
+      "id": "A32A4C6B-7EC1-44FB-BEBF-23C686D7E421"
     },
     {
       "class": "symbolInstance",
-      "id": "A32A4C6B-7EC1-44FB-BEBF-23C686D7E421"
+      "id": "5DA3EF1C-597E-4D95-9293-ECA52CF9F156"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BCD1824-5E6B-4C02-8631-DB1C73072B74"
     }
   ],
   "name": "News Article wireframe",

@@ -19,8 +19,8 @@
     "constrainProportions": false,
     "height": 47,
     "width": 263,
-    "x": 424,
-    "y": 169
+    "x": 415,
+    "y": 245
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -93,7 +93,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -105,9 +105,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 0.8549019607843138,
+          "red": 0.7333333333333333
         },
         "fillType": 0,
         "isEnabled": true,

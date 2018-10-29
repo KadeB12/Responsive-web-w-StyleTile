@@ -31,7 +31,7 @@
     "y": 7755
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,10 +52,6 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "464F8B21-8AA4-45B5-A720-0A633BEDE9DB"
-    },
-    {
-      "class": "rectangle",
       "id": "6AB296D0-7005-4A6A-B46D-A03B124DBE62"
     },
     {
@@ -73,10 +69,6 @@
     {
       "class": "text",
       "id": "1DA546F4-6FFF-48D5-8DC4-3058CF3FFE1D"
-    },
-    {
-      "class": "rectangle",
-      "id": "98A66825-EF27-4C8D-961C-E7078FEEBA13"
     },
     {
       "class": "rectangle",
@@ -109,46 +101,6 @@
     {
       "class": "rectangle",
       "id": "4A9A7DC8-B4CC-4E5E-BA1B-3732CB22BBD5"
-    },
-    {
-      "class": "text",
-      "id": "0CD9DFBB-8E61-4ED5-AE83-6A2237B78BC5"
-    },
-    {
-      "class": "rectangle",
-      "id": "8FC17FE9-99ED-45A4-ABDD-CCC8146DFC0F"
-    },
-    {
-      "class": "text",
-      "id": "558323B0-96E8-4901-BAC9-D9CA6AE48493"
-    },
-    {
-      "class": "text",
-      "id": "D57672B9-8B3D-4303-BE95-325B8E5A2544"
-    },
-    {
-      "class": "text",
-      "id": "4B8403E2-1E40-4082-84BB-E52D739DB243"
-    },
-    {
-      "class": "text",
-      "id": "DB63E394-5776-4DFF-A0B9-47A41CA0CB53"
-    },
-    {
-      "class": "text",
-      "id": "CA0A0964-00E6-458B-90BF-89CB6218E8A9"
-    },
-    {
-      "class": "text",
-      "id": "3C82EDE5-0305-4996-874B-089E0AB6D259"
-    },
-    {
-      "class": "rectangle",
-      "id": "2550BC1A-1C02-42AB-893E-0D3F64DB9470"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1D47B8ED-631B-4BE2-91B8-EA2E16311B6F"
     },
     {
       "class": "rectangle",
@@ -185,6 +137,14 @@
     {
       "class": "oval",
       "id": "4B7641BD-73C0-41AD-A8A1-001F9C5BABD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "161D62E4-764F-4C35-8189-745BE5EAC68C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF881BA7-F981-443E-A3F8-663865323E00"
     },
     {
       "class": "rectangle",
@@ -236,15 +196,15 @@
     },
     {
       "class": "rectangle",
-      "id": "F86003A2-47B6-4DF5-A9BD-C382171311AF"
-    },
-    {
-      "class": "rectangle",
       "id": "7FD1A323-08DA-4C93-8DF5-DB68DC72AA5F"
     },
     {
       "class": "text",
       "id": "D0600540-3DAA-41E3-8D6C-00BB241AE629"
+    },
+    {
+      "class": "rectangle",
+      "id": "B8E5169B-F6A6-4F33-B7A1-69F71686C9C6"
     }
   ],
   "name": "Gallery works info page",

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6AD22C05-0E3F-4799-9DC4-72C19C6A08BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82AA9F72-FB34-45A3-9931-EB6B4A69143B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE0A0883-5550-43DE-948A-F4AC2D3CCF69",
+    "height": 528,
+    "width": 528,
+    "x": 745,
+    "y": 2016
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/DirectoryEntry Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E29B9C7F-48D3-4966-A846-4724FBDDD531",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "13B8D2DE-B679-450E-8439-6F4031F9826A",
+  "verticalSpacing": 0
+}

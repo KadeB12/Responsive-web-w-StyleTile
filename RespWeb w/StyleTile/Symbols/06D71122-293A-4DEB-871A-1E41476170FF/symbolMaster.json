@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 33478,
   "clippingMaskMode": 0,
   "do_objectID": "06D71122-293A-4DEB-871A-1E41476170FF",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -61,20 +61,12 @@
       "id": "5831D68E-0844-46DD-9507-2A4F4EA267C5"
     },
     {
-      "class": "rectangle",
-      "id": "2D12D1DE-1BA3-4589-977C-1DB7B0EE3CB9"
+      "class": "shapeGroup",
+      "id": "1D869E7C-735C-432D-A93F-86B31B17271E"
     },
     {
-      "class": "rectangle",
-      "id": "34E33488-ACD0-4620-8643-6537AFF56F00"
-    },
-    {
-      "class": "rectangle",
-      "id": "125AD41C-9C6C-426E-8227-DCD09F29AB91"
-    },
-    {
-      "class": "text",
-      "id": "28F6A0D0-F8E5-4CAC-8651-82C582C39B13"
+      "class": "shapeGroup",
+      "id": "397D11A2-9A24-49E8-99DE-C93F481812EA"
     },
     {
       "class": "rectangle",
@@ -91,6 +83,10 @@
     {
       "class": "rectangle",
       "id": "22DAF14B-DB9C-435D-B3BD-6074F88CE5AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19AF2DAD-668D-4CBC-899E-60F3B81F5725"
     }
   ],
   "name": "Molecule/ Carousel 1",

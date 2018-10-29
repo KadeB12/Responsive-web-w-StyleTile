@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 5,
+  "changeIdentifier": 3819,
   "clippingMaskMode": 0,
   "do_objectID": "97F00A3D-A816-4965-80EC-BA8E79BEEC58",
   "exportOptions": {
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -55,10 +55,6 @@
     {
       "class": "text",
       "id": "82B4F493-99F7-4FA9-ADD8-27C784B8291A"
-    },
-    {
-      "class": "rectangle",
-      "id": "0DC4FF75-5232-462F-A54B-35D9F919D383"
     },
     {
       "class": "text",
@@ -78,10 +74,6 @@
     },
     {
       "class": "text",
-      "id": "EB087802-559D-43EC-A7C3-F9059B6CAA83"
-    },
-    {
-      "class": "text",
       "id": "1A871632-53B8-4AB2-A0DD-8BD21089C5BD"
     },
     {
@@ -91,6 +83,10 @@
     {
       "class": "rectangle",
       "id": "2672755B-2C43-4CB5-8D64-F1151F903A9F"
+    },
+    {
+      "class": "text",
+      "id": "994EA155-A6E9-459A-B3A9-26B0EDF759A1"
     }
   ],
   "name": "Molecule/ Navigation.Bar",
