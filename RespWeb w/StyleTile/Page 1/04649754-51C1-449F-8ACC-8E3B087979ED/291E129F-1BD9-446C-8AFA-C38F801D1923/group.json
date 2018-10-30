@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "291E129F-1BD9-446C-8AFA-C38F801D1923",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 383,
+    "width": 382,
+    "x": 964,
+    "y": 1805
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5F26C668-EBCF-47F2-A7B7-2F8DF50AE363"
+    },
+    {
+      "class": "text",
+      "id": "296A815F-A42B-4BAE-B3D5-17B4BC97DB4E"
+    },
+    {
+      "class": "rectangle",
+      "id": "20529591-563B-45E9-BC1C-67DFACFC23EF"
+    },
+    {
+      "class": "oval",
+      "id": "45728D83-679A-47E7-A4B1-78B1A7DA4BD6"
+    },
+    {
+      "class": "text",
+      "id": "097B9764-2799-47B5-9E8E-B0E452C7B5A2"
+    }
+  ],
+  "name": "Molecule/InstaPost",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

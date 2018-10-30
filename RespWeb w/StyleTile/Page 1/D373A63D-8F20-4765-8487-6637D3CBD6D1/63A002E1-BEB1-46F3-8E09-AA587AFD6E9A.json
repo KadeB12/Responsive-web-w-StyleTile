@@ -21,8 +21,8 @@
     "do_objectID": "47FB8599-79F2-4A60-9101-5EEEBBF88EAC",
     "height": 480,
     "width": 478,
-    "x": 93,
-    "y": 1767
+    "x": 94,
+    "y": 1764
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -112,7 +112,12 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/ad6f475988a0e6738017e10a63601edbfad6d631.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,19 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://www.kent.edu/sites/default/files/styles/normal_banner/public/article/BFA%20Show_2016.jpg?itok=SRJzndeg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
   }
 }

@@ -173,6 +173,14 @@
     {
       "class": "rectangle",
       "id": "20BED614-F68B-4288-BE4E-04732ABBC79B"
+    },
+    {
+      "class": "text",
+      "id": "9DA850E7-80A4-4F7B-8B5C-03065684819A"
+    },
+    {
+      "class": "text",
+      "id": "9851B5F3-81BE-489A-B392-340951C7A165"
     }
   ],
   "name": "Online Gallery wireframe Copy",

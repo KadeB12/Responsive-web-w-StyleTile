@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "445331FA-E3E3-4EBC-841F-AC145983A392",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF0B6E45-D398-4FC9-9723-FBDCE6FDAF44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1629D16-EEEE-4A2C-A35F-FF37DA50ACFD",
+    "height": 900,
+    "width": 1440,
+    "x": 0,
+    "y": 1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color/Steel Blue Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC75260C-0F9A-4648-8AC9-A233CADF0AD3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "50AE38AB-42EB-4E72-BCB7-5884F8A8AD5B",
+  "verticalSpacing": 0
+}

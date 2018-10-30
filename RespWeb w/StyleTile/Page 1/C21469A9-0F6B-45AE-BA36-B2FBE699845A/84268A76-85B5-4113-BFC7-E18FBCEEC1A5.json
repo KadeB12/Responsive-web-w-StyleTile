@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "84268A76-85B5-4113-BFC7-E18FBCEEC1A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19F8F48D-5E0E-43EC-9F8E-B984D349AD4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4133156F-7829-468B-8302-2EEE4D0C4E6B",
+    "height": 94,
+    "width": 1440,
+    "x": 0,
+    "y": 67
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/ Navigation.Bar Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F23FA32-F118-4A23-A76B-F1EA3DD2BFCF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B6141007-E5C5-428B-8490-01D23BD1FB88",
+  "verticalSpacing": 0
+}

@@ -99,6 +99,22 @@
     {
       "class": "shapePath",
       "id": "D02D0103-BBAE-4F05-940C-A690B3E225E3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1FEA0A06-2547-4C2A-9524-EBD1205B08DE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D5B766C3-BB6C-4017-B523-5950263D4EFE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "880FF16D-F838-465C-BCB7-D88816899A09"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1A3A7F07-BF7D-4E81-BDE7-B67C7F4E62B4"
     }
   ],
   "name": "Symbols",

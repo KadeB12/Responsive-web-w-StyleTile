@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 303,
+        "length": 231,
         "location": 0
       }
     ],
-    "string": "r sit amet, consectetur adipiscing elit. Cras molestie ligula non velit eleifend imperdiet. Praesent aliquet, tortor sit amet \n\nfeugiat fermentum, enim dolouis varius.e vehicula metus at pretium pulvinar. Aenean ullamcorper tortor ut justo suscipit tincidunt. Ut consequat dignissim nulla a scelerisque."
+    "string": "Description of work and process involved in creating it elit. Cras molestie ligula non velit eleifend imperdiet. Praesent aliquet, tortor sit \n\nfeugiat fermentum, enim dolcipit tincidunt. Ut consequat dignissim nulla a scelerisque."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 179,
     "width": 797,
     "x": 322,
-    "y": 1295
+    "y": 1262
   },
-  "glyphBounds": "{{27, 5}, {741, 175}}",
+  "glyphBounds": "{{5, 5}, {787, 145}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "r sit amet, consecte",
+  "name": "Description of work",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -37,6 +37,9 @@
     "Symbols"
   ],
   "userInfo": {
+    "com.invisionlabs.getty1": {
+      "ids": "[{\"id\":\"895933872\",\"layerId\":\"61401A1F-0DDE-4ABB-9DC5-3EF3CBF971A6\"}]"
+    },
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
     }

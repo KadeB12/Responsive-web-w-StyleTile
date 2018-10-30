@@ -31,7 +31,7 @@
     "y": 15973
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,148 +51,36 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "BFE20587-9DE7-40F8-A0EA-1D0D585A896F"
+      "class": "symbolInstance",
+      "id": "B9566E19-2F86-40E4-BBCA-03A9AA790CD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51A68AE5-B8E4-4B00-B749-ED17A88A623C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE02DE10-A106-4CA3-AAFB-D47A2196E96C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D4520D2-7904-48C1-B916-304FFA5EEC19"
     },
     {
       "class": "rectangle",
-      "id": "AE6A60C9-5A27-44FB-B9C0-E6EAFF0F45C6"
+      "id": "4D35E433-74B8-4F9F-972B-7F85D0DD5509"
     },
     {
       "class": "rectangle",
-      "id": "EEF9A189-916B-46C5-B2B6-A675BD27ED47"
+      "id": "DE910145-2CF5-4A6D-AEAE-718ABEB4E67D"
     },
     {
-      "class": "bitmap",
-      "id": "AAC55879-D540-49FB-8CE5-73252C9E1D2D"
+      "class": "symbolInstance",
+      "id": "84268A76-85B5-4113-BFC7-E18FBCEEC1A5"
     },
     {
-      "class": "rectangle",
-      "id": "1FA6958E-144B-42EA-86F1-4EEFC590A831"
-    },
-    {
-      "class": "rectangle",
-      "id": "EBD0910E-3725-49F4-93EC-F1F33863B101"
-    },
-    {
-      "class": "bitmap",
-      "id": "C2EB61A3-E1EF-43F5-A80A-DB37A79DE99D"
-    },
-    {
-      "class": "rectangle",
-      "id": "A5BAB80C-CADB-4028-994B-449416AD4110"
-    },
-    {
-      "class": "rectangle",
-      "id": "DD300FBC-003B-4583-B911-44AAEC45418A"
-    },
-    {
-      "class": "text",
-      "id": "E61FFC79-EE3C-4C53-8BBC-C3ABD0F66DC4"
-    },
-    {
-      "class": "text",
-      "id": "21CA2A6C-56F6-49D5-906F-DADD03A40CF6"
-    },
-    {
-      "class": "text",
-      "id": "161D7596-757B-41D2-9ED5-FD93CDB8C940"
-    },
-    {
-      "class": "text",
-      "id": "EBDE0EBE-7D1D-4BFF-A316-CC40A1C6B6C2"
-    },
-    {
-      "class": "text",
-      "id": "69E49878-555E-4815-9509-A77326F64F53"
-    },
-    {
-      "class": "rectangle",
-      "id": "A0A78CF2-20B3-4066-A056-A94A3A324DCB"
-    },
-    {
-      "class": "rectangle",
-      "id": "8AC2E275-2A85-4D35-AEB0-8E83E2263928"
-    },
-    {
-      "class": "rectangle",
-      "id": "43603098-C435-4180-9411-4B984AC44FF2"
-    },
-    {
-      "class": "text",
-      "id": "D0811D6E-AD7D-4070-AFD6-FCFBDCF22A91"
-    },
-    {
-      "class": "text",
-      "id": "369F0CD8-C23E-4643-B6B3-6BAE68DD67E4"
-    },
-    {
-      "class": "text",
-      "id": "5D6C5454-BF9C-4090-A1F1-25A634D2FC4F"
-    },
-    {
-      "class": "text",
-      "id": "4064DEFC-B579-418A-AB45-650CF9FFD8CC"
-    },
-    {
-      "class": "oval",
-      "id": "1B7B0973-62DF-4163-8E5B-5F22F0800158"
-    },
-    {
-      "class": "oval",
-      "id": "0B558743-BCAE-4DE1-A93E-4DD1B9F2C66D"
-    },
-    {
-      "class": "oval",
-      "id": "FD15BB6D-F37D-414C-B064-2AA081FB34E4"
-    },
-    {
-      "class": "oval",
-      "id": "2B9699C8-AFFE-4C31-9B86-3C99ED78FA7B"
-    },
-    {
-      "class": "rectangle",
-      "id": "71428993-CB5B-4FC0-A361-E7C5A897BF27"
-    },
-    {
-      "class": "text",
-      "id": "6E248137-8993-47D9-9D5C-110E3E7C1D46"
-    },
-    {
-      "class": "rectangle",
-      "id": "AAF79A3D-969E-4EF3-80FA-C58B5B1D2A0A"
-    },
-    {
-      "class": "text",
-      "id": "C1215F15-EBEF-4C09-A094-D054C495A469"
-    },
-    {
-      "class": "text",
-      "id": "69EF7B81-4A14-4AD7-9BC8-CBEB7B7A73CF"
-    },
-    {
-      "class": "text",
-      "id": "3F8F5945-B663-41C4-BC28-0B5EDA257A2A"
-    },
-    {
-      "class": "text",
-      "id": "DBFB28CD-C221-4C63-94AC-182427BBB071"
-    },
-    {
-      "class": "text",
-      "id": "857C720E-DC84-4AE8-8598-007A3B13B4DE"
-    },
-    {
-      "class": "text",
-      "id": "317C15A7-668A-41B1-B098-A5AA4FA0B3A4"
-    },
-    {
-      "class": "rectangle",
-      "id": "37993553-CF48-42AC-8543-7805E59B2FD5"
-    },
-    {
-      "class": "rectangle",
-      "id": "F8E072CF-7EDB-4FCA-866A-330EA59F584A"
+      "class": "symbolInstance",
+      "id": "9152585F-0D97-4E03-9A00-60E4481CE5E3"
     },
     {
       "class": "text",
@@ -219,12 +107,12 @@
       "id": "2A914EBA-A732-453B-8E24-685015F3D42A"
     },
     {
-      "class": "rectangle",
-      "id": "540D4D3E-296F-4492-A209-D0D770DDF77B"
+      "class": "symbolInstance",
+      "id": "9668FA11-E858-4980-879A-5E94B2FE4B3A"
     },
     {
-      "class": "rectangle",
-      "id": "60D150CA-FA53-4776-A30E-32ABB568E990"
+      "class": "symbolInstance",
+      "id": "61E14861-8D2C-4160-A39D-F59905CE43D4"
     },
     {
       "class": "text",
@@ -251,12 +139,12 @@
       "id": "140463A3-F712-42B9-A009-D7D52A1BF068"
     },
     {
-      "class": "rectangle",
-      "id": "FCCE4A55-BD82-4674-BDD8-FDBE2010F4FC"
+      "class": "symbolInstance",
+      "id": "D21585E9-BFA1-445F-A251-F2FAD94F0036"
     },
     {
-      "class": "rectangle",
-      "id": "BC35BDA8-EB1D-44EC-9603-184CA94CCA04"
+      "class": "symbolInstance",
+      "id": "E9F5EE29-6117-4EFC-8DFC-D0D679A07553"
     }
   ],
   "name": "Program Statistics Wireframe",

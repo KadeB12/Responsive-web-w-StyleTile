@@ -19,10 +19,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BA6E802C-22E5-44F4-B790-0FE053E7027D",
-    "height": 298,
-    "width": 313,
-    "x": 88,
-    "y": 1014
+    "height": 318,
+    "width": 336,
+    "x": 52,
+    "y": 977
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -112,7 +112,12 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/370ab6b2d84c88731fff97fe500006d7b80eceb2.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,27 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://sites.ewu.edu/downtowngallery/files/2018/05/dontbeanass.png",
+            "type": "src"
+          },
+          {
+            "link": "https://sites.ewu.edu/downtowngallery/files/2018/05/Cool-Canine.png",
+            "type": "src"
+          },
+          {
+            "link": "https://sites.ewu.edu/downtowngallery/files/2018/05/20180529_180412.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
   }
 }

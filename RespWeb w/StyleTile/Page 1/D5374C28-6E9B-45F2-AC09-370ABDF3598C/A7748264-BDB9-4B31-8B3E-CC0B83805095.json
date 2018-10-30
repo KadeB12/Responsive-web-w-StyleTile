@@ -22,7 +22,7 @@
     "height": 768,
     "width": 769,
     "x": 100,
-    "y": 3046
+    "y": 3044
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5843137254901961,
-          "green": 0.3450980392156863,
-          "red": 0.1450980392156863
+          "blue": 0.6705882352941176,
+          "green": 0.5647058823529412,
+          "red": 0.4784313725490196
         },
         "fillType": 0,
         "isEnabled": true,

@@ -112,7 +112,12 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/e471b9fe373c48cf229a5b60456ec22f7c6315d9.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,35 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://www.cheneyfreepress.com/home/customer_files/images/publication_family/cheney_free_press.png",
+            "type": "src"
+          },
+          {
+            "link": "https://www.cheneyfreepress.com/home/customer_files/images/publication_family/ritzville_adams_county_journal.png",
+            "type": "src"
+          },
+          {
+            "link": "https://www.cheneyfreepress.com/home/customer_files/images/publication_family/davenport_times.png",
+            "type": "src"
+          },
+          {
+            "link": "https://www.cheneyfreepress.com/home/customer_files/images/publication_family/spokane_valley_news_herald.png",
+            "type": "src"
+          },
+          {
+            "link": "https://www.cheneyfreepress.com/home/cms_data/dfault/photos/stories/id/4/8/18648/.TEMP/s_topTEMP425x425-1195.jpeg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
   }
 }

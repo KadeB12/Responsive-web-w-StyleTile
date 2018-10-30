@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "EWU VCD Online Gallery"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 171,
     "width": 515,
     "x": 203,
-    "y": 1233
+    "y": 1180
   },
-  "glyphBounds": "{{3, 12}, {158, 37}}",
+  "glyphBounds": "{{2, 11}, {383, 107}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header Copy",
+  "name": "EWU VCD Online Galle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

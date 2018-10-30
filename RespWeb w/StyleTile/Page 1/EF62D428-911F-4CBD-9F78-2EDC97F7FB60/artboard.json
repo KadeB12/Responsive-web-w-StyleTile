@@ -31,7 +31,7 @@
     "y": 3626
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,84 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "09B944D4-2B7B-4462-8C26-82863AB9546E"
-    },
-    {
-      "class": "rectangle",
-      "id": "4B8B8706-2CFC-41A7-93C6-69EDCF0D3DF6"
-    },
-    {
-      "class": "rectangle",
-      "id": "760DD657-A072-4000-96FF-AACCE8038912"
-    },
-    {
-      "class": "text",
-      "id": "BEFA4462-0E8A-4B28-ADCB-2485644F8EE8"
-    },
-    {
-      "class": "text",
-      "id": "98430E82-E3A6-4FFA-99C1-72A139567717"
-    },
-    {
-      "class": "text",
-      "id": "10BC8F62-C415-4AC3-8C72-1DE4FBE7E68E"
-    },
-    {
-      "class": "text",
-      "id": "EEC47AAD-B6A4-45F9-8F2F-C9A8469592BA"
-    },
-    {
-      "class": "text",
-      "id": "73E00B2A-2115-4AB5-9280-DFE2D61A85D0"
-    },
-    {
-      "class": "rectangle",
-      "id": "B3DBA802-E00A-4240-BAE7-89497FF4E9AE"
-    },
-    {
-      "class": "rectangle",
-      "id": "F9533A15-CABE-4C2A-8EF0-786A5383CE4C"
-    },
-    {
-      "class": "rectangle",
-      "id": "751943AF-DE9D-4D34-B173-6612CF596AF1"
-    },
-    {
-      "class": "text",
-      "id": "304CD072-4B21-425D-9675-03C35BFB16A6"
-    },
-    {
-      "class": "text",
-      "id": "3A4D830F-ED0C-444E-9EDA-AAA7E37A3A2B"
-    },
-    {
-      "class": "text",
-      "id": "DD7576CF-3C22-4810-8075-59E117614091"
-    },
-    {
-      "class": "text",
-      "id": "A6BE37AA-C7BE-4E5B-96A5-DCC1D1CB9F8E"
+      "class": "symbolInstance",
+      "id": "A80C2525-A8F8-4549-9BDB-D26E01F49439"
     },
     {
       "class": "symbolInstance",
       "id": "82787CC5-9045-484A-A449-DD878D3EB901"
-    },
-    {
-      "class": "oval",
-      "id": "33CD623D-497D-47F8-A2E8-B71CE1DCFE69"
-    },
-    {
-      "class": "oval",
-      "id": "30CB1795-4856-43E4-B62B-420BAA44A41E"
-    },
-    {
-      "class": "oval",
-      "id": "E6D848F8-4AF5-44A3-9D1B-3272957E2C03"
-    },
-    {
-      "class": "oval",
-      "id": "B7216B0A-AF07-4BDF-80A6-0103B9FDDB0F"
     },
     {
       "class": "rectangle",
@@ -253,6 +181,14 @@
     {
       "class": "text",
       "id": "3EC362E5-FB8E-49DF-8B24-BCD14386008E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD01757E-2DBD-42BD-BA75-5C1107A42EC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE14CFFA-5506-48E5-BA67-0DF695086D37"
     }
   ],
   "name": "Facilities info",

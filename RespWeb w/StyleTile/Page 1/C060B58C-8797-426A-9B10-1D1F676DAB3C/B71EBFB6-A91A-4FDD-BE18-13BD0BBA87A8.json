@@ -22,15 +22,15 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 311,
         "location": 0
       }
     ],
-    "string": "Bio and Basic Info"
+    "string": "Bio and Basic Info Suspendisse in imperdiet ante, ac ulla neque, vitae ele justo sagittis, Suspendisse in imperdiet \n\nante, ac ulla neque, vitae ele justo sagittis, Suspendisse in imperdiet ante, ac ulla neque, vitae ele justo sagittis, \n\nSuspendisse in imperdiet ante, ac ulla neque, vitae ele justo sagittis, "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4527C723-475C-43E4-9F00-0119D4EFBE72",
-    "height": 75,
-    "width": 815,
-    "x": 313,
-    "y": 334
+    "height": 316,
+    "width": 480,
+    "x": 911,
+    "y": 581
   },
-  "glyphBounds": "{{308, 5}, {200, 20}}",
+  "glyphBounds": "{{-1, 5}, {469, 295}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Bio and Basic Info",
+  "name": "Bio and Basic Info S",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -97,7 +97,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

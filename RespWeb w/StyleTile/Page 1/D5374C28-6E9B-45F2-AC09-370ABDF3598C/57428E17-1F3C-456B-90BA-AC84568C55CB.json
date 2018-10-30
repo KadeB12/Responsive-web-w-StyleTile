@@ -20,15 +20,15 @@
     "constrainProportions": false,
     "do_objectID": "F98FD883-2CA6-4C4D-B970-89008F0ED667",
     "height": 611,
-    "width": 461,
-    "x": 117,
-    "y": 1054
+    "width": 473,
+    "x": 105,
+    "y": 1058
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
+  "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
@@ -112,7 +112,12 @@
           "green": 0.8225180697278912,
           "red": 0.8225180697278912
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/bd3766067abbbf675a13f2aeaa0364dc769ed750.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,19 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://annejacksonstylist.files.wordpress.com/2014/01/jeremy18.jpg?w=648&h=456",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
   }
 }

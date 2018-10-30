@@ -31,7 +31,7 @@
     "y": 11360
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,28 +51,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "D90C1219-1ACC-4454-BFE0-E95C3FDCE073"
+      "class": "symbolInstance",
+      "id": "F5D973E7-A411-4FF4-8793-76DE296B3448"
     },
     {
-      "class": "rectangle",
-      "id": "84FB72F4-9E15-4D72-9449-A104E6268823"
+      "class": "symbolInstance",
+      "id": "393C9E40-3E7F-4CEF-8AD5-080E1B245A20"
     },
     {
-      "class": "rectangle",
-      "id": "EAAB9E13-3F22-4C22-B77F-860CC564B743"
+      "class": "symbolInstance",
+      "id": "FC4BE7DF-16AD-44B8-BEB0-0D5821F22BF1"
     },
     {
-      "class": "bitmap",
-      "id": "58A6B819-45D5-412F-8269-E671A2D0A2EC"
-    },
-    {
-      "class": "rectangle",
-      "id": "12576025-762D-4613-90F6-AB433DC4E69B"
-    },
-    {
-      "class": "rectangle",
-      "id": "442D6927-8990-4DDF-A73B-E53D6EC0620B"
+      "class": "symbolInstance",
+      "id": "D67D48F1-60AA-4114-AE88-06640F014022"
     },
     {
       "class": "text",
@@ -123,82 +115,6 @@
       "id": "CFC97C31-FA3A-4056-89B0-9D248C125948"
     },
     {
-      "class": "bitmap",
-      "id": "A30295D0-006E-4388-B347-709ED9D65911"
-    },
-    {
-      "class": "rectangle",
-      "id": "3DE718F3-2133-46D2-B00A-1B0BFD7C9438"
-    },
-    {
-      "class": "rectangle",
-      "id": "113BF620-07C8-4608-A64C-52EF90526F72"
-    },
-    {
-      "class": "text",
-      "id": "B03D8860-EB4B-45C7-9F30-7C608E3FAF48"
-    },
-    {
-      "class": "text",
-      "id": "FC6D79D8-B6D4-4DE9-8219-0180A4893D26"
-    },
-    {
-      "class": "text",
-      "id": "B226096D-5AFD-49DA-937C-C5EA67F089E8"
-    },
-    {
-      "class": "text",
-      "id": "A95CECCF-6FD6-4193-AE68-743591A0CF82"
-    },
-    {
-      "class": "text",
-      "id": "FB4FDA4F-70AC-40E6-A99C-0E610AB1CE05"
-    },
-    {
-      "class": "rectangle",
-      "id": "953B7A1D-ED9C-414C-A77F-3E72BA64F797"
-    },
-    {
-      "class": "rectangle",
-      "id": "1022AD99-F9FE-4850-A044-1E6D58DEC709"
-    },
-    {
-      "class": "rectangle",
-      "id": "EE4BBDFE-27E8-46E6-A95B-FCB01D4B86B6"
-    },
-    {
-      "class": "text",
-      "id": "F1DD24E3-36F9-4F59-AD2A-98250D430DC5"
-    },
-    {
-      "class": "text",
-      "id": "37780AD4-582D-4409-8A37-622EED6BD315"
-    },
-    {
-      "class": "text",
-      "id": "C9CC7DC5-BF35-45A5-BAF1-8A781146B556"
-    },
-    {
-      "class": "text",
-      "id": "0DB0DC62-E2BC-43BD-A94C-C32BD117B292"
-    },
-    {
-      "class": "oval",
-      "id": "7691C197-E4FF-45AA-A30C-92A4D5ABD76A"
-    },
-    {
-      "class": "oval",
-      "id": "DC5FC3F3-B20A-464E-B830-4E1586CE51A7"
-    },
-    {
-      "class": "oval",
-      "id": "7D378C9F-9C97-4C69-A74D-7015CC277FCF"
-    },
-    {
-      "class": "oval",
-      "id": "68A4A780-C3A0-466B-AB7F-1258B825F629"
-    },
-    {
       "class": "rectangle",
       "id": "3661A2CF-B72E-4FF8-8B36-6AAAD4074728"
     },
@@ -243,20 +159,28 @@
       "id": "D2C6DD76-D854-4155-BE47-C37A0E8B1A38"
     },
     {
-      "class": "rectangle",
-      "id": "8EC20340-FF07-4D96-A95C-B5373A3EB90F"
+      "class": "symbolInstance",
+      "id": "2C1D0D7E-3898-4DA6-B11C-E0A7FBEAC7E3"
     },
     {
-      "class": "rectangle",
-      "id": "03808670-DE3F-4649-B7E6-3E7507AFADD6"
+      "class": "symbolInstance",
+      "id": "61803B61-967D-4B7B-B50F-C45628523323"
     },
     {
-      "class": "rectangle",
-      "id": "991D23ED-23BC-4B57-8C5A-69CDA9B1C637"
+      "class": "symbolInstance",
+      "id": "0A092F07-5CDF-42CB-B2FF-88CC485AD00F"
     },
     {
-      "class": "rectangle",
-      "id": "5F1E2CDF-8E68-4C9E-A4D7-B35BE4E0D91F"
+      "class": "symbolInstance",
+      "id": "8C94AD6D-0414-480F-9BAC-5DFAE0A673D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "997C0B3B-4335-4FBD-935F-9FAB4198760B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "905378DD-B48E-40AA-A952-6F9CCA5BEE83"
     }
   ],
   "name": "Program Statistics Wireframe Copy",

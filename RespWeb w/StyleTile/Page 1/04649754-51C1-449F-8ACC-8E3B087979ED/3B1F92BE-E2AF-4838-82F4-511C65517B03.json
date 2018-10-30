@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 61,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "Anouncements Header\ns, a sodales libero finibus in. Suspendis"
+    "string": "Anouncements Header\nOr Recent News story"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "33D1B208-344F-4AD3-B552-F871313CAF89",
-    "height": 106,
-    "width": 358,
-    "x": 447,
-    "y": 1011
+    "height": 100,
+    "width": 384,
+    "x": 437,
+    "y": 987
   },
-  "glyphBounds": "{{-1, 6}, {340, 82}}",
+  "glyphBounds": "{{-1, 6}, {277, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 43,
         "location": 0
       }
     ],
-    "string": "SOcial Media "
+    "string": "Social Media Feed:  See Whats Happening Now"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "4C6E962B-EECD-420D-AE6C-2BA53AA4E85C",
-    "height": 75,
-    "width": 247,
-    "x": 992,
-    "y": 994
+    "height": 87,
+    "width": 384,
+    "x": 971,
+    "y": 941
   },
-  "glyphBounds": "{{1, 6}, {204, 24}}",
+  "glyphBounds": "{{-1, 6}, {363, 68}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SOcial Media",
+  "name": "Social Media Feed: S",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

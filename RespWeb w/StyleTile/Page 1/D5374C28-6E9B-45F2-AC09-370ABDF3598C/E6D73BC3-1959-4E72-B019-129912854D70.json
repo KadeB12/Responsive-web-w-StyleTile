@@ -21,8 +21,8 @@
     "do_objectID": "E2D06C8C-3268-42E6-8985-52AB69DF13FC",
     "height": 611,
     "width": 478,
-    "x": 872,
-    "y": 3045
+    "x": 869,
+    "y": 3046
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -112,7 +112,12 @@
           "green": 0.8225180697278912,
           "red": 0.8225180697278912
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/032df0cee41ed62ccde931b7d16634755f1b78f9.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,23 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://sites.ewu.edu/downtowngallery/files/2017/09/Screen-Shot-2017-09-12-at-9.44.44-PM-1.png",
+            "type": "src"
+          },
+          {
+            "link": "https://sites.ewu.edu/downtowngallery/files/2018/03/IMG_6046.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
   }
 }

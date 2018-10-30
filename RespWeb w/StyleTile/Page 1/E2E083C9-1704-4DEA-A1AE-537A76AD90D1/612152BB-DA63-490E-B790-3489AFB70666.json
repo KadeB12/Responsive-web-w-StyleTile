@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": "Other Works"
+    "string": "Other Works By This Designer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "40041598-2A48-4343-899B-15D772F282D1",
     "height": 105,
-    "width": 392,
-    "x": 524,
+    "width": 743,
+    "x": 349,
     "y": 1562
   },
-  "glyphBounds": "{{47, 13}, {299, 42}}",
+  "glyphBounds": "{{9, 13}, {726, 52}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Other Works",
+  "name": "Other Works By This",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

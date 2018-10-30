@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 7,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A3A7F07-BF7D-4E81-BDE7-B67C7F4E62B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 388,
+    "width": 354,
+    "x": 6359,
+    "y": -1235
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "FEFB5592-D441-41CA-86F4-6554AA36D0E8"
+    },
+    {
+      "class": "shapePath",
+      "id": "041A57F2-E7A8-4CEC-9176-7404975BB25B"
+    },
+    {
+      "class": "text",
+      "id": "D4886ABA-413E-4BF2-9122-3FA8D2B092EF"
+    },
+    {
+      "class": "rectangle",
+      "id": "9569A2DF-BCFD-4B3E-8904-1FE875A52C45"
+    },
+    {
+      "class": "text",
+      "id": "0E2E689D-DD86-4C63-935B-BDEBF8AF695E"
+    },
+    {
+      "class": "text",
+      "id": "168FDE40-4BCE-4842-95D6-FFC49F25A32C"
+    },
+    {
+      "class": "rectangle",
+      "id": "F82F21B0-F10D-491D-A146-82D51F570262"
+    },
+    {
+      "class": "text",
+      "id": "A2DD2572-D0CD-4854-9678-304E7E737C1E"
+    },
+    {
+      "class": "text",
+      "id": "D822FE63-2B03-4C23-9A0E-1B910D9BC21C"
+    },
+    {
+      "class": "text",
+      "id": "7630B8DE-7334-43DE-ACE9-4FB4594B4110"
+    },
+    {
+      "class": "text",
+      "id": "80DC567B-798B-4DBF-A897-752DB698EAAB"
+    }
+  ],
+  "name": "Molecule/FBPost",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "835532F3-ED61-40B3-81EF-1DEE0CC67F9A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

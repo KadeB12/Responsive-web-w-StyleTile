@@ -22,15 +22,15 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "SOcial Media "
+    "string": "Facebook"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,10 +53,10 @@
     "do_objectID": "05AED498-847B-4CB8-A1E9-F8C4C1E8E1F9",
     "height": 75,
     "width": 247,
-    "x": 992,
-    "y": 2135
+    "x": 1020,
+    "y": 2158
   },
-  "glyphBounds": "{{1, 6}, {204, 24}}",
+  "glyphBounds": "{{50, 8}, {148, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SOcial Media Copy",
+  "name": "Facebook",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -97,7 +97,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

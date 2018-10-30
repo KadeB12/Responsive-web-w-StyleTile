@@ -137,6 +137,10 @@
     {
       "class": "symbolInstance",
       "id": "9E63ED28-0AD1-468D-86B9-B7D1A5A4B57E"
+    },
+    {
+      "class": "text",
+      "id": "193427CC-7822-42D3-8F54-8A2C4056B562"
     }
   ],
   "name": "Profile Directory",

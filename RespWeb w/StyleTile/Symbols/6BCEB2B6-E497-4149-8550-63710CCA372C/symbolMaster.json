@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 9503,
+  "changeIdentifier": 14626,
   "clippingMaskMode": 0,
   "do_objectID": "6BCEB2B6-E497-4149-8550-63710CCA372C",
   "exportOptions": {
@@ -97,28 +97,56 @@
       "id": "C4EE33A5-82C6-418B-BD99-89C711A05601"
     },
     {
-      "class": "oval",
-      "id": "A323890F-B048-407D-8A22-3ABD2D0C2075"
-    },
-    {
-      "class": "oval",
-      "id": "B2338ECC-82C6-4C6D-85B9-146D4276F150"
-    },
-    {
-      "class": "oval",
-      "id": "05A8C2B1-48AB-4786-9D04-B575D48354A0"
-    },
-    {
-      "class": "oval",
-      "id": "6ED2F99F-09CA-45C0-958F-4C297D12398C"
-    },
-    {
-      "class": "bitmap",
-      "id": "A4F3819A-C406-4364-BFA0-2206C88EBDB4"
+      "class": "symbolInstance",
+      "id": "6E40B1DE-2676-4DFE-A279-F1D81ED3DF04"
     },
     {
       "class": "group",
       "id": "EB637B69-B85F-4973-A6FA-9C0386CDECEC"
+    },
+    {
+      "class": "text",
+      "id": "E73C7C6F-84CA-428C-9D8C-2AABBAF79C83"
+    },
+    {
+      "class": "text",
+      "id": "5307F4C2-6F87-490B-B7C5-E7E61519AE60"
+    },
+    {
+      "class": "text",
+      "id": "FB6C9692-737D-47D7-A6E0-A448CB1E2415"
+    },
+    {
+      "class": "text",
+      "id": "0BC5DC6F-04C8-4906-B6C9-6605F01D1239"
+    },
+    {
+      "class": "text",
+      "id": "F1493144-3367-41F7-9AF0-449F973CF359"
+    },
+    {
+      "class": "shapePath",
+      "id": "E58BE68F-E79A-450C-B087-5E3C869C2D61"
+    },
+    {
+      "class": "shapePath",
+      "id": "EDDB013C-5974-4B9C-85EC-96DC2DAF5E34"
+    },
+    {
+      "class": "shapePath",
+      "id": "85F357EA-3C7E-44E4-A037-EAB5AD2211CB"
+    },
+    {
+      "class": "shapePath",
+      "id": "EED0026D-21A6-4349-93C1-9AF6DD8A13E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "B64B0FC5-405F-4758-96D4-D7AE903E46DC"
+    },
+    {
+      "class": "shapePath",
+      "id": "523E8710-EED5-4FFC-AEA9-BD458135889D"
     }
   ],
   "name": "Molecule/ Footer",
