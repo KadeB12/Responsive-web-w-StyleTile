@@ -31,6 +31,12 @@
   "name": "Atom/ Button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7987FDF7-0014-479D-9194-6E99F94B7211",
+      "overrideName": "ACC2B278-9BB8-414C-AF8D-15D7E3B53E0F_stringValue",
+      "value": "COURSES"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

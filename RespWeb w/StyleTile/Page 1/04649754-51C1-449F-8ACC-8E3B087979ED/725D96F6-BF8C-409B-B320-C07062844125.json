@@ -35,12 +35,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "D60CD2F0-7B2F-4661-975C-C2B4C87C34EA",
-      "overrideName": "2D0F6458-F79F-4730-AD90-438BAA3A3A71_symbolID",
-      "value": "B7FFAF9E-052E-46F6-8292-09496229CED2"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "FF14960D-A322-47F4-9746-9C44EE9ED224",
       "overrideName": "F97564F7-6ED3-4AE9-99DF-56CC833BF4CC_stringValue",
       "value": "Main News Story Hedline or Event Name"
@@ -50,6 +44,18 @@
       "do_objectID": "50D38E2D-6890-4558-8CA9-2F5605CB03BF",
       "overrideName": "56111FB9-23F8-4A9F-8B63-7E49024ED493_stringValue",
       "value": "News Story outline or Summary, Event information (place, time ,date etc.) Suspendisse in imperdiet ante, ac ulla neque, vitae ele justo sagittis, "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC974CA4-1064-4D19-B258-498FECBC40B7",
+      "overrideName": "EE098CC8-27C6-4971-8EB1-F4B8C0F50E10/ACC2B278-9BB8-414C-AF8D-15D7E3B53E0F_stringValue",
+      "value": "READ MORE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "797DA50A-1A86-4414-988D-4544F97880E0",
+      "overrideName": "2D0F6458-F79F-4730-AD90-438BAA3A3A71_symbolID",
+      "value": "FEFE1538-461F-4B2B-90A9-B64661B3A15B"
     }
   ],
   "resizingConstraint": 63,

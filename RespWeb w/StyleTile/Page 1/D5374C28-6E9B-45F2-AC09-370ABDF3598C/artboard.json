@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "60176849-986D-46BB-AB21-3ACC47A8D90D",
-    "height": 4750,
+    "height": 4712,
     "width": 1440,
     "x": 3097,
     "y": -29
@@ -75,8 +75,16 @@
       "id": "A7748264-BDB9-4B31-8B3E-CC0B83805095"
     },
     {
+      "class": "rectangle",
+      "id": "EAD095DB-C560-4D58-809E-DEA583C3434F"
+    },
+    {
       "class": "symbolInstance",
       "id": "7E1ACDA4-2E6B-455E-8BE1-3686331A4A98"
+    },
+    {
+      "class": "rectangle",
+      "id": "385837FE-143E-4DA2-A9F4-037C1A5805E9"
     },
     {
       "class": "symbolInstance",
@@ -115,10 +123,6 @@
       "id": "07549F69-3C75-4607-9187-89C0C905D987"
     },
     {
-      "class": "rectangle",
-      "id": "EADB5506-4DB4-4284-BF0A-47C26B9994A9"
-    },
-    {
       "class": "symbolInstance",
       "id": "4E43828A-8041-470D-B829-63E9E827929A"
     },
@@ -137,6 +141,14 @@
     {
       "class": "symbolInstance",
       "id": "7D2485D0-2E3E-47CD-A9B8-0C77B8D6C9C5"
+    },
+    {
+      "class": "rectangle",
+      "id": "C1A5BFFF-D111-4DF7-A2F3-F05488D81AC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD17BC0D-976D-4A52-B787-8DAA2480B5A3"
     }
   ],
   "name": "About Us remix Copy",

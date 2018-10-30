@@ -31,6 +31,12 @@
   "name": "Molecule/DirectoryLink",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CAE0D7F2-A6FC-4509-9459-CCE2B5843C58",
+      "overrideName": "8B0559D1-10A2-4F7A-A245-FBD9AF90C945/ACC2B278-9BB8-414C-AF8D-15D7E3B53E0F_stringValue",
+      "value": "MEET THEM"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

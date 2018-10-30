@@ -91,28 +91,8 @@
       "id": "F82CF361-B241-4FD7-9F6F-E8B3AB20FD34"
     },
     {
-      "class": "rectangle",
-      "id": "7BEED1C7-41E0-4480-9B5E-835BA2F14F9E"
-    },
-    {
-      "class": "text",
-      "id": "30D7ACE0-4E63-4535-B14B-043F17B6C32A"
-    },
-    {
-      "class": "rectangle",
-      "id": "3B6018BF-6739-4E36-9966-F703588D5A65"
-    },
-    {
       "class": "shapePath",
       "id": "958B4D4F-738E-411E-A12B-11D5CD7F40B4"
-    },
-    {
-      "class": "rectangle",
-      "id": "A85339FE-6D33-4706-B375-C53A7B8FA147"
-    },
-    {
-      "class": "rectangle",
-      "id": "4389DFF2-1318-4E39-9D5C-7AD0F27557BF"
     },
     {
       "class": "text",
@@ -131,12 +111,12 @@
       "id": "FEB0C68E-7C19-4663-97A0-D51262D3D355"
     },
     {
-      "class": "symbolInstance",
-      "id": "DA22DB3B-FE9A-4A78-86D7-119A0137DB0E"
+      "class": "group",
+      "id": "FCAE3D86-66CB-4F69-B215-702F2AE0B93A"
     },
     {
-      "class": "symbolInstance",
-      "id": "53F2B6EE-1C8D-4316-8B12-8A9A22DDF7F6"
+      "class": "group",
+      "id": "84BAEDF7-989C-44EA-A482-7A41273C5306"
     },
     {
       "class": "text",
@@ -149,6 +129,14 @@
     {
       "class": "text",
       "id": "A81C124B-99BD-4E83-9D71-912709A82A17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "390CCF42-4A0E-46FB-AB21-A5E8A78CD9EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5793F5D1-0515-4EB1-B102-7DFF55F6B006"
     }
   ],
   "name": "Profile wireframe",

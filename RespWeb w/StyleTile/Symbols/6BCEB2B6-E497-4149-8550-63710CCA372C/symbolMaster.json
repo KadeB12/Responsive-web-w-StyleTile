@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 14626,
+  "changeIdentifier": 26573,
   "clippingMaskMode": 0,
   "do_objectID": "6BCEB2B6-E497-4149-8550-63710CCA372C",
   "exportOptions": {
@@ -57,8 +57,24 @@
       "id": "D1377B3D-C160-4603-8223-23BEEBCB9D13"
     },
     {
+      "class": "bitmap",
+      "id": "B1062D76-6F73-4521-82DD-8B7C6F13A18A"
+    },
+    {
+      "class": "bitmap",
+      "id": "5697A068-A849-40DB-B394-B585D1695297"
+    },
+    {
       "class": "rectangle",
       "id": "D25B1443-C243-4DB9-8FC1-EDA3ECC0FEE6"
+    },
+    {
+      "class": "rectangle",
+      "id": "55191764-E887-4757-8789-56C4380BE17C"
+    },
+    {
+      "class": "rectangle",
+      "id": "350084A1-C9E2-416F-A521-FC2482453FED"
     },
     {
       "class": "text",
@@ -67,6 +83,14 @@
     {
       "class": "text",
       "id": "69FB7F8C-B27A-40AE-82A0-2DB737284811"
+    },
+    {
+      "class": "text",
+      "id": "3346117A-472A-42AA-97F9-C8D64FD4A998"
+    },
+    {
+      "class": "text",
+      "id": "6D4558C8-D0ED-4F36-9BB9-A8E165257521"
     },
     {
       "class": "rectangle",
@@ -91,6 +115,14 @@
     {
       "class": "text",
       "id": "9ECC50D4-C671-4E65-A586-3613734547A0"
+    },
+    {
+      "class": "text",
+      "id": "1F65C756-CEA7-4D75-B97A-7038594ABA6F"
+    },
+    {
+      "class": "text",
+      "id": "E7247DE3-3B64-40DA-B133-99C612340EBE"
     },
     {
       "class": "text",
@@ -147,6 +179,10 @@
     {
       "class": "shapePath",
       "id": "523E8710-EED5-4FFC-AEA9-BD458135889D"
+    },
+    {
+      "class": "rectangle",
+      "id": "59E5772D-9641-46B1-9654-FBB9F17B497C"
     }
   ],
   "name": "Molecule/ Footer",

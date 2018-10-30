@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD1BC6C4-8FFD-4A87-8B41-75FE5B06F152",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 528,
+    "width": 528,
+    "x": 189,
+    "y": 890
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D00AD743-BC05-4AC4-B02F-A3C6CB46A05B"
+    },
+    {
+      "class": "rectangle",
+      "id": "5DCDD7EE-ECDB-45E4-BCEE-232645AED71B"
+    },
+    {
+      "class": "text",
+      "id": "04DB7EDC-32E8-4E65-A6E1-07D3D775A2DB"
+    },
+    {
+      "class": "text",
+      "id": "558A2543-EC4D-487B-BD75-CFD656CF4358"
+    },
+    {
+      "class": "rectangle",
+      "id": "56861AD4-A015-465D-9D45-CD1FF146CAEA"
+    },
+    {
+      "class": "rectangle",
+      "id": "F947FACB-4CDA-4AF6-BF9C-C02DB414CE6C"
+    }
+  ],
+  "name": "Atom/DirectoryEntry",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

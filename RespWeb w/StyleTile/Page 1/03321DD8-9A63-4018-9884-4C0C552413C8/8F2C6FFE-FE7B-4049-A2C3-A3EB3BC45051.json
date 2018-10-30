@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Recent Works"
+    "string": "Recently Added"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "0B3C4E65-230D-4AF8-A736-3F73AD61BEF8",
     "height": 105,
-    "width": 392,
+    "width": 475,
     "x": 41,
     "y": 1576
   },
-  "glyphBounds": "{{4, 14}, {333, 41}}",
+  "glyphBounds": "{{4, 14}, {371, 51}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Recent Works",
+  "name": "Recently Added",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

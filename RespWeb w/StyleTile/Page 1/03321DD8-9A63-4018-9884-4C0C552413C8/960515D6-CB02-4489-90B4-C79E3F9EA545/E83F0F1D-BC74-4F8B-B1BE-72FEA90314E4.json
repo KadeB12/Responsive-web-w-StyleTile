@@ -1,0 +1,207 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E83F0F1D-BC74-4F8B-B1BE-72FEA90314E4",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 528,
+    "width": 528,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle Copy 31",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/36e6910a0240ff00a9859dc5f15af2945e8fe8f2.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://cdn.dribbble.com/users/1293874/screenshots/5342724/elsevier-about-page-dribbble_teaser.png",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/56801/screenshots/3672558/infographix_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5093177/icons_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5414530/powerhouse_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/602800/screenshots/4837137/infographic_teaser.png",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5103550/meeting_in_office._teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5059453/set__coffee_icons_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5397745/navigator_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/3097/screenshots/3979901/ss-2017-explainer-v4_teaser.gif",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5370244/pizzeria_on_the_island._teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/183729/screenshots/4425192/april03_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/63407/screenshots/2899402/dribbble_mining_teaser.png",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5283985/psychoanalysis_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5049391/coal_mining_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5224352/finance_icons_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5363416/transport_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/730703/screenshots/4747362/john-devolle-folio-illustration-national-landlords-association-1_teaser.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}

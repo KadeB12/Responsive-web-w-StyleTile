@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B9B91C62-7460-4372-B621-6A1E9B9ABFBC",
-    "height": 2760,
+    "height": 2407,
     "width": 1440,
     "x": 4628,
     "y": 7755
@@ -91,16 +91,16 @@
       "id": "BB50DA53-3A10-45D1-9D8E-4E593807D898"
     },
     {
-      "class": "rectangle",
-      "id": "CB215978-DD82-4A3F-8DF0-E956F492E7A8"
-    },
-    {
       "class": "text",
       "id": "663392A5-A806-4A4B-A6C8-06F3CB6B5415"
     },
     {
-      "class": "rectangle",
-      "id": "A31D2A63-D261-476F-AAE5-8E2A6401EB32"
+      "class": "shapeGroup",
+      "id": "5343BCBD-6EDE-439E-A6F7-2C99F054DFE3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "72725965-B163-45DB-96F6-AB266274CCB6"
     },
     {
       "class": "text",

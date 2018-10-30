@@ -63,8 +63,8 @@
       "id": "EE78ED19-53B1-4F42-85E0-F1F7CAFC889E"
     },
     {
-      "class": "symbolInstance",
-      "id": "FE01A99D-FBBA-4BF3-8D05-4BA26B3A22E4"
+      "class": "group",
+      "id": "1B19DDDD-DCA5-4500-B658-04BA711F66B9"
     },
     {
       "class": "symbolInstance",
@@ -171,12 +171,12 @@
       "id": "00FEAB8A-A360-4040-929E-EBD25742AB9E"
     },
     {
-      "class": "symbolInstance",
-      "id": "FA487EB6-23BC-42FE-8FAC-4C3046748DA2"
+      "class": "group",
+      "id": "C52D4DAA-6DFD-40E9-8269-524FCB48194D"
     },
     {
-      "class": "symbolInstance",
-      "id": "1E8F1A90-950B-4A28-9FAB-832649DD2C42"
+      "class": "group",
+      "id": "7B0A55E5-5FDD-4B4E-9736-49CF66F4BEB3"
     },
     {
       "class": "text",

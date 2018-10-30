@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 25,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Student Portfolio Gallery"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 674,
     "y": 1813
   },
-  "glyphBounds": "{{3, 12}, {158, 37}}",
+  "glyphBounds": "{{2, 11}, {359, 107}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header Copy 2",
+  "name": "Student Portfolio Ga",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Name of Piece"
+    "string": "Name of Design"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 454,
     "y": 229
   },
-  "glyphBounds": "{{42, 17}, {452, 53}}",
+  "glyphBounds": "{{20, 17}, {493, 67}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Name of Piece",
+  "name": "Name of Design",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

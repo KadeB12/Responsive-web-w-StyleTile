@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 88,
     "width": 284,
-    "x": 571,
-    "y": 1574
+    "x": 568,
+    "y": 3381
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -31,6 +31,12 @@
   "name": "Atom/ Button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D82403E6-A676-4954-8D1C-3298EA1DF979",
+      "overrideName": "ACC2B278-9BB8-414C-AF8D-15D7E3B53E0F_stringValue",
+      "value": "SIGN UP"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8ED59BAD-987C-415B-9B61-79264210D739",
-    "height": 3452,
+    "height": 3439,
     "width": 1440,
     "x": 4628,
     "y": -29
@@ -116,7 +116,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "38723FF8-3DAD-46C8-8CE5-F2C8D52ECBC7"
+      "id": "F3D91A00-4B4D-45FB-8652-BFC12AA17474"
     }
   ],
   "name": "Gallery Directory Wireframe",

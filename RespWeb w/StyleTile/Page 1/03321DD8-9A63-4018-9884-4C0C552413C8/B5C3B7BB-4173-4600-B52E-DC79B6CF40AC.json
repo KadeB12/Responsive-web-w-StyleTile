@@ -112,7 +112,12 @@
           "green": 0.847,
           "red": 0.847
         },
-        "fillType": 0,
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/cea212ad5e30a2194d823867eeb84f6b312fb80d.png",
+          "_ref_class": "MSImageData"
+        },
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
@@ -123,5 +128,35 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5283985/psychoanalysis_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5049391/coal_mining_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5224352/finance_icons_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/2196582/screenshots/5363416/transport_teaser.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn.dribbble.com/users/63407/screenshots/2899402/dribbble_mining_teaser.png",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
   }
 }

@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B19DDDD-DCA5-4500-B658-04BA711F66B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 654,
+    "width": 382,
+    "x": 964,
+    "y": 1133
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ACC66FDC-4460-4595-99F8-A6B3FAA84560"
+    },
+    {
+      "class": "text",
+      "id": "7B863F88-2ACA-426B-A622-0BD5949D1C47"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C7FB84F-D268-43CD-A3FE-5DD704B6E805"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC0BF840-5610-41FF-900C-5F870266040D"
+    },
+    {
+      "class": "rectangle",
+      "id": "5721EB84-333F-4E1B-B738-2A86AB73FCE2"
+    },
+    {
+      "class": "shapePath",
+      "id": "A740BB92-6CBF-4FE6-BB7E-2C213A45F9DF"
+    },
+    {
+      "class": "rectangle",
+      "id": "6D52DB0E-2655-4D40-A2B6-E05D5ECD108A"
+    },
+    {
+      "class": "text",
+      "id": "09113FE0-2331-4DF1-8AB5-7050B207253B"
+    },
+    {
+      "class": "text",
+      "id": "36E70830-E43F-4977-BDFE-D603306F886F"
+    },
+    {
+      "class": "oval",
+      "id": "4EBE95B0-89D4-4AC3-B642-39C17E1CBB7E"
+    },
+    {
+      "class": "text",
+      "id": "92920B4E-1610-423A-B3A5-3CF64DC7C951"
+    },
+    {
+      "class": "text",
+      "id": "F1837B6B-5D99-49F0-AF99-A97FF3A2EAA6"
+    },
+    {
+      "class": "text",
+      "id": "809C7127-709B-4164-B1AE-98BDB609AAB2"
+    },
+    {
+      "class": "text",
+      "id": "067DC418-54FD-463E-92D1-6BDFC4564AE6"
+    }
+  ],
+  "name": "Molecule/InstaPost",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

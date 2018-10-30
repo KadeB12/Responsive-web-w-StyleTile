@@ -104,6 +104,10 @@
     },
     {
       "class": "shapePath",
+      "id": "19F93089-8D9A-4DE4-AA60-FF37C54F2E7F"
+    },
+    {
+      "class": "shapePath",
       "id": "610CAB9F-1396-4FC3-994C-D4F55241914C"
     },
     {
@@ -129,6 +133,10 @@
     {
       "class": "symbolInstance",
       "id": "9BCD1824-5E6B-4C02-8631-DB1C73072B74"
+    },
+    {
+      "class": "text",
+      "id": "3641A4FC-C56C-4CD6-BBC2-750CF3257F5C"
     }
   ],
   "name": "News Article wireframe",
