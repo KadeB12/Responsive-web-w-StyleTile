@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 61,
+        "length": 38,
         "location": 0
       }
     ],
-    "string": "Anouncements Header\ns, a sodales libero finibus in. Suspendis"
+    "string": "Always Look On The Bright Side Of Life"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B2C67DC2-D81F-45E1-883B-260F2C990666",
-    "height": 105,
+    "height": 70,
     "width": 352,
     "x": 426,
     "y": 73
   },
-  "glyphBounds": "{{-1, 6}, {330, 97}}",
+  "glyphBounds": "{{-1, 6}, {291, 62}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Anouncements Header Copy",
+  "name": "Always Look On The B",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,5 +105,17 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "philosophy",
+          "type": "title"
+        },
+        "title": "Philosophy"
+      }
+    }
+  }
 }

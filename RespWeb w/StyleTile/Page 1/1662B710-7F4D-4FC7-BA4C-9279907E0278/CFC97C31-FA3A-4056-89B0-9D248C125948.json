@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 168,
+        "length": 234,
         "location": 0
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpi\ns at elit. Donec consectetur sapien orci, non blandit"
+    "string": "A minor in visual communication design will provide students with a foundation in the creative, conceptual and technical skills necessary to understand and participate in the visual communication needs of future professional practice."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "9A7F1F97-540E-4A64-85BE-5C7DE0D87670",
     "height": 171,
-    "width": 600,
-    "x": 632,
-    "y": 3213
+    "width": 471,
+    "x": 659,
+    "y": 3198
   },
-  "glyphBounds": "{{0, 4}, {590, 62}}",
+  "glyphBounds": "{{0, 5}, {459, 105}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal Copy Copy Copy Copy",
+  "name": "A minor in visual co",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

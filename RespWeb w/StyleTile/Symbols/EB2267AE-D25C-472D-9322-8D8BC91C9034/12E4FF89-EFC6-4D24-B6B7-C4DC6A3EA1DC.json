@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 61,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "Anouncements Header\ns, a sodales libero finibus in. Suspendis"
+    "string": "Sedu Beauty Tips Step By Step"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C3CD6713-D7D2-43BC-B9D8-6ECF0E708B9B",
-    "height": 105,
+    "height": 70,
     "width": 352,
     "x": 6,
     "y": 73
   },
-  "glyphBounds": "{{-1, 6}, {330, 97}}",
+  "glyphBounds": "{{0, 6}, {321, 63}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Anouncements Header",
+  "name": "Sedu Beauty Tips Ste",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,5 +105,17 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "beauty",
+          "type": "title"
+        },
+        "title": "Beauty"
+      }
+    }
+  }
 }

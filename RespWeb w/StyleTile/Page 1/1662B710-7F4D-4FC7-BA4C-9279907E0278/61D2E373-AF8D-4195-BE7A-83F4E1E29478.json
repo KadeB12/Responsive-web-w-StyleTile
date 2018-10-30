@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 168,
+        "length": 292,
         "location": 0
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpi\ns at elit. Donec consectetur sapien orci, non blandit"
+    "string": "A certificate in User Experience(UX) design will provide students and working professionals a multidisciplinary approach to UX in the context of web-enabled design. Students will learn techniques for composing well crafted and intentional interactions between users and products or technology"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "1EA4F5C1-A4CE-40E5-AB99-574240FE3808",
     "height": 171,
-    "width": 431,
+    "width": 458,
     "x": 309,
-    "y": 2350
+    "y": 2333
   },
-  "glyphBounds": "{{0, 4}, {426, 84}}",
+  "glyphBounds": "{{0, 4}, {452, 128}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal Copy Copy",
+  "name": "A certificate in Use",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

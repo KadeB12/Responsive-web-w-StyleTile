@@ -77,10 +77,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "17AE5488-8AED-4F41-9242-0C5A218288B8",
-    "height": 136,
+    "height": 164,
     "width": 406,
     "x": 857,
-    "y": 201
+    "y": 173
   },
   "glyphBounds": "{{0, 4}, {392, 103}}",
   "hasClippingMask": false,

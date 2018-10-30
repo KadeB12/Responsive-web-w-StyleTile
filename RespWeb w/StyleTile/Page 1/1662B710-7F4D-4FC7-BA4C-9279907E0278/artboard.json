@@ -181,9 +181,25 @@
     {
       "class": "symbolInstance",
       "id": "905378DD-B48E-40AA-A952-6F9CCA5BEE83"
+    },
+    {
+      "class": "rectangle",
+      "id": "7F74B664-F72D-4FEF-A031-EE22841C6D7D"
+    },
+    {
+      "class": "rectangle",
+      "id": "6ABD1EE3-C513-48FB-9541-F7A7644A6F0C"
+    },
+    {
+      "class": "rectangle",
+      "id": "C7431213-4B30-4A23-B2AC-DFF5E2B80FA0"
+    },
+    {
+      "class": "rectangle",
+      "id": "C32BD0BE-AA0A-4306-88C4-90A55306F2A6"
     }
   ],
-  "name": "Program Statistics Wireframe Copy",
+  "name": "Degree Options",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

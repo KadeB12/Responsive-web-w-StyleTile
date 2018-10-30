@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 168,
+        "length": 304,
         "location": 0
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpi\ns at elit. Donec consectetur sapien orci, non blandit"
+    "string": "A major in Visual Communication Design educates and prepares students to conceive and produce creative solutions to satisfy the visual communication needs of society. Graduates are prepared for careers in graphic design, web design, multimedia design, advertising, printing, publishing or related fields."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 171,
     "width": 502,
     "x": 309,
-    "y": 613
+    "y": 595
   },
-  "glyphBounds": "{{0, 4}, {447, 62}}",
+  "glyphBounds": "{{0, 4}, {489, 125}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal",
+  "name": "A major in Visual Co",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

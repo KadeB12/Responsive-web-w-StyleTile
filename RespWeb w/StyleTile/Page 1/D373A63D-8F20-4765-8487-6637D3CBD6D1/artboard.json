@@ -117,6 +117,10 @@
     {
       "class": "symbolInstance",
       "id": "F3D91A00-4B4D-45FB-8652-BFC12AA17474"
+    },
+    {
+      "class": "rectangle",
+      "id": "F969F8E9-697A-4A49-BE99-894E8BF13B74"
     }
   ],
   "name": "Gallery Directory Wireframe",

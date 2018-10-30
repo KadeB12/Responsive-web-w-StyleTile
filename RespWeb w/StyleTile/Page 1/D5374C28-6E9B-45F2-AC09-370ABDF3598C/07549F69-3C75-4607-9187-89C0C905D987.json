@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 164,
+        "length": 159,
         "location": 0
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpi\n\ns at elit. Donec consectetur sapien orci, non  ."
+    "string": "Statistics to help you compare our program with the other guys! \n\nlibero finibus in. Suspendisse in imperdiet ante, ac ulla  Donec consectetur sapien orci, non"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2C6B8F25-78DF-42C6-8881-ECCC99DC8C19",
-    "height": 156,
+    "height": 205,
     "width": 522,
     "x": 203,
     "y": 3351
   },
-  "glyphBounds": "{{0, 6}, {453, 175}}",
+  "glyphBounds": "{{0, 5}, {510, 176}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal Copy Copy Copy Copy Copy Copy Copy",
+  "name": "Statistics to help y",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

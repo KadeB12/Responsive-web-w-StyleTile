@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 168,
+        "length": 347,
         "location": 0
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpi\ns at elit. Donec consectetur sapien orci, non blandit"
+    "string": "The Department of Engineering & Design and the Department of Art offer an intercollegiate Visual Communication Design Program founded on four major concerns: developing the highest levels of individual creative performance, providing courses which develop ability in both technical visual communications as well as skills in the area of fine art. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,10 +53,10 @@
     "do_objectID": "A8619383-48DB-45BD-B7E8-5D0C5177293A",
     "height": 171,
     "width": 600,
-    "x": 632,
-    "y": 1481
+    "x": 651,
+    "y": 1466
   },
-  "glyphBounds": "{{0, 4}, {590, 62}}",
+  "glyphBounds": "{{0, 4}, {586, 103}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal Copy",
+  "name": "The Department of En",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

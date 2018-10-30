@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 61,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Anouncements Header\ns, a sodales libero finibus in. Suspendis"
+    "string": "Motorhome Or Trailer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0A7F6D8A-C37C-4FEB-966F-7552AE3249A5",
-    "height": 105,
+    "height": 35,
     "width": 352,
     "x": 857,
     "y": 73
   },
-  "glyphBounds": "{{-1, 6}, {330, 97}}",
+  "glyphBounds": "{{0, 6}, {317, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Anouncements Header Copy 2",
+  "name": "Motorhome Or Trailer",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,5 +105,17 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "travel",
+          "type": "title"
+        },
+        "title": "Travel"
+      }
+    }
+  }
 }

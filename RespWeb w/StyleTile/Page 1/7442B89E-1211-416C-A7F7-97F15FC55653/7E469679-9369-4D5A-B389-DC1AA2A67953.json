@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7E469679-9369-4D5A-B389-DC1AA2A67953",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F50C81C-8236-41E0-A9D4-AFF738CDD6FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EDF8E6E0-9CD0-42FF-A3F6-9F0BEB3D7262",
+    "height": 2039,
+    "width": 25,
+    "x": 1351,
+    "y": 282
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/ Scroll.bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77FBD5F3-3FA2-449F-A230-5F0719E2F427",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "93D81AEA-E97D-42EF-9D8C-69E1E0667AB0",
+  "verticalSpacing": 0
+}

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 40,
+        "length": 66,
         "location": 0
       }
     ],
-    "string": "Anouncements Header\nOr Recent News story"
+    "string": "DONT BE AN ASSHOLE: \nExhibit Opens This Friday November 2nd 4:30pm"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 437,
     "y": 1414
   },
-  "glyphBounds": "{{-1, 6}, {277, 53}}",
+  "glyphBounds": "{{0, 6}, {319, 82}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Anouncements Header Copy 2",
+  "name": "DONT BE AN ASSHOLE:",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

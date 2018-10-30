@@ -31,7 +31,7 @@
     "y": 15772
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -145,6 +145,22 @@
     {
       "class": "symbolInstance",
       "id": "E9F5EE29-6117-4EFC-8DFC-D0D679A07553"
+    },
+    {
+      "class": "rectangle",
+      "id": "099BB811-C413-4D40-B465-F46193946382"
+    },
+    {
+      "class": "rectangle",
+      "id": "1301B90E-4EAF-40D0-88BD-3C6FEC0C434F"
+    },
+    {
+      "class": "rectangle",
+      "id": "96A87D7B-B611-492D-9936-96E0FE3993CD"
+    },
+    {
+      "class": "rectangle",
+      "id": "E2CEE566-8501-449B-A237-D74DEB1B68C2"
     }
   ],
   "name": "Program Statistics Wireframe",
