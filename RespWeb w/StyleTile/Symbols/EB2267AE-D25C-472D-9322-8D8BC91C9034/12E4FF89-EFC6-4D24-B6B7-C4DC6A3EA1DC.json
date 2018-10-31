@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 61,
         "location": 0
       }
     ],
-    "string": "Sedu Beauty Tips Step By Step"
+    "string": "Emma Blansh Visits EWU for Special Lecture and Demonstration!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C3CD6713-D7D2-43BC-B9D8-6ECF0E708B9B",
-    "height": 70,
+    "height": 105,
     "width": 352,
     "x": 6,
     "y": 73
   },
-  "glyphBounds": "{{0, 6}, {321, 63}}",
+  "glyphBounds": "{{0, 6}, {347, 92}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Sedu Beauty Tips Ste",
+  "name": "Emma Blansh Visits E",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

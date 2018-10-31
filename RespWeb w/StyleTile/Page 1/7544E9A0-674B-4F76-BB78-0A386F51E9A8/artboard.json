@@ -51,44 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "677E44D6-8C1A-4E0A-85EA-384B2BD51DC4"
-    },
-    {
       "class": "group",
-      "id": "39E32A8B-2047-4D73-911C-FA728D31606E"
+      "id": "FD0F4DC4-594C-4D04-A09A-170FF5FD9F6E"
     },
     {
       "class": "rectangle",
-      "id": "2B53AE35-C306-4FDD-AF1A-E24BDD3E068A"
-    },
-    {
-      "class": "rectangle",
-      "id": "61D0DD63-C811-4A0D-B670-143D22F77AAE"
-    },
-    {
-      "class": "rectangle",
-      "id": "9D3C56BA-C1B8-4B70-9401-9E115B21375B"
-    },
-    {
-      "class": "rectangle",
-      "id": "D636C50B-5580-4851-BA49-E1E1DD9985D3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "09B9168B-2956-49D5-BF4A-089017E82363"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F16CF105-43A6-4267-AFF6-C593AB0AF086"
-    },
-    {
-      "class": "text",
-      "id": "FDBF2E34-BD8E-4BFD-B128-2CD678C0673B"
+      "id": "B1D40CAC-7BC2-4538-9119-D86EB9BBFCA9"
     },
     {
       "class": "symbolInstance",
-      "id": "E0EF303B-1306-4EE9-962B-60F984634FC2"
+      "id": "49F2A8A4-0F6C-40A9-A7FA-CFC1F78BD642"
     },
     {
       "class": "symbolInstance",
@@ -103,8 +75,8 @@
       "id": "FDBC4BA0-C649-4C40-8945-E1D50740B88F"
     },
     {
-      "class": "text",
-      "id": "233A5FE2-E1D7-4DD3-8385-11C2E8FC559F"
+      "class": "bitmap",
+      "id": "677E44D6-8C1A-4E0A-85EA-384B2BD51DC4"
     }
   ],
   "name": "Home Page Wireframe",

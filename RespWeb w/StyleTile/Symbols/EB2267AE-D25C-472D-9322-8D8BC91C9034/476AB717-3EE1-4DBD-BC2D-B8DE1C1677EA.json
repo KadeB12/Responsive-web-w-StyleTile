@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 38,
+        "length": 66,
         "location": 0
       }
     ],
-    "string": "Always Look On The Bright Side Of Life"
+    "string": "DONT BE AN ASSHOLE: \nExhibit Opens This Friday November 2nd 4:30pm"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B2C67DC2-D81F-45E1-883B-260F2C990666",
-    "height": 70,
+    "height": 140,
     "width": 352,
     "x": 426,
     "y": 73
   },
-  "glyphBounds": "{{-1, 6}, {291, 62}}",
+  "glyphBounds": "{{0, 6}, {341, 132}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Always Look On The B",
+  "name": "DONT BE AN ASSHOLE:",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

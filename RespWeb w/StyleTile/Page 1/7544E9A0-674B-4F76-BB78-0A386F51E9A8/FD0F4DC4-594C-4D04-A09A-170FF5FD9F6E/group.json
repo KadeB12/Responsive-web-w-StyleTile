@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "39E32A8B-2047-4D73-911C-FA728D31606E",
+  "do_objectID": "FD0F4DC4-594C-4D04-A09A-170FF5FD9F6E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 910,
+    "height": 900,
     "width": 1440,
     "x": 0,
     "y": 0
@@ -27,14 +27,34 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "08D3FAD4-1487-4A57-BED7-0B89C27EF27D"
+      "id": "A76AB85C-E970-4476-8144-1DAC13BC76FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4A286BB-B6DB-4D33-AD06-192119C22044"
+    },
+    {
+      "class": "text",
+      "id": "6AD0EFF9-018A-4C36-B296-2E4A7627BD9F"
+    },
+    {
+      "class": "text",
+      "id": "9F52F96F-E500-4529-84F0-AC56955C0114"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37CCCA32-2780-4D85-B593-D24E722FE076"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD2F5AF9-7A54-44F3-9DF6-D0E62B00B031"
     }
   ],
-  "name": "Molecule/ Carousel 1",
+  "name": "Molecule/ Header",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -42,11 +62,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.6456473214285714
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

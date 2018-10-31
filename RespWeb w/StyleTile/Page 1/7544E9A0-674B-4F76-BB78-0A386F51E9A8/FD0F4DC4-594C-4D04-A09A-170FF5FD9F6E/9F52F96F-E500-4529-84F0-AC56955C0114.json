@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6079225540161133,
-            "green": 0.6078033447265625,
-            "red": 0.6078922152519226
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 18
+              "size": 49
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 48,
         "location": 0
       }
     ],
-    "string": "toggle"
+    "string": "WINTER BRRRZAAR, DECEMBER 15TH RIVER PARK SQUARE"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9BE7E7A9-5B54-42B0-BBFC-9A6CD9011E3E",
+  "do_objectID": "9F52F96F-E500-4529-84F0-AC56955C0114",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C5C3173C-7F18-43E5-ACF2-6569BDB71BA7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "059D1AF6-C701-4B9D-B2C8-53B494B35123",
-    "height": 22,
-    "width": 77,
-    "x": 227,
-    "y": 9
+    "height": 193,
+    "width": 515,
+    "x": 109,
+    "y": 314
   },
-  "glyphBounds": "{{0, 5}, {49, 17}}",
+  "glyphBounds": "{{0, 12}, {512, 157}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,34 +63,33 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "toggle copy 2",
-  "nameIsFixed": false,
+  "name": "Header",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "143D4D59-46E7-4590-AA31-A9322DEEB83E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "29EAA323-43F9-46A1-B2B7-1E52A46608D7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0469DD9E-5169-4FB4-9F42-582911BD9561",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6079225540161133,
-          "green": 0.6078033447265625,
-          "red": 0.6078922152519226
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 18
+            "size": 49
           }
         },
         "paragraphStyle": {
@@ -105,5 +102,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

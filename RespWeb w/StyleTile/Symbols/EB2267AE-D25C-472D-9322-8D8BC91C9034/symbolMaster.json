@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 29127,
+  "changeIdentifier": 29356,
   "clippingMaskMode": 0,
   "do_objectID": "EB2267AE-D25C-472D-9322-8D8BC91C9034",
   "exportOptions": {
@@ -75,10 +75,6 @@
     {
       "class": "text",
       "id": "3072C731-F797-42A8-89EB-4A7101837B00"
-    },
-    {
-      "class": "text",
-      "id": "9BE7E7A9-5B54-42B0-BBFC-9A6CD9011E3E"
     },
     {
       "class": "text",

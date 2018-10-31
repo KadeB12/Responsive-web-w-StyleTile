@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E0EF303B-1306-4EE9-962B-60F984634FC2",
+  "do_objectID": "B4A286BB-B6DB-4D33-AD06-192119C22044",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 284,
-    "x": 578,
-    "y": 709
+    "height": 900,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Atom/ Button",
+  "name": "Color/Blue",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "2CDA757F-E701-41B3-B943-67A16916151C",
-      "overrideName": "ACC2B278-9BB8-414C-AF8D-15D7E3B53E0F_stringValue",
-      "value": "DETAILS"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8AA0C15D-CD34-4D28-B4FF-3AD600911BB5",
+  "symbolID": "50AE38AB-42EB-4E72-BCB7-5884F8A8AD5B",
   "verticalSpacing": 0
 }
