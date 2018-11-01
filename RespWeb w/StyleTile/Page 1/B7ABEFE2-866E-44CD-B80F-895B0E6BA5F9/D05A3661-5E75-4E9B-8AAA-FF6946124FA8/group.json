@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D05A3661-5E75-4E9B-8AAA-FF6946124FA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "001556A6-CA0E-4DAE-9283-861CF954255A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB9C6129-1465-48FB-BA88-0EAAF4CC2FF1",
+    "height": 157,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8974B36F-B86C-41FB-A641-43DB38294743"
+    },
+    {
+      "class": "text",
+      "id": "D7AF4D6D-AC43-4175-9890-E5BC5849D475"
+    },
+    {
+      "class": "rectangle",
+      "id": "D385FB61-5020-401C-AF59-8F7C91F5369A"
+    },
+    {
+      "class": "rectangle",
+      "id": "896BC91B-5233-421E-A898-31B3D63B2B6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E6552F3-5C6E-4732-8F84-7FDB3C3F3810"
+    },
+    {
+      "class": "rectangle",
+      "id": "A88F3E4F-76A7-433B-B147-BD55E37D047D"
+    },
+    {
+      "class": "rectangle",
+      "id": "94A03A01-52C7-4909-8CC1-29265338A92C"
+    },
+    {
+      "class": "text",
+      "id": "1006F245-601A-4309-80A8-F730B6865292"
+    },
+    {
+      "class": "text",
+      "id": "B5FAFC56-A028-4912-85DD-08BEBCEFFB2E"
+    },
+    {
+      "class": "text",
+      "id": "542F11CA-A25B-48E4-A811-18834792519E"
+    },
+    {
+      "class": "text",
+      "id": "9DD4EC78-9AF2-46DA-9A91-111F0D9D399F"
+    },
+    {
+      "class": "text",
+      "id": "41985A45-3D8B-4D0D-A4A9-27CA7FFF8CA6"
+    },
+    {
+      "class": "text",
+      "id": "FEAC2EAE-F2FA-4062-95FA-9125782E43D5"
+    }
+  ],
+  "name": "Mobile/Molecule/Navbar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D7FB08F-704B-4F38-B448-965FB3D22A03",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

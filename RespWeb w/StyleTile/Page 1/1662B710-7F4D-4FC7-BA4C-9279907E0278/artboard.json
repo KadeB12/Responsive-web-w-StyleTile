@@ -31,7 +31,7 @@
     "y": 11360
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -171,8 +171,8 @@
       "id": "0A092F07-5CDF-42CB-B2FF-88CC485AD00F"
     },
     {
-      "class": "symbolInstance",
-      "id": "8C94AD6D-0414-480F-9BAC-5DFAE0A673D3"
+      "class": "group",
+      "id": "F5286FA3-27FC-43F3-B3AF-556418E7E8F5"
     },
     {
       "class": "symbolInstance",

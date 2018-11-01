@@ -91,6 +91,42 @@
     {
       "class": "artboard",
       "id": "1662B710-7F4D-4FC7-BA4C-9279907E0278"
+    },
+    {
+      "class": "artboard",
+      "id": "E66F0502-92FF-4608-BCE1-F865FBAE4BC1"
+    },
+    {
+      "class": "artboard",
+      "id": "E04AB0F2-662F-4A24-9EFD-8E6FD4B615B8"
+    },
+    {
+      "class": "artboard",
+      "id": "F447AA02-9785-4E03-BB73-D6526A8B791C"
+    },
+    {
+      "class": "artboard",
+      "id": "0DC4FD9E-DB8E-4A26-9113-D7BF52B8E4D0"
+    },
+    {
+      "class": "artboard",
+      "id": "D14D8E9D-30D2-4E2E-AEF6-9EA33BC5F87C"
+    },
+    {
+      "class": "artboard",
+      "id": "ADA66BA2-77E3-4BC2-B5E0-296D6C863C45"
+    },
+    {
+      "class": "artboard",
+      "id": "48B38D30-9273-4970-BF77-DEF29AEB1444"
+    },
+    {
+      "class": "artboard",
+      "id": "B7ABEFE2-866E-44CD-B80F-895B0E6BA5F9"
+    },
+    {
+      "class": "artboard",
+      "id": "29DF5FEF-D9F1-4A8C-A80A-1357393E4B4C"
     }
   ],
   "name": "Page 1",
@@ -105,6 +141,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

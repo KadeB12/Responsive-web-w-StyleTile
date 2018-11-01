@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9F1113D8-D360-41AC-BE9D-549B08B86519",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 295,
+    "width": 320,
+    "x": 0,
+    "y": 157
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "54B0BBD1-3BFB-4FC7-B549-6C631DA845A1"
+    },
+    {
+      "class": "bitmap",
+      "id": "095C87E9-031E-4BB9-87FC-50BBC38B7DDE"
+    },
+    {
+      "class": "rectangle",
+      "id": "ECA48DFE-5C13-48B8-9DE8-700462CE8FCE"
+    },
+    {
+      "class": "text",
+      "id": "FF0D0CA2-987E-40F4-9752-220CA29E88E5"
+    },
+    {
+      "class": "text",
+      "id": "03004DF5-62B2-4874-968A-799944687C26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "463F4B30-FEC3-43C9-A0DD-FB45C5977529"
+    }
+  ],
+  "name": "Mobile/Molecule/Header",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8274E72-C9ED-4786-8940-637A0A439D50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6F68DFEC-21BE-4247-AC76-8289A5232067",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44846869-0E2F-462F-9067-FC7F9F028AEA",
+    "height": 19,
+    "width": 63,
+    "x": 140,
+    "y": 459
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Atom/ Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1EF2629F-39D1-4309-B441-9E044696993B_stringValue",
+      "value": "EXPLORE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "353B99AF-C825-478D-90AE-A5518C54E21D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F546285-2C86-4E00-8CEA-1A6301631AB6",
+  "verticalSpacing": 0
+}

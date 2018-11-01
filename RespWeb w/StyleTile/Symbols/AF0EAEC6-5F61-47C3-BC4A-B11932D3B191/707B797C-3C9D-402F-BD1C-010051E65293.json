@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "707B797C-3C9D-402F-BD1C-010051E65293",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F854A118-87A6-4A63-A584-28E30A23524E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CC7A755-A932-474A-B32D-99E77440145C",
+    "height": 19,
+    "width": 63,
+    "x": 140,
+    "y": 644
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Mobile/Atom/ Button Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "284AAA62-F142-47C5-B9CC-890CE56563C5",
+      "overrideName": "1EF2629F-39D1-4309-B441-9E044696993B_stringValue",
+      "value": "READ MORE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "91D9BB12-B552-4B15-B3EB-7CBFA765E575",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F546285-2C86-4E00-8CEA-1A6301631AB6",
+  "verticalSpacing": 0
+}
