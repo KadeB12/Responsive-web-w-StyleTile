@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4668428D-3EEC-487D-B897-3A9D37B566B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 101,
+    "width": 1440,
+    "x": 0,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "3BF9ED43-FD29-4B59-8B3E-EB2F61BCBAE0"
+    },
+    {
+      "class": "text",
+      "id": "1E4CF2D3-880E-467C-8A9E-CAD50F66F66D"
+    },
+    {
+      "class": "text",
+      "id": "910E732E-8D92-4B50-B997-D78136CAB7C8"
+    },
+    {
+      "class": "text",
+      "id": "466A1D5D-E8FD-4E27-BE58-90A606057F96"
+    },
+    {
+      "class": "text",
+      "id": "451E22F3-A1D2-4EF0-8E14-5EF89DE5FD76"
+    },
+    {
+      "class": "text",
+      "id": "9DC0A47F-74D9-442F-ACC9-787E23C05DE5"
+    },
+    {
+      "class": "text",
+      "id": "56CC755C-3680-4D22-8292-F02D73986A7D"
+    },
+    {
+      "class": "text",
+      "id": "C8D4A73F-74CC-49F8-BBDD-43AF13171D13"
+    }
+  ],
+  "name": "Molecule/ Navigation.Bar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

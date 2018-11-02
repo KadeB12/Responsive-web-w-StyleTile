@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 29,
         "location": 0
       }
     ],
-    "string": "Motorhome Or Trailer"
+    "string": "Winter BRRZAAR December 15th "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0A7F6D8A-C37C-4FEB-966F-7552AE3249A5",
-    "height": 35,
+    "height": 70,
     "width": 352,
     "x": 857,
     "y": 73
   },
-  "glyphBounds": "{{0, 6}, {317, 22}}",
+  "glyphBounds": "{{-1, 6}, {259, 57}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Motorhome Or Trailer",
+  "name": "Winter BRRZAAR Decem",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
