@@ -1,0 +1,226 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7431213-4B30-4A23-B2AC-DFF5E2B80FA0",
+  "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B9E0AE4-93CE-46F2-8F09-8F6ECC32FD78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 0,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFDCF8AA-3CCB-44AF-B2E5-4D95EA47464F",
+    "height": 593,
+    "width": 505,
+    "x": 831,
+    "y": 243
+  },
+  "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rectangle Copy",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "DDAFE0B8-6EE2-4D4E-8145-9C44FDE87B75",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/aa0a8a7f0224f3e109271612e32cd7512a604cca.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fda6fe0f7735e059acb12100dcaf0162&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1459908676235-d5f02a50184b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=163911de43447625eb10010bac6d2a1f&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1515437689879-4dd6c1620d46?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0f9d2dc539b88bffc3dda64e24138a1a&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1519261952927-7d525d1dc83b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fa970fc6657a66c6f02a5a443cdf2f9f&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1511854005000-f27912f66ade?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=af66e8fb5115d702cd19c7145e616641&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1458240598330-ccda17524e5c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=05e58502ded37d19bbf912722b26d21b&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1505840541251-02ab21f95b45?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=42ff8682cf27a5e78548f9523ed29d4d&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1420802532821-8a885e88e95c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=274aa475d1daf84c6b363301eee27f49&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1530017421197-2ca7a184d808?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=70ef184cc0d6bb597c77bc7d2384d209&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1504871897786-1c3621e99af7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ee09e8c7e73495192b1e339806b51de4&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1518774968953-dfb65a8874ea?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=323eed3bb8dd1f157bac491eb3cb22d3&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1524744608395-b474834c194b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5e3668473f4966745f5f3e71226dc21d&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1471666875520-c75081f42081?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4d2e1a473c0d21396ea709e72a8d8f0e&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1501703637797-fb0bad309c99?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=05fb3c8b966b03509bf9a3e49d70b2fb&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1536891376195-28e78bba4f94?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=90e7206f467f5fa626a198f07e9b8933&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1512056611632-ae9d14eaa397?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d715691b00f6750db9338862d6106e79&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1514510419866-78b4fa6ca27b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8e9b1c864611054faeaa567760af7a49&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1494236713806-63a6c56707b0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b4249b03a9d1251e8c6582d34fe08c7a&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1509940914077-eca8a2ada2c1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e3278939d1a7187222978c3d2558285f&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1515104822006-cc095557b664?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6c34138feebef1cd1f5337a2330897a6&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1505569127510-bde1536937bc?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f623ec8a2d95440617901f85d4988cba&w=1000&q=80",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}

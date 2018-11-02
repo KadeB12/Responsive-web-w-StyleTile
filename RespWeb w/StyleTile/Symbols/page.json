@@ -150,6 +150,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

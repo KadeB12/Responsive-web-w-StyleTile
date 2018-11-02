@@ -1,0 +1,95 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCB5887A-372F-4CBC-9816-5A9DFF762C1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -369,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "E66F0502-92FF-4608-BCE1-F865FBAE4BC1"
+    },
+    {
+      "class": "artboard",
+      "id": "E04AB0F2-662F-4A24-9EFD-8E6FD4B615B8"
+    },
+    {
+      "class": "artboard",
+      "id": "F447AA02-9785-4E03-BB73-D6526A8B791C"
+    },
+    {
+      "class": "artboard",
+      "id": "0DC4FD9E-DB8E-4A26-9113-D7BF52B8E4D0"
+    },
+    {
+      "class": "artboard",
+      "id": "D14D8E9D-30D2-4E2E-AEF6-9EA33BC5F87C"
+    },
+    {
+      "class": "artboard",
+      "id": "ADA66BA2-77E3-4BC2-B5E0-296D6C863C45"
+    },
+    {
+      "class": "artboard",
+      "id": "48B38D30-9273-4970-BF77-DEF29AEB1444"
+    },
+    {
+      "class": "artboard",
+      "id": "B7ABEFE2-866E-44CD-B80F-895B0E6BA5F9"
+    },
+    {
+      "class": "artboard",
+      "id": "29DF5FEF-D9F1-4A8C-A80A-1357393E4B4C"
+    }
+  ],
+  "name": "Mobile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -306,
+    "guides": [
+    ]
+  }
+}

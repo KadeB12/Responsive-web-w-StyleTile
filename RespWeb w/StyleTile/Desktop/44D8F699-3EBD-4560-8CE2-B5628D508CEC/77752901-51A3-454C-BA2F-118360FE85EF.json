@@ -1,0 +1,113 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AmericanTypewriter",
+              "size": 24
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 48,
+            "minimumLineHeight": 48
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1837,
+        "location": 0
+      }
+    ],
+    "string": "Time to get stoked about Terrain’s First Annual Winter BrrrZAAR!!!\n\nCALL FOR SUBMISSIONS ARE NOW LIVE. THE EVENT WILL TAKE PLACE AT RIVER PARK SQUARE(Y’ALL THINK OF ALL THAT HOLIDAY FOOT TRAFFIC), ON ONE OF THE BUSIEST SHOPPING DAYS OF THE YEAR.\nWe are THRILLED to be partnering with River Park Square to make this happen. They also happen to be Winter BrrrZAAR’s Presenting Sponsor...THANK YOU!!! \n\nMORE DETAILS SOON. \n\nBody Copy fringilla et lorem. Nunc vel consequat velit. Ut rhoncus port titor lacus non lobortis. Nulla egestas pulvinar enim congue suscipit. Nulla libero dolor, pellentesque at egestas a, vehicula vel augue. Donec sit amet leo felis. Mauris mollis scelerisque ipsum, sagittis tincidunt quam ultrices ut.\n\nSuspendisse finibus tellus nunc, eu pulvinar leo malesuada ut. Donec faucibus tempor est quis lobortis. In hac habitasse platea dictumst. Maecenas dictum lorem nec nisl placerat accumsan. Nulla \n\ncondimentum non enim et elementum. Fusce justo mi, consequat in nisi eu, commodo viverra enim. Phasellus et maximus sapien. Duis vel elementum diam. Nunc ultricies faucibus convallis. Maecenas orci nunc, ultricies non eleifend non, bibendum ut leo. Nam vestibu Suspendisse finibus tellus nunc, eu pulvinar leo malesuada ut. Donec faucibus tempor est quis lobortis. In hac habitasse platea dictumst. Maecenas dictum lorem nec nisl placerat accumsan. Nulla \n\ncondimentum non enim et elementum. Fusce justo mi, consequat in nisi eu, commodo viverra enim. Phasellus et maximus sapien. Duis vel elementum diam. Nunc ultricies faucibus convallis. Maecenas orci nunc, ultricies non eleifend non, bibendum ut leo. Nam vestibu\n\nSuspendisse finibus tellus nunc, eu pulvinar leo malesuada ut. Donec faucibus tempor est quis lobortis. In hac habitasse platea dictumst. Maecenas dictum lorem nec nisl placerat accumsan. Nulla "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77752901-51A3-454C-BA2F-118360FE85EF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60AA20C4-0776-4825-9F86-4877C290808C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1709408E-B8FD-44DC-B257-FD8A0CC32CE7",
+    "height": 1062,
+    "width": 1029,
+    "x": 218,
+    "y": 1476
+  },
+  "glyphBounds": "{{-1, 15}, {1019, 1602}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Time to get stoked a",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FB306CA-0774-413C-946A-754DD996274F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "45687994-BFAA-4B93-8421-23348B37163E",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AmericanTypewriter",
+            "size": 24
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 48,
+          "minimumLineHeight": 48
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

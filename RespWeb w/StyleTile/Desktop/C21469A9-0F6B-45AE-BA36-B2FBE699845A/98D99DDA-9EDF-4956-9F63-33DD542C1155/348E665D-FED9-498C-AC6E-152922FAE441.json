@@ -1,0 +1,203 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
+  "do_objectID": "348E665D-FED9-498C-AC6E-152922FAE441",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7973247E-9282-494A-B737-FC4BA54E0847",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "422EF03E-793E-4616-A1B4-5A8073F00654",
+    "height": 96,
+    "width": 123,
+    "x": 288,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9ed4d61d557e79c5620a3326ca2ccc6ea3b635b4.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Screen Shot 2018-10-29 at 10.57.00 AM Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CAA3A80-2244-4681-8866-358191DF1672",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/9efb2b9897ccb53b23c2c984b56e0e08ec7483ac.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "externalURL": "https://www.terrainspokane.com/new-page-3/",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 3,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "transition": 0
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://images.unsplash.com/photo-1526431038803-6f6c3ee137ae?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5313cc83d899a7d913f9e3341f5fabf0&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cbe45d5a16eeb2c8009b0959f15db36a&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1512295767273-ac109ac3acfa?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e829ea719d24ee5173563f3ce1b6781e&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1518600654093-2a24cddafa38?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=96238af4ac6e58d17d362d5b8b846eb4&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1523871762770-87bda6d9ab58?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=651c083bb21d6ff0ef6eaa4136cbef56&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1518665750801-883c188a660d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7e20098b38a7b4d3c66be9ed44a43a0f&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1508873699372-7aeab60b44ab?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c1a70364292d12958046ec97ccc886c4&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0444373dd059057834eff6e6a3e5eaa7&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1005f3d059e15847f5b8e818aafe7b51&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1518081461904-9d8f136351c2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8a815e999d0f593c8c8bbcb6473b0d39&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1513077202514-c511b41bd4c7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e82ee10fea764ee6186ecee56fb1fe56&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=31af6acbd3157b2125fb59e355bffc8e&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=cdff4c62302fd44491d4850202323d11&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1517502884422-41eaead166d4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=3d8f17ce21e419f0ef0e90dfcbe19911&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1519332978332-21b7d621d05e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=36f4d960acf8151c21e99837701f1a95&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b934f71d8055c9013853b2fe286d66f0&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1498409785966-ab341407de6e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8a87674644cd4f622df5c57facbccf1e&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1522071901873-411886a10004?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=29d9f43ffabb9497b18de0eb16e7eb6d&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1520588451467-4c904eb6d035?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9de69b37cc20b7d3ab310b9d8ae115e7&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=98b1cd2ea86a7b4796275ef13aadafbf&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8aa38437c9b977558f5b430d68773742&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=775372bf5857090b5e3e458118372cc7&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=138da2df65dd01d6715a76b5ac1b9441&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=44ad6f641e2fea9861e46ad605ac0cf0&w=1000&q=80",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  }
+}
