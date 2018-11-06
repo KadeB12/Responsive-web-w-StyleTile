@@ -17,30 +17,27 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 19
+              "size": 12
             }
           },
-          "kerning": 2.245454,
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "maximumLineHeight": 31,
-            "minimumLineHeight": 31
+            "_class": "paragraphStyle"
           }
         },
-        "length": 25,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "ISUAL\nOMMUNICATIONS\nESIGN"
+    "string": "Facilities"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "17DD7BFB-F91B-4771-9184-2768C767FC19",
+  "do_objectID": "A05B8168-F131-44BF-A92B-F719B7A045B5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "7CE5C5EA-0846-49CC-9268-02082F0F7BFA",
+    "do_objectID": "6F81CFD5-95B3-4F8B-9D8E-9A0D80E1D092",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7AE7EA52-2C8B-4728-9D07-808E7E3049AB",
-    "height": 111,
-    "width": 219.7777777777778,
-    "x": 32.9999999999998,
-    "y": 11
+    "do_objectID": "BDB79D43-0C10-472A-A744-0CCE21E7AF31",
+    "height": 14,
+    "width": 49.14376778937387,
+    "x": 263.858122331594,
+    "y": 126
   },
-  "glyphBounds": "{{0, 7}, {189, 77}}",
+  "glyphBounds": "{{1, 2}, {46, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "ISUAL OMMUNICATIONS",
+  "name": "Facilities",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -74,13 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "82DE789D-FB07-4372-95BA-833E365B7E19",
+    "do_objectID": "60441015-2FFF-4555-977D-CF7AEBA155F9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "600D6A9D-5362-43C5-A8BC-D289FC5ADBB1",
+      "do_objectID": "7DAD3F5E-5AD8-4BB5-A058-A29D80E13624",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,19 +90,38 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 19
+            "size": 12
           }
         },
-        "kerning": 2.245454,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "maximumLineHeight": 31,
-          "minimumLineHeight": 31
+          "_class": "paragraphStyle"
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "29DF5FEF-D9F1-4A8C-A80A-1357393E4B4C",
+      "transition": 0
+    }
+  }
 }

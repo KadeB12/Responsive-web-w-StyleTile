@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C1231E7E-D03B-490E-A94D-8E212B73E404",
+  "do_objectID": "E5A726D5-7EC9-4FFC-BE76-E70DC3AAEFB4",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4A8B76C8-ACFC-4F26-BFE8-208BD08F3848",
+    "do_objectID": "F49A9653-19CC-44C7-A476-6DAB01941FAF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,10 +18,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "75FF9DA6-C302-4BE4-9B4A-93333EE73A02",
+    "do_objectID": "529E90AA-5028-42A8-8C78-F2C13D0A90F3",
     "height": 46,
     "width": 65,
-    "x": 128,
+    "x": 255,
     "y": 111
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 2",
+  "name": "Rectangle Copy 4",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -95,12 +95,12 @@
           "red": 0.1450980392156863
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "3C14B155-DBAC-490B-B807-035E544BDD7A",
+    "do_objectID": "547D0AE7-9D49-4E31-8934-04B4858E3370",
     "endMarkerType": 0,
     "fills": [
       {
@@ -123,5 +123,27 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "29DF5FEF-D9F1-4A8C-A80A-1357393E4B4C",
+      "transition": 0
+    }
   }
 }

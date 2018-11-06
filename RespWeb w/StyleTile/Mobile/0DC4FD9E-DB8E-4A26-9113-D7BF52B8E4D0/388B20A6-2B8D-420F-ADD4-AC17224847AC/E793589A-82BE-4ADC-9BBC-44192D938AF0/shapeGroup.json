@@ -2,9 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1343A2C3-00A4-4039-8AE7-208B82DE4D98",
+  "do_objectID": "E793589A-82BE-4ADC-9BBC-44192D938AF0",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "67811A50-5030-4FFB-990D-45ACCC6ECB77",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,6 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "B5835FBA-0B37-4529-962E-6B8D2226D5E5",
     "height": 157,
     "width": 320,
     "x": 0,
@@ -31,11 +33,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "DDC7D05D-675D-417B-94EF-DFB3F2F9B0FE"
+      "id": "CF28A023-30B5-4B43-BD95-A386F01FEB24"
     },
     {
       "class": "rectangle",
-      "id": "1FF596B1-B457-4D9C-BC58-9925CEC68C0E"
+      "id": "367AEAA2-AF7B-44B6-99BD-B0CCEE90F0A4"
     }
   ],
   "name": "Combined Shape",
@@ -62,6 +64,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "F9C322AF-7A22-457C-B9A2-1A4F96C62AE3",
     "endMarkerType": 0,
     "fills": [
       {

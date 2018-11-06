@@ -24,20 +24,20 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 10,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Facilities"
+    "string": "Gallery"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9750D774-0030-4FD0-92C8-2FCACCE71584",
+  "do_objectID": "1F91910E-3441-4E86-A7BE-78EED49EAF96",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6746D1FC-CAA1-4643-B99D-D819E63546C0",
+    "do_objectID": "427DEA96-34BB-423E-A6B4-3DCB4AC4A96C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D98735A8-1D04-49F3-8020-101D54B439BF",
+    "do_objectID": "253965A0-673D-4750-89E7-AD20BF9E2F51",
     "height": 14,
-    "width": 49.14376778937387,
-    "x": 263.858122331594,
+    "width": 38.28642374288417,
+    "x": 203.5725880574008,
     "y": 126
   },
-  "glyphBounds": "{{1, 2}, {46, 10}}",
+  "glyphBounds": "{{0, 2}, {38, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Facilities",
+  "name": "Gallery",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,13 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "BA1828F9-6B1B-4EEC-9A73-B29291D7D72C",
+    "do_objectID": "D9BB41F0-F07C-4393-90B5-2F8C83E85CBD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "09E7BCC6-8CC2-49B3-BBF6-C15EC2B4F1C5",
+      "do_objectID": "183D9926-E4AA-43D4-A5E0-D6E78D41B2CA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -101,5 +101,27 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "B7ABEFE2-866E-44CD-B80F-895B0E6BA5F9",
+      "transition": 0
+    }
+  }
 }

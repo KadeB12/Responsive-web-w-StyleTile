@@ -31,7 +31,7 @@
     "y": 1287
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -61,10 +61,6 @@
     {
       "class": "symbolInstance",
       "id": "8D9CA35B-3932-4A68-BBB7-C05F5FF70BC0"
-    },
-    {
-      "class": "group",
-      "id": "11BF885C-20D8-415D-AD32-03B04CA42FEC"
     },
     {
       "class": "symbolInstance",
@@ -117,9 +113,13 @@
     {
       "class": "group",
       "id": "E60DEB49-8775-4299-94FE-CDE90AB94653"
+    },
+    {
+      "class": "group",
+      "id": "388B20A6-2B8D-420F-ADD4-AC17224847AC"
     }
   ],
-  "name": "Mobile News Article Page",
+  "name": "Mobile News Article",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

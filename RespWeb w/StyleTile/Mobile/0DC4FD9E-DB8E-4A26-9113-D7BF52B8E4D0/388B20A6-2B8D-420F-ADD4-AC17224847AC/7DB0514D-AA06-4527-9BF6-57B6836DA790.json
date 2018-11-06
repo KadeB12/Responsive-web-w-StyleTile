@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2766012C-4B4B-46B4-830D-282E3B1DB176",
+  "do_objectID": "7DB0514D-AA06-4527-9BF6-57B6836DA790",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5B488D01-2F7B-434C-A1BA-5D0CD21837A9",
+    "do_objectID": "7EA6E9DA-786D-43D0-B055-6BDE12EA0949",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,10 +18,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C8CFC45C-BB56-490C-B6FB-6A8AE22D4124",
+    "do_objectID": "847D23BA-6682-40B6-A204-B3DD0887C253",
     "height": 46,
     "width": 65,
-    "x": 255,
+    "x": 128,
     "y": 111
   },
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 4",
+  "name": "Rectangle Copy 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -100,7 +100,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "8BC747EF-F2F8-4287-BA9C-2A97DD23AD1D",
+    "do_objectID": "3C51023D-170B-46EB-9DDB-BED4BE359A42",
     "endMarkerType": 0,
     "fills": [
       {
@@ -123,5 +123,27 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "F447AA02-9785-4E03-BB73-D6526A8B791C",
+      "transition": 0
+    }
   }
 }

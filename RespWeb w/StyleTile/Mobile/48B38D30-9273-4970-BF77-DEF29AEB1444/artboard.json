@@ -31,7 +31,7 @@
     "y": 1169
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -163,7 +163,7 @@
       "id": "DD43C1A4-C04A-419B-ACAB-DAE9C40681E1"
     }
   ],
-  "name": "Mobile News Article Page Copy",
+  "name": "Mobile facilities detail",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

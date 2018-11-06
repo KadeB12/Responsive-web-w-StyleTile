@@ -109,7 +109,7 @@
       "componentType": "SRLink",
       "fixOverlayPosition": 1,
       "gesture": 0,
-      "linkType": 2,
+      "linkType": 0,
       "maintainScrollPositionAfterGesture": 0,
       "maintainScrollPositionAfterRedirect": 0,
       "openURLInNewWindow": 0,
@@ -117,9 +117,10 @@
       "overlayTransition": 0,
       "redirectAfter": 0,
       "reverseTransitionOnClose": 1,
-      "scrollToPosition": 110,
+      "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
+      "targetArtboardID": "B7ABEFE2-866E-44CD-B80F-895B0E6BA5F9",
       "transition": 0
     }
   }

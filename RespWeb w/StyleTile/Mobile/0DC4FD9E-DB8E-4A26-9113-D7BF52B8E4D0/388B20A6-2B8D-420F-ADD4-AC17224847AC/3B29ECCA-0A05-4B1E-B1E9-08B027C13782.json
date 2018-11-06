@@ -24,20 +24,20 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 7,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Gallery"
+    "string": "News & Events"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "90ED8BAB-5C63-435A-969F-43B2DE1658F3",
+  "do_objectID": "3B29ECCA-0A05-4B1E-B1E9-08B027C13782",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5BB9DF0F-A051-42D0-8EF9-8024D876644C",
+    "do_objectID": "49F27904-0C46-4E08-BE2F-A8721A2DAC9C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "637655B9-6049-47EB-9799-C63BF133672E",
-    "height": 14,
-    "width": 38.28642374288417,
-    "x": 203.5725880574008,
-    "y": 126
+    "do_objectID": "F3A5C84D-93C7-422F-B681-7E75DD021E5F",
+    "height": 28,
+    "width": 47.71565168406075,
+    "x": 77.28523778462966,
+    "y": 121
   },
-  "glyphBounds": "{{0, 2}, {38, 12}}",
+  "glyphBounds": "{{0, 2}, {42, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Gallery",
+  "name": "News & Events",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,13 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C1FCFB19-3A55-4AED-83E7-0A1CBEF5C6EB",
+    "do_objectID": "05C0E4BD-5F5D-416A-869D-3027F28BF250",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7987886F-461A-4854-92F4-BA676230FF07",
+      "do_objectID": "DD0FD351-1BAD-4E87-8E80-E8CF847AF966",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -101,5 +101,27 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E04AB0F2-662F-4A24-9EFD-8E6FD4B615B8",
+      "transition": 0
+    }
+  }
 }

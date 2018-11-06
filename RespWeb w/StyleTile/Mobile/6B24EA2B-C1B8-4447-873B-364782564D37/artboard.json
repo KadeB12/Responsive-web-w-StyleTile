@@ -28,7 +28,7 @@
     "y": 1169
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -103,8 +103,8 @@
       "id": "06CBE2AE-10EB-4C88-A6B4-D823DD3BECA5"
     }
   ],
-  "name": "Mobile",
-  "nameIsFixed": false,
+  "name": "Mobile Online Gallery",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

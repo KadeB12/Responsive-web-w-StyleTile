@@ -21,24 +21,23 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
+            "_class": "paragraphStyle"
           }
         },
-        "length": 8,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "About Us"
+    "string": "Home"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0F6919C0-B766-41FF-B78C-F4832455D0DB",
+  "do_objectID": "BE21CD8D-BBF0-4237-BB49-E29190E728E9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "620B6036-2231-4E53-A47C-21F91A81CB49",
+    "do_objectID": "0E5DD928-64D5-4D3E-A9AD-9FD86A90B2C5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +48,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2D17DF0D-0FFC-4F48-B01D-12672FF3A2BA",
-    "height": 28,
-    "width": 48.00088946869065,
-    "x": 136,
-    "y": 122
+    "do_objectID": "1ED9A65D-1C40-404F-A616-09A33A6E97F0",
+    "height": 14,
+    "width": 34.28634962049338,
+    "x": 16.00000000000013,
+    "y": 126
   },
-  "glyphBounds": "{{8, 2}, {32, 24}}",
+  "glyphBounds": "{{0, 2}, {32, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "About Us",
+  "name": "Home",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,13 +71,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "17B415BA-813C-4995-8F7D-A2E01FF6EC3F",
+    "do_objectID": "3FA0E364-3AB9-4A1D-9A0F-2AF20BD839FE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "674B6311-8935-42AB-8B87-6FA54B239129",
+      "do_objectID": "98A9EB9B-7B5A-4326-BAFC-272C2F388530",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -95,13 +94,34 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_class": "paragraphStyle"
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E66F0502-92FF-4608-BCE1-F865FBAE4BC1",
+      "transition": 0
+    }
+  }
 }

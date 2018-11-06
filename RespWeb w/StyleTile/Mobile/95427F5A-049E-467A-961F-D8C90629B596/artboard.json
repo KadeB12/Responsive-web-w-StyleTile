@@ -31,7 +31,7 @@
     "y": 3401
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -135,7 +135,7 @@
       "id": "D19263AE-7B57-4867-A007-3B989E87778F"
     }
   ],
-  "name": "Mobile Profile Directoy Copy 3",
+  "name": "Mobile Degree Details",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -35,11 +35,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E115509D-6037-4EAB-AB2B-4573472D789D",
+  "do_objectID": "BE614267-9375-420B-A935-55C57960D156",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "13D385F4-A824-4AD8-8933-EAC1CBA0FFE5",
+    "do_objectID": "5CBAF0F5-CFDE-49D4-A8D7-1356ED086FDD",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,7 +50,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "5BEBD21B-9223-498F-B4AA-FB0788DE5A7D",
+    "do_objectID": "BE8DC34D-92DA-4CFE-B1D3-8A09ECCDAECE",
     "height": 92.03191489361703,
     "width": 28.66666666666666,
     "x": 8.000000000000153,
@@ -73,13 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D460245F-3D98-4248-B799-73B2BA8FE1D7",
+    "do_objectID": "40FD69CF-432E-4A61-8FB3-FB57B9E86438",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "2A67DEFE-B3EA-4F9D-937D-7D58F15214A0",
+      "do_objectID": "ECB894AA-5094-4466-9037-B6632116B097",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -105,5 +105,27 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E66F0502-92FF-4608-BCE1-F865FBAE4BC1",
+      "transition": 0
+    }
+  }
 }

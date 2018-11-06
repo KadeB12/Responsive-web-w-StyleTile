@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 31,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Featured Work Chosen by Faculty"
+    "string": "Featured Work Chosen by Editor"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 68,
     "y": 166
   },
-  "glyphBounds": "{{12, 2}, {161, 10}}",
+  "glyphBounds": "{{14, 2}, {156, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

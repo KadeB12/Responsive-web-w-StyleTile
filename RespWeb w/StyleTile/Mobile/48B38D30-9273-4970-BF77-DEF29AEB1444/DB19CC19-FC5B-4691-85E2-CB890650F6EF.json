@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "LucidaGrande-Bold",
-              "size": 7
+              "size": 9
             }
           },
           "paragraphStyle": {
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "C1663FD1-3FC0-40B2-BCA1-9651BE6D4016",
     "height": 28,
-    "width": 66,
+    "width": 88,
     "x": 228,
-    "y": 284
+    "y": 283
   },
-  "glyphBounds": "{{0, 1}, {61, 16}}",
+  "glyphBounds": "{{0, 2}, {78, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "LucidaGrande-Bold",
-            "size": 7
+            "size": 9
           }
         },
         "paragraphStyle": {

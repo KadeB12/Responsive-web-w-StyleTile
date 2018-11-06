@@ -30,10 +30,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "54B0BBD1-3BFB-4FC7-B549-6C631DA845A1"
-    },
-    {
       "class": "bitmap",
       "id": "095C87E9-031E-4BB9-87FC-50BBC38B7DDE"
     },

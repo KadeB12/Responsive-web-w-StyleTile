@@ -31,7 +31,7 @@
     "y": 2252
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -119,7 +119,7 @@
       "id": "643738FB-1E21-4167-9F93-E9B5626220EB"
     }
   ],
-  "name": "Mobile News Article Page Copy 3",
+  "name": "Mobile Gallery works detail",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

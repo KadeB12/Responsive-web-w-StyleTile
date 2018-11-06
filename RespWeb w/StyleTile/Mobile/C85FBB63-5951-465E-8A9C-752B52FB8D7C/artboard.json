@@ -31,7 +31,7 @@
     "y": 3401
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -139,7 +139,7 @@
       "id": "A0E13206-6074-4EE5-8335-70552C0D0042"
     }
   ],
-  "name": "Mobile Profile Directoy Copy",
+  "name": "Mobile Program Statistics",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 6
+              "size": 8
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 114,
+        "length": 115,
         "location": 0
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpi"
+    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque\n\n vitae elementum orci turpi"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F8FB60AB-81A0-47A4-A58D-8F40AE83E907",
-    "height": 39,
-    "width": 103,
-    "x": 112,
-    "y": 306
+    "height": 33,
+    "width": 113,
+    "x": 97.00000000000001,
+    "y": 318
   },
-  "glyphBounds": "{{0, 1}, {100, 21}}",
+  "glyphBounds": "{{0, 2}, {104, 48}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal Copy",
+  "name": "Body copy s, a sodal",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 6
+            "size": 8
           }
         },
         "paragraphStyle": {
