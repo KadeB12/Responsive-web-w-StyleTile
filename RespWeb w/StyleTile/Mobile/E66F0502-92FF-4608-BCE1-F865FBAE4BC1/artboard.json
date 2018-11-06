@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 999,
     "width": 320,
     "x": -1842,
     "y": 288
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,16 +51,16 @@
       "id": "0D4AAF61-197F-4FF6-B002-9FDCAE9ED2AD"
     },
     {
-      "class": "symbolInstance",
-      "id": "335A371A-22C5-4AF4-A073-6E13CE6AB944"
+      "class": "rectangle",
+      "id": "8F9BFA65-5DD9-4D9A-89BE-234D9F85B22A"
+    },
+    {
+      "class": "group",
+      "id": "9EE0E6A4-A50E-4FD5-BBDC-181ACF93F999"
     },
     {
       "class": "group",
       "id": "9F1113D8-D360-41AC-BE9D-549B08B86519"
-    },
-    {
-      "class": "rectangle",
-      "id": "8F9BFA65-5DD9-4D9A-89BE-234D9F85B22A"
     },
     {
       "class": "symbolInstance",

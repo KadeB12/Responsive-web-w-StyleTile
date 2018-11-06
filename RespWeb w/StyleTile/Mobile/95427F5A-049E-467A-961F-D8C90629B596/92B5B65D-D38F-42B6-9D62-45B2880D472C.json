@@ -1,0 +1,113 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AmericanTypewriter",
+              "size": 9
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 3338,
+        "location": 0
+      }
+    ],
+    "string": "The Department of Engineering and Design and the Department of Art offer an intercollegiate Visual Communication Design program founded on four major concerns: developing the highest levels of individual creative performance and professional education; providing courses for all students which develop ability in both technical visual communications, as well as important core skills in the area of fine art; giving students a greater cultural and historical understanding and aesthetic appreciation of the function of design in the arts and in the world around them; and functioning as dual centers of emphasis and resource for the visual arts, visual communication and technology in the cultural activities of both the university community and the community at large.\n\nBoth departments are committed to working together to give students access to current technologies in the area of visual communication design, as well as experience in developing the necessary visual skills provided by studio art areas such as drawing, painting and sculpture.\n\nThe program ends with a three quarter senior year intensive studio experience for the preparation of portfolios for job placement or graduate school application. This includes midterm faculty review of student work, quarterly outside professional review and a final exhibition as the completion of the student portfolio of work.\n\nPrior to declaring the BFA major, students must apply to the program by submitting a portfolio and academic transcripts. Application is recommended at the end of the sophomore year to help ensure that appropriate junior year courses are selected. Students need not be in the BFA to take DESN or ART classes, with the exception of the senior year three quarter class DESN/ART 470. This course requires previous acceptance into the BFA degree program.\n\nCourse List\nRequired Courses (99 credits) \nART 107 Basic Design (5)\nART 207 Color Design (5)\nART 213 Art in the Humanities (5)\nART 300 Drawing (5)\nART 303 Digital Art I (5)\nART 307 3D Design (5)\nART 360 Printmaking (5)\nART 401 Life Drawing (5)\nART 431 History of Contemporary Art (5)\nDESN 216 Digital Foundations (4)\nDESN 243 Typography (4)\nDESN 259 History of Design (4 )\nDESN 263 Visual Communication Design 1 (4)\nDESN 363 Visual Communication Design 2 (4)\nDESN 368 User Experience Design 1 (4)\nDESN 366 Production Design (4)\nDESN 368 Web Design 1 (4)\nDESN 463 Visual Communication Design 3 (4)\nDESN/ART 471 Senior Exhibition (1,1,1)\nDESN 490 Senior Capstone (5) \nDESN 495 Internship (3-7)\nTECH 393 Technology in World Civilization (4)\n\nElectives (9 credits)\nDesign Elective (4)\nStudio Art Elective (5)\n\nNote: Including University requirements, the above program requires a minimum of 180 credits, or an average of 15 credits per quarter for a 12 quarter, four-year program. The 180 credits are based upon the following assumptions:\na. Students will have satisfied University Competencies (ENGL 101 and CPLA 100). If this is not true, then the student will have to complete up to six more credits of classes (See University Competencies in the catalog.) \nb. Art in the Humanities (ART 213) fulfills EWU’s Fine Arts core requirement. \nc. Technology and World Civilization (TECH 393) fulfills EWU’s International Studies requirement. \nd. Senior Capstone (TECH 490) fulfills EWU’s Senior Capstone requirement."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92B5B65D-D38F-42B6-9D62-45B2880D472C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1E55EE0-F22A-4EE4-8BC9-98A96EF5D9D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E465888-6F46-44B5-8BF2-D8ACB2AE53BA",
+    "height": 1068,
+    "width": 226,
+    "x": 47,
+    "y": 489
+  },
+  "glyphBounds": "{{-1, 2}, {227, 1053}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "The Department of En",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "33F3ED43-A6FD-4DE5-A233-37EA429C2A30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "414C5627-2E0A-42C9-91C8-89EFDBEF1696",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AmericanTypewriter",
+            "size": 9
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}

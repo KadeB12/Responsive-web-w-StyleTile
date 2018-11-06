@@ -31,6 +31,12 @@
   "name": "Mobile/Atom/ Button",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D995663B-9183-4425-AAC5-10B2DBF59F6D",
+      "overrideName": "1EF2629F-39D1-4309-B441-9E044696993B_stringValue",
+      "value": "DETAILS"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

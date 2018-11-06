@@ -31,6 +31,18 @@
   "name": "Mobile/Molecule/Header",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "457DD890-D37A-461F-A028-621876252841",
+      "overrideName": "5AE5D3B4-F7BF-4132-A5B7-13746E869862/1EF2629F-39D1-4309-B441-9E044696993B_stringValue",
+      "value": "SEE DEGREES"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0EB97036-4672-4079-8DC8-7AD426A632E8",
+      "overrideName": "B1E46CA6-5F32-44FA-9AED-46C8950B2388_symbolID",
+      "value": "50AE38AB-42EB-4E72-BCB7-5884F8A8AD5B"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,5 +57,27 @@
     "windingRule": 1
   },
   "symbolID": "A428BD11-B7C4-4E27-9E61-D3F40444F543",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "AB0C439A-412E-4E84-8829-15BD57990104",
+      "transition": 0
+    }
+  },
   "verticalSpacing": 0
 }

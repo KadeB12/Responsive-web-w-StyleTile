@@ -1,0 +1,171 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CA387DFB-1AE2-46C0-928F-8C996E08B303",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB0C439A-412E-4E84-8829-15BD57990104",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B5BA9AB0-9291-4F69-BC62-5CAAFDF2C1CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DDA3D6C-69A6-4C3A-BDAF-117B4D7DE818",
+    "height": 1123.223858425642,
+    "width": 320,
+    "x": -801,
+    "y": 3401
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D102DCDD-CBB2-4C90-AEE6-236EE6C75103",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7A02838C-03EB-4E65-B544-F8F5AB8EF524"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D2F53B6-D15B-4E3A-A64E-8420F1585552"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "395B6461-224E-4D23-93EA-DB1072EAD06C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5FE5A82A-DB5C-4836-A1B8-9EB7157FCBA4"
+    },
+    {
+      "class": "text",
+      "id": "597B0443-2BE6-496A-BA94-A552DC752CB9"
+    },
+    {
+      "class": "text",
+      "id": "36D80FFA-0126-44C9-B3BC-1F8CF9BD7AC8"
+    },
+    {
+      "class": "text",
+      "id": "DDFB0791-B78F-4CFF-B1DA-31DEA972CDC3"
+    },
+    {
+      "class": "text",
+      "id": "370DCF7A-2182-4098-BA62-0346F4F3A641"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D34F5EBB-ABA1-4891-9080-9BFC0921BCB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63D32063-20C6-4E20-9368-B6760D77602E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C3AFE37-2A4A-4885-8A8A-9495FA140C58"
+    },
+    {
+      "class": "text",
+      "id": "3D6F6F12-C02B-4EA9-8C54-FB7B3BB1652F"
+    },
+    {
+      "class": "text",
+      "id": "3E89A6EA-BD0B-4FAA-A947-0ADD5B986580"
+    },
+    {
+      "class": "text",
+      "id": "23000119-5BB2-439E-87A0-9821ED788BB1"
+    },
+    {
+      "class": "text",
+      "id": "1684A786-4491-4A72-8EAF-3AA8A6875495"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E784CD1-891E-4B20-80B8-8CFE4F3C21DE"
+    },
+    {
+      "class": "rectangle",
+      "id": "D3D46B37-E5FA-414F-8275-F106AAA282E4"
+    },
+    {
+      "class": "rectangle",
+      "id": "7C57EF18-701D-432C-9EB6-71B3F45E5F85"
+    },
+    {
+      "class": "rectangle",
+      "id": "F3EB837A-E2E3-4D13-A738-A84F092D2A94"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B4CAEDE-260D-439D-B038-5CF5A93ED5C1"
+    },
+    {
+      "class": "group",
+      "id": "D1F687D0-236A-455A-8ED9-F6062C4C8604"
+    },
+    {
+      "class": "group",
+      "id": "D326DDA8-A86F-4645-A5F9-605B4DE04178"
+    }
+  ],
+  "name": "Mobile Profile Directoy Copy 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2BDD907A-E0DF-4555-9992-EEF817C23815",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C7792A1D-BA14-4B00-89CA-404649F4F991",
+    "guides": [
+    ]
+  }
+}

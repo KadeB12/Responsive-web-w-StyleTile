@@ -1,0 +1,125 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E60DEB49-8775-4299-94FE-CDE90AB94653",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB6F77EF-107B-46A9-8F7A-49E697C79E6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C05A7AC7-9F49-4B1E-B3A3-2C3F260248A4",
+    "height": 167,
+    "width": 320,
+    "x": 0,
+    "y": 970.9999999999999
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0AA9564B-9583-44F5-8D8D-4C3A20E551D4"
+    },
+    {
+      "class": "rectangle",
+      "id": "3BF4D09B-D43D-40AA-B5E0-6A8187A45B17"
+    },
+    {
+      "class": "rectangle",
+      "id": "024B1780-DDBB-411C-933E-998778F1524A"
+    },
+    {
+      "class": "rectangle",
+      "id": "85D9BC99-009C-4A83-905C-47D2E2ABAA93"
+    },
+    {
+      "class": "rectangle",
+      "id": "B93AA381-5E1C-4863-B2B5-593DC36CD05A"
+    },
+    {
+      "class": "rectangle",
+      "id": "DE6F2F09-8276-468E-981F-677EF42CC90E"
+    },
+    {
+      "class": "text",
+      "id": "01BB347D-6951-48D9-B59B-BA8674E802E5"
+    },
+    {
+      "class": "text",
+      "id": "E3FBD4B5-0021-4739-841B-3FBF71D3B4A5"
+    },
+    {
+      "class": "text",
+      "id": "57F735B3-D454-46E9-85E4-C096AC3E4747"
+    },
+    {
+      "class": "text",
+      "id": "46954282-02D9-4A28-A113-733991828E86"
+    },
+    {
+      "class": "text",
+      "id": "B516E9DA-9C8A-4ACB-A4A2-909B620EFB5F"
+    },
+    {
+      "class": "text",
+      "id": "1C406F80-50DD-4CFB-AE03-8F605AEF2296"
+    },
+    {
+      "class": "text",
+      "id": "E7E3349E-A51E-435E-AA88-5B350C982F1F"
+    },
+    {
+      "class": "text",
+      "id": "453877A4-69F5-404F-9A38-C63C715180A8"
+    },
+    {
+      "class": "text",
+      "id": "BBB3594B-A08F-4248-8402-86B0359B8DE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F709D3EC-B7ED-4E88-B173-C5542E1519BD"
+    },
+    {
+      "class": "rectangle",
+      "id": "E5DF75AE-6F0C-46B0-8AF6-E5D4693E1644"
+    },
+    {
+      "class": "group",
+      "id": "044EEEDD-B2CF-4840-8E92-D9AF2666C9D9"
+    },
+    {
+      "class": "text",
+      "id": "35987896-0685-4B90-96AB-F177D1D4EF22"
+    }
+  ],
+  "name": "Mobile/Molecule/Footer",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "994C43D7-5A3A-4EAD-92A3-129412876F79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

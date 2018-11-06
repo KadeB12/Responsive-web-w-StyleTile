@@ -17,14 +17,14 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "AmericanTypewriter",
-              "size": 8
+              "size": 10
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "maximumLineHeight": 19,
+            "minimumLineHeight": 19
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CB8C8D48-93D4-4054-880E-EA4C742463BA",
-    "height": 536,
+    "height": 472,
     "width": 238,
     "x": 45,
-    "y": 456
+    "y": 453
   },
-  "glyphBounds": "{{0, 4}, {236, 442}}",
+  "glyphBounds": "{{-2, 6}, {234, 711}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,14 +94,14 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "AmericanTypewriter",
-            "size": 8
+            "size": 10
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "maximumLineHeight": 19,
+          "minimumLineHeight": 19
         },
         "textStyleVerticalAlignmentKey": 0
       },

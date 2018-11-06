@@ -31,7 +31,7 @@
     "y": 288
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -91,14 +91,6 @@
       "id": "8BC439C1-B874-4474-9C52-137AE56FB36F"
     },
     {
-      "class": "text",
-      "id": "551C37DC-F0D8-4899-9C09-80E8DFA70EE1"
-    },
-    {
-      "class": "text",
-      "id": "0091C396-C00F-4793-BC3C-A8338714C19B"
-    },
-    {
       "class": "symbolInstance",
       "id": "E40F10D2-1DB4-4618-9667-0E91BE5F3B74"
     },
@@ -119,10 +111,6 @@
       "id": "271296AA-A008-4A29-89BA-321459A922E6"
     },
     {
-      "class": "text",
-      "id": "1899FF90-F6DF-4559-AE68-94969B02211F"
-    },
-    {
       "class": "symbolInstance",
       "id": "A8274E72-C9ED-4786-8940-637A0A439D50"
     },
@@ -131,8 +119,8 @@
       "id": "87365062-A909-4593-8B8D-0274B340850F"
     },
     {
-      "class": "symbolInstance",
-      "id": "35D77218-457B-41D4-9B88-A8C406E4B0DB"
+      "class": "group",
+      "id": "A04D6268-6D4E-4CF0-91A0-51ECCBE2BC23"
     }
   ],
   "name": "Mobile failities directory Copy",

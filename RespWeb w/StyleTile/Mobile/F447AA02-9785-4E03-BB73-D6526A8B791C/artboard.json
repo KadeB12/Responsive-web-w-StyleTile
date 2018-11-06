@@ -31,7 +31,7 @@
     "y": 288
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,16 +55,16 @@
       "id": "C24CEFB1-9904-4420-B4F4-24C6FBD4AEEE"
     },
     {
-      "class": "symbolInstance",
-      "id": "63EB0132-AB6E-4AE2-9813-E04E2372365A"
+      "class": "group",
+      "id": "F6FD1CC2-B9C5-42C8-A439-3DAE4E106E71"
     },
     {
       "class": "group",
       "id": "DA4ADF4E-7E80-43B3-AFB3-421E2D111B06"
     },
     {
-      "class": "symbolInstance",
-      "id": "7C0C6D06-49A3-4A59-ADDC-B3711DC2E203"
+      "class": "group",
+      "id": "C1304523-EEBD-4D61-BB2C-C77C5C033A4B"
     }
   ],
   "name": "Mobile About Us ",

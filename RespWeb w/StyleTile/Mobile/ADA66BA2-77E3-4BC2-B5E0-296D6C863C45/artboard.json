@@ -28,10 +28,10 @@
     "height": 952,
     "width": 320,
     "x": -1148,
-    "y": 1533
+    "y": 1542
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -64,14 +64,6 @@
     },
     {
       "class": "group",
-      "id": "CF7E7E4F-1062-40C9-BE0A-092BCD2270A7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CFDE4624-FA38-48A6-8404-4A5A0A159788"
-    },
-    {
-      "class": "group",
       "id": "917D32B9-4542-4251-8FA8-D018917F1693"
     },
     {
@@ -95,10 +87,6 @@
       "id": "FEF8FDEF-A753-4656-9870-F5A7501AE4B1"
     },
     {
-      "class": "symbolInstance",
-      "id": "D0E87AB2-7AC6-4905-BD40-0582C4B11F9E"
-    },
-    {
       "class": "group",
       "id": "A254970C-F577-476D-AE89-9ED4FAC839DA"
     },
@@ -113,6 +101,14 @@
     {
       "class": "text",
       "id": "64F8952B-0619-45A9-ACC3-FD69DDB45635"
+    },
+    {
+      "class": "group",
+      "id": "95FAB221-BF48-4D8E-9629-62237F105AF4"
+    },
+    {
+      "class": "group",
+      "id": "474DC35C-E26D-41E4-A296-6E6754EA002F"
     }
   ],
   "name": "Mobile Profile Directoy",

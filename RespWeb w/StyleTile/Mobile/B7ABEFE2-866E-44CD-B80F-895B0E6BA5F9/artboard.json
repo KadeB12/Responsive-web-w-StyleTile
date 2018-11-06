@@ -31,7 +31,7 @@
     "y": 288
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -95,14 +95,6 @@
       "id": "14393291-E30C-424F-ACDE-B90AB67F3629"
     },
     {
-      "class": "text",
-      "id": "CF337952-8C38-4653-85CC-272625AB1444"
-    },
-    {
-      "class": "text",
-      "id": "AD35570B-3974-4897-99BE-2ADB4A21C5E2"
-    },
-    {
       "class": "symbolInstance",
       "id": "255E799A-8869-439D-A518-149C43BBBD73"
     },
@@ -119,10 +111,6 @@
       "id": "CA28BE5D-6F8C-4967-96C8-14701DAFB5B0"
     },
     {
-      "class": "text",
-      "id": "79A11317-51A4-4CCE-8969-04F966F02185"
-    },
-    {
       "class": "symbolInstance",
       "id": "9618FAE0-DDF5-4446-8F07-239F308CAB35"
     },
@@ -131,8 +119,8 @@
       "id": "D05A3661-5E75-4E9B-8AAA-FF6946124FA8"
     },
     {
-      "class": "symbolInstance",
-      "id": "53C12B8F-E747-4B89-8F76-B15265967623"
+      "class": "group",
+      "id": "859406CE-331D-4257-AE8C-1AAE0B4E702B"
     }
   ],
   "name": "Mobile galleries directory",

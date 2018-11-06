@@ -58,7 +58,23 @@
     },
     {
       "class": "artboard",
+      "id": "025ADCDF-8FBB-44A2-B72E-7C57C4FA5453"
+    },
+    {
+      "class": "artboard",
       "id": "ADA66BA2-77E3-4BC2-B5E0-296D6C863C45"
+    },
+    {
+      "class": "artboard",
+      "id": "C85FBB63-5951-465E-8A9C-752B52FB8D7C"
+    },
+    {
+      "class": "artboard",
+      "id": "AB0C439A-412E-4E84-8829-15BD57990104"
+    },
+    {
+      "class": "artboard",
+      "id": "95427F5A-049E-467A-961F-D8C90629B596"
     },
     {
       "class": "artboard",
@@ -71,6 +87,14 @@
     {
       "class": "artboard",
       "id": "29DF5FEF-D9F1-4A8C-A80A-1357393E4B4C"
+    },
+    {
+      "class": "artboard",
+      "id": "6B24EA2B-C1B8-4447-873B-364782564D37"
+    },
+    {
+      "class": "text",
+      "id": "49A102E6-CC12-4756-8478-C7DE5F35D88C"
     }
   ],
   "name": "Mobile",
@@ -85,6 +109,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

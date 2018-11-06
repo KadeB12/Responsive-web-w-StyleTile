@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "F8FB60AB-81A0-47A4-A58D-8F40AE83E907",
     "height": 39,
-    "width": 72,
+    "width": 103,
     "x": 112,
     "y": 306
   },
-  "glyphBounds": "{{0, 1}, {67, 35}}",
+  "glyphBounds": "{{0, 1}, {100, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -19,8 +19,8 @@
     "do_objectID": "77213D7B-A93A-43D6-8F60-48EE070B6266",
     "height": 19,
     "width": 63,
-    "x": 30,
-    "y": 275
+    "x": 31,
+    "y": 280
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -54,5 +54,27 @@
     "windingRule": 1
   },
   "symbolID": "9F546285-2C86-4E00-8CEA-1A6301631AB6",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "48B38D30-9273-4970-BF77-DEF29AEB1444",
+      "transition": 0
+    }
+  },
   "verticalSpacing": 0
 }

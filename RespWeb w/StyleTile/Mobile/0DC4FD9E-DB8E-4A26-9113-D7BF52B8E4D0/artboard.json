@@ -31,7 +31,7 @@
     "y": 1287
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,10 +65,6 @@
     {
       "class": "group",
       "id": "11BF885C-20D8-415D-AD32-03B04CA42FEC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3D776626-043F-44C5-BD2C-FDACC09E9A2C"
     },
     {
       "class": "symbolInstance",
@@ -117,6 +113,10 @@
     {
       "class": "text",
       "id": "B64F7EDF-AC1E-4FC1-B9F1-C518D64FA801"
+    },
+    {
+      "class": "group",
+      "id": "E60DEB49-8775-4299-94FE-CDE90AB94653"
     }
   ],
   "name": "Mobile News Article Page",
