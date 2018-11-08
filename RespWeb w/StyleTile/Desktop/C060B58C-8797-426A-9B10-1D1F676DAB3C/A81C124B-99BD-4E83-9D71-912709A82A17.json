@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 54
+              "size": 49
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "About Us"
+    "string": "STUDENT DIRECTORY"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "FE090E2D-2780-4BA2-A5C9-C88F08084D9E",
     "height": 105,
-    "width": 527,
+    "width": 561,
     "x": 172,
-    "y": 214
+    "y": 266
   },
-  "glyphBounds": "{{0, 14}, {221, 41}}",
+  "glyphBounds": "{{2, 11}, {529, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "About Us",
+  "name": "STUDENT DIRECTORY",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 54
+            "size": 49
           }
         },
         "paragraphStyle": {
@@ -124,7 +124,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "D5374C28-6E9B-45F2-AC09-370ABDF3598C",
+      "targetArtboardID": "6B007279-D63E-48B2-88D0-66847B88FCDA",
       "transition": 0
     }
   }

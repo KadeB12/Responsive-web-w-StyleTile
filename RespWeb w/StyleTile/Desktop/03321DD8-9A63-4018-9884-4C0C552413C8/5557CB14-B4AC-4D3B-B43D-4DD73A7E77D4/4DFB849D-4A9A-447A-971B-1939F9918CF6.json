@@ -49,10 +49,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 56,
-    "width": 229,
-    "x": 50,
-    "y": 356
+    "height": 59.39393939393909,
+    "width": 242.8787878787882,
+    "x": 53.03030303030295,
+    "y": 377.5757575757577
   },
   "glyphBounds": "{{-1, 6}, {165, 48}}",
   "hasClippingMask": false,

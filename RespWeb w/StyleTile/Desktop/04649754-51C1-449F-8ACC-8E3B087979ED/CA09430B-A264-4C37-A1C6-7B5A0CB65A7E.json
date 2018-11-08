@@ -112,7 +112,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/70451d017e2830844d0f1e9eece0f5c259f3b934.png",
+          "_ref": "images/5768565f998dfefecd4a1940b07a18a3becdfb5b.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -149,18 +149,8 @@
     },
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
-        "asTile": 0,
-        "items": [
-          {
-            "link": "https://sites.ewu.edu/downtowngallery/files/2016/07/Unknown-18-300x180.jpeg",
-            "type": "src"
-          },
-          {
-            "link": "https://sites.ewu.edu/downtowngallery/files/2018/08/FallHours-300x300.jpg",
-            "type": "src"
-          }
-        ],
-        "mode": "web"
+        "category": "Drink",
+        "mode": "unsplash"
       }
     }
   }

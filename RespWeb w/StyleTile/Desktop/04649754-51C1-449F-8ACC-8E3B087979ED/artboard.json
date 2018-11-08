@@ -87,6 +87,22 @@
       "id": "F1FF7E25-0B48-4534-9B89-A87AB748EFA3"
     },
     {
+      "class": "symbolInstance",
+      "id": "DF73420C-D1CA-448B-8382-450EC2CBD92C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68305A86-35D6-4A40-A6AD-7EF03C9CA7FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28049BB0-9DAC-4CA1-96D6-F4A33FF1F413"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E15D2FA0-2F0B-4357-A82C-5B4CBEEDA77E"
+    },
+    {
       "class": "text",
       "id": "3B1F92BE-E2AF-4838-82F4-511C65517B03"
     },
@@ -101,6 +117,14 @@
     {
       "class": "text",
       "id": "135136B3-DAAF-4228-9D75-FCF847C1BCA8"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA5C2B4B-4EC2-49C8-BC43-506A7ABC8C90"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0ECD2DC-C55F-4F42-8A64-2FEE0FF572A0"
     },
     {
       "class": "text",
@@ -156,7 +180,7 @@
     },
     {
       "class": "group",
-      "id": "44C7FD15-AC82-48C7-A73C-4AC01A9A29E7"
+      "id": "C3B85AFD-CCFC-4854-86AF-8451DD7D5806"
     },
     {
       "class": "symbolInstance",
@@ -197,6 +221,10 @@
     {
       "class": "group",
       "id": "11EF8C78-AE46-42F4-A864-FC4DC1A61408"
+    },
+    {
+      "class": "shapePath",
+      "id": "94E6D8A1-EA65-45BD-AE85-B299C4333DC6"
     }
   ],
   "name": "News Wireframe",

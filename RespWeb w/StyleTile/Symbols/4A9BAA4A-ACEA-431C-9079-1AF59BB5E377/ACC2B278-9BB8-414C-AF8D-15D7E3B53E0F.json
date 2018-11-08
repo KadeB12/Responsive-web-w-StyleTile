@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 37
+              "size": 20
             }
           },
           "paragraphStyle": {
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 44,
-    "width": 284,
+    "height": 24,
+    "width": 166,
     "x": 0,
-    "y": 19
+    "y": 14
   },
-  "glyphBounds": "{{91, 8}, {100, 28}}",
+  "glyphBounds": "{{55, 4}, {55, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -88,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 37
+            "size": 20
           }
         },
         "paragraphStyle": {

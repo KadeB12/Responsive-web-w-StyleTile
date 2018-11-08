@@ -52,14 +52,6 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "E1219584-FDA0-4490-8554-34236BA6264A"
-    },
-    {
-      "class": "rectangle",
-      "id": "8F77A73A-266A-4D37-9E07-5C6DC92A1D10"
-    },
-    {
-      "class": "bitmap",
       "id": "296C2C5B-2DA6-4B50-AF59-1FE69E8654F3"
     },
     {
@@ -107,10 +99,6 @@
       "id": "B7145F83-C766-4938-9D2F-12046A6BE822"
     },
     {
-      "class": "rectangle",
-      "id": "0CD791B0-5250-412D-8387-73CF330E4396"
-    },
-    {
       "class": "text",
       "id": "ABBF6CF7-9341-4529-8708-51F16CEE14BD"
     },
@@ -156,7 +144,7 @@
     },
     {
       "class": "group",
-      "id": "4668428D-3EEC-487D-B897-3A9D37B566B3"
+      "id": "52897921-35D6-41ED-B7F9-AC95A974AD0F"
     },
     {
       "class": "symbolInstance",
@@ -176,7 +164,7 @@
     },
     {
       "class": "rectangle",
-      "id": "FD056E47-F7CC-4FA0-84C4-8BC8BA137119"
+      "id": "5CF7CA0C-B98F-4992-BDD0-8F6DD1802624"
     }
   ],
   "name": "Facilities Directory Wireframe Copy",

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 37,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "Main News Story Hedline or Event Name"
+    "string": "Designing for Social Change, January 3rd"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 109,
     "y": 314.6977777777777
   },
-  "glyphBounds": "{{3, 11}, {502, 97}}",
+  "glyphBounds": "{{2, 11}, {453, 107}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

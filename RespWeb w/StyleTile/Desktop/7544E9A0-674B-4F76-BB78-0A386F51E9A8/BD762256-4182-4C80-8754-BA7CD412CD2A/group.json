@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 101,
+    "height": 94,
     "width": 1440,
     "x": 0,
     "y": 52
@@ -27,11 +27,31 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
       "id": "73DC24B5-9884-4DB5-84EB-49DEFBE746A3"
+    },
+    {
+      "class": "rectangle",
+      "id": "81258715-17C7-4E7F-A70E-5ED46AAC0251"
+    },
+    {
+      "class": "rectangle",
+      "id": "9715E879-5B97-43B7-B2FF-2B74515BB21B"
+    },
+    {
+      "class": "rectangle",
+      "id": "E2CE30B3-DD3A-4BC2-83AA-7CF679B9E6F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "3ABF4CD0-0301-4BD7-AB7E-A442DB3A362F"
+    },
+    {
+      "class": "rectangle",
+      "id": "0337A1A7-A0A0-4C1F-9E34-C3A186E5A302"
     },
     {
       "class": "text",

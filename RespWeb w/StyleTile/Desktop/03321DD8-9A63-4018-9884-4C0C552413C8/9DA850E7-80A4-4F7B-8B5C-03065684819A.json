@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 49
+              "size": 35
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 35,
+        "length": 46,
         "location": 0
       }
     ],
-    "string": "Featured Work Chosen By VCD Faculty"
+    "string": "NOVEMBERS FEATURED WORK\n Chosen By VCD Faculty"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 127,
+    "height": 101,
     "width": 998,
     "x": 221,
-    "y": 204
+    "y": 438
   },
-  "glyphBounds": "{{70, 11}, {861, 48}}",
+  "glyphBounds": "{{232, 8}, {536, 76}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Featured Work Chosen",
+  "name": "NOVEMBERS FEATURED W",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,15 +82,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 49
+            "size": 35
           }
         },
         "paragraphStyle": {

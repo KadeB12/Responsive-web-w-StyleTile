@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "News Story outline or Summary, Event information (place, time ,date etc.) Suspendisse in imperdiet ante, ac ulla neque, vitae ele justo sagittis, "
+    "string": "Gallery Opening Event! Free Food And Drinks if you are of age. Soda or water for persons under 21. Come join the conversation and the festivities!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,10 +51,10 @@
     "constrainProportions": false,
     "height": 88.19555555555564,
     "width": 522,
-    "x": 109,
-    "y": 518.1488888888888
+    "x": 110,
+    "y": 465
   },
-  "glyphBounds": "{{0, 5}, {506, 111}}",
+  "glyphBounds": "{{0, 5}, {511, 106}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal",
+  "name": "Gallery Opening Even",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

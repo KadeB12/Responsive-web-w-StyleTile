@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 66,
         "location": 0
       }
     ],
-    "string": "Winter BRRZAAR December 15th "
+    "string": "Winter BRRZAAR December 15th, Downtown Spokane, River Park Square."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "0A7F6D8A-C37C-4FEB-966F-7552AE3249A5",
-    "height": 70,
+    "height": 140,
     "width": 352,
     "x": 857,
     "y": 73
   },
-  "glyphBounds": "{{-1, 6}, {259, 57}}",
+  "glyphBounds": "{{-1, 6}, {291, 132}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -105,7 +105,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 2,
   "userInfo": {
     "com.invisionlabs.duplicate": {
       "type-duplicate": {

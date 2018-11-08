@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B9B91C62-7460-4372-B621-6A1E9B9ABFBC",
-    "height": 2407,
+    "height": 2628,
     "width": 1440,
     "x": 4628,
-    "y": 7755
+    "y": 8038
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -59,6 +59,26 @@
       "id": "EDE08C64-B17C-4250-AD35-5274048CCC7C"
     },
     {
+      "class": "text",
+      "id": "DC7328DD-BDB6-4D45-A66A-13FFA01335D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C9048FC-C2D4-4620-B063-69592817B26E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95AAD767-427A-445A-8534-49E1B8209802"
+    },
+    {
+      "class": "text",
+      "id": "844D8084-36A9-4065-90E1-3A55384B3D13"
+    },
+    {
+      "class": "rectangle",
+      "id": "CABF8F94-1290-4FB2-AE12-02B57F361382"
+    },
+    {
       "class": "symbolInstance",
       "id": "CACDFD58-FB55-45E4-AC24-1638E0C0DCFB"
     },
@@ -80,15 +100,7 @@
     },
     {
       "class": "text",
-      "id": "2CD6F99E-401F-44CF-A4A0-A93160E083D2"
-    },
-    {
-      "class": "text",
       "id": "612152BB-DA63-490E-B790-3489AFB70666"
-    },
-    {
-      "class": "text",
-      "id": "BB50DA53-3A10-45D1-9D8E-4E593807D898"
     },
     {
       "class": "text",
@@ -101,10 +113,6 @@
     {
       "class": "shapeGroup",
       "id": "72725965-B163-45DB-96F6-AB266274CCB6"
-    },
-    {
-      "class": "text",
-      "id": "34F7574E-F197-4BDC-8001-10876BA1EDE1"
     },
     {
       "class": "shapePath",
@@ -123,8 +131,12 @@
       "id": "F21AE1D2-4AD6-45F1-BDFD-D31D8A076897"
     },
     {
-      "class": "symbolInstance",
-      "id": "6F9C6E43-6DE6-4010-AC90-59EAAEEA846C"
+      "class": "text",
+      "id": "723581C7-A7C4-4339-AA4D-8FFE96DA99AA"
+    },
+    {
+      "class": "text",
+      "id": "68BA218D-F2EB-45DD-8348-C920B2F8300F"
     }
   ],
   "name": "Gallery works info page",

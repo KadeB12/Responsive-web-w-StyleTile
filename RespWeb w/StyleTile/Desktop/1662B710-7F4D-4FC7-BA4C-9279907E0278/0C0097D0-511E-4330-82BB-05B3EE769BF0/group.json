@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C0097D0-511E-4330-82BB-05B3EE769BF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37D6325B-E0DD-4576-A900-8DBEF5D49AE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "63FB3565-0038-479F-BCC8-9C925C7D5D43",
+    "height": 94,
+    "width": 1440,
+    "x": 0,
+    "y": 56
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E8C2F806-423A-404E-9263-B1D00365F526"
+    },
+    {
+      "class": "rectangle",
+      "id": "5FEE8453-749C-46C6-86F3-D0E0592CF74E"
+    },
+    {
+      "class": "rectangle",
+      "id": "2159F7D5-2350-466F-B9F8-3A5381D7260F"
+    },
+    {
+      "class": "rectangle",
+      "id": "33028838-1BC3-4AE2-A947-76513B25D4AE"
+    },
+    {
+      "class": "rectangle",
+      "id": "5378A0AD-3677-4678-AADE-3E80510FEC94"
+    },
+    {
+      "class": "rectangle",
+      "id": "6C65761F-B9A2-43AD-8C72-D74A2A77D6CC"
+    },
+    {
+      "class": "text",
+      "id": "45A3EE4A-F71D-406F-AEE5-55B0031010CB"
+    },
+    {
+      "class": "text",
+      "id": "13B87186-6341-43AE-BA22-47BE25E08593"
+    },
+    {
+      "class": "text",
+      "id": "6A625B73-BD1B-4200-8E72-E8912D27454E"
+    },
+    {
+      "class": "text",
+      "id": "877D059E-1DAD-4EAB-972B-C3492904CEF1"
+    },
+    {
+      "class": "text",
+      "id": "9C3C2CB1-BA17-4993-A7C9-E4BEAC4A833A"
+    },
+    {
+      "class": "text",
+      "id": "86ECE829-E6DA-40E4-BD7F-CCBB1470FDD3"
+    },
+    {
+      "class": "text",
+      "id": "FE353754-CCC1-44CA-94CC-2D932B76D6E5"
+    }
+  ],
+  "name": "Molecule/ Navigation.Bar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEF968DE-55C1-4BED-A393-0BBFE7694DC1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

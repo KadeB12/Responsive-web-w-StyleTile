@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 54
+              "size": 49
             }
           },
           "paragraphStyle": {
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "About Us"
+    "string": "ABOUT US"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,10 +53,10 @@
     "do_objectID": "7873F78C-95C8-4772-B1DE-F52336AF7BD2",
     "height": 105,
     "width": 527,
-    "x": 193,
-    "y": 172
+    "x": 191,
+    "y": 171
   },
-  "glyphBounds": "{{0, 14}, {221, 41}}",
+  "glyphBounds": "{{0, 11}, {248, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "About Us Copy",
+  "name": "ABOUT US",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 54
+            "size": 49
           }
         },
         "paragraphStyle": {
@@ -105,5 +105,27 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "D5374C28-6E9B-45F2-AC09-370ABDF3598C",
+      "transition": 0
+    }
+  }
 }

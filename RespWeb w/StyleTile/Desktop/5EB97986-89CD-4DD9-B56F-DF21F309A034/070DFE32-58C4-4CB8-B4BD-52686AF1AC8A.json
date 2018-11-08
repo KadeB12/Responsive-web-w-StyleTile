@@ -20,9 +20,9 @@
     "constrainProportions": false,
     "do_objectID": "4DE3C2C1-9AC8-413A-B254-2C1A5F30AD43",
     "height": 480,
-    "width": 478,
+    "width": 479,
     "x": 93,
-    "y": 1767
+    "y": 1766
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -95,7 +95,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }

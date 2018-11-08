@@ -51,10 +51,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C36083BA-B5AB-4822-BCB7-F28195E7D45E",
-    "height": 206,
+    "height": 113,
     "width": 443,
-    "x": 432,
-    "y": 1514
+    "x": 437,
+    "y": 1516
   },
   "glyphBounds": "{{0, 4}, {442, 106}}",
   "hasClippingMask": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body copy s, a sodal Copy",
+  "name": "Body copy s, a sodal",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

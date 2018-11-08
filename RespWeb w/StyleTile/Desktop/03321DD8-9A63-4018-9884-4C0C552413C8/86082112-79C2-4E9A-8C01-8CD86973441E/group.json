@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86082112-79C2-4E9A-8C01-8CD86973441E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 437,
+    "x": 871,
+    "y": 3755
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "00D3409F-0EDF-4CC3-8893-3145FE05CF4E"
+    },
+    {
+      "class": "text",
+      "id": "4410A35F-7762-46E2-815E-A96C302CB2C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F8CD08A7-9C4A-4464-A9DA-23776BB475B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8012DFDF-3451-4DC9-A2DB-BD5406650AC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C03BE5EC-7D87-4159-908A-003078A0E7CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF7811BC-6569-44F2-BD44-A68F65327300"
+    }
+  ],
+  "name": "Atom/ Page Numbers",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

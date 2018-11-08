@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Helvetica",
-              "size": 45
+              "size": 49
             }
           },
           "paragraphStyle": {
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Student Directory"
+    "string": "STUDENT DIRECTORY"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "8E3442BD-D99B-4D3A-96AF-E79DD9A617DA",
     "height": 105,
-    "width": 527,
-    "x": 191,
-    "y": 254
+    "width": 576,
+    "x": 189,
+    "y": 244
   },
-  "glyphBounds": "{{2, 10}, {346, 44}}",
+  "glyphBounds": "{{2, 11}, {529, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Student Directory",
+  "name": "STUDENT DIRECTORY",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -92,7 +92,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Helvetica",
-            "size": 45
+            "size": 49
           }
         },
         "paragraphStyle": {
