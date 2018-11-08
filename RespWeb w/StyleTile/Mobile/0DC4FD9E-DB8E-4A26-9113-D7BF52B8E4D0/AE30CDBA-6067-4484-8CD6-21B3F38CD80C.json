@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F8D8830A-C529-4903-914E-DAE79A2B11D6",
+  "do_objectID": "AE30CDBA-6067-4484-8CD6-21B3F38CD80C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EEDD1B66-ACCE-4361-B538-44868D3E812B",
+    "do_objectID": "4FCB7B6A-9CF3-41FF-B748-498C9146E468",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EC4340F5-848F-4BB6-B017-159A836DC257",
-    "height": 618,
-    "width": 263,
-    "x": 30,
-    "y": 343
+    "do_objectID": "201F8859-F0D7-499A-997A-59227BDD3D47",
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 916
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Color/White",
+  "name": "Color/Steel Blue Copy 6",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -41,7 +41,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "C920597A-00CE-432D-831E-340868BE27A6",
+    "do_objectID": "F79684AC-5C16-419B-88CE-E9BF61494FF2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

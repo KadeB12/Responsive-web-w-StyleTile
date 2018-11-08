@@ -31,7 +31,7 @@
     "y": 2382
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -147,7 +147,7 @@
       "id": "A83FC2E4-48B2-4C61-97C3-846E48CAC4F3"
     }
   ],
-  "name": "Mobile Online Gallery Copy",
+  "name": "Student's Profile Gallery",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
