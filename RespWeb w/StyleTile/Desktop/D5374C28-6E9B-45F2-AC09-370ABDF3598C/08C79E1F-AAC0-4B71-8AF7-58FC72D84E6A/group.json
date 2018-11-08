@@ -27,51 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "9AC0598A-8961-44AC-84A3-14A5B520B1EC"
     },
     {
-      "class": "bitmap",
-      "id": "522E242E-FA01-421E-AB7E-CF302F249D7D"
-    },
-    {
-      "class": "bitmap",
-      "id": "5AC75C30-F26A-47DA-9BD7-9FF83AFF00C3"
-    },
-    {
-      "class": "bitmap",
-      "id": "2869E308-7186-49B6-BDBA-EF21B923B4DF"
-    },
-    {
-      "class": "rectangle",
-      "id": "80828DC4-5108-4B14-BA67-082106A38FD8"
-    },
-    {
-      "class": "rectangle",
-      "id": "3C04C2F8-1961-4392-98AD-8B6870AE24D9"
-    },
-    {
-      "class": "rectangle",
-      "id": "F474BAB8-C92C-4375-9419-57BDD468A48B"
-    },
-    {
       "class": "text",
       "id": "BBC1AD86-F2FE-4D4B-9CE5-3E2D0A717A9D"
-    },
-    {
-      "class": "text",
-      "id": "0616E9B2-0AF7-4948-A99B-BB22986C5190"
-    },
-    {
-      "class": "text",
-      "id": "FD6D0F9D-C57C-49F9-9DA8-A7998C4DEC5E"
-    },
-    {
-      "class": "text",
-      "id": "02E4A3B2-4294-485D-B19A-5FB770432291"
     },
     {
       "class": "rectangle",
@@ -95,18 +59,6 @@
     },
     {
       "class": "text",
-      "id": "2253F344-B761-4B9F-B87E-CC043438D47C"
-    },
-    {
-      "class": "text",
-      "id": "36F3A5C6-4CDB-460A-B644-485373466ABB"
-    },
-    {
-      "class": "text",
-      "id": "58C9C5BA-B3E9-4860-A0D1-2BCF782E44CD"
-    },
-    {
-      "class": "text",
       "id": "1D0B9BAE-97F7-42F9-B7BC-F23381D224CB"
     },
     {
@@ -118,52 +70,16 @@
       "id": "C2EC4883-C7CB-4F55-8429-13E8E5A5DAA1"
     },
     {
-      "class": "text",
-      "id": "9F510803-CA19-47E3-9720-24E7B327150E"
-    },
-    {
-      "class": "text",
-      "id": "6B5AC2F8-6F50-436C-8ED8-ADF7C9629062"
-    },
-    {
-      "class": "text",
-      "id": "1CB99B99-C31C-4664-8F0B-D803987A35C4"
-    },
-    {
-      "class": "text",
-      "id": "3F7A4A57-EC96-43EB-B979-8AD419A64D05"
-    },
-    {
-      "class": "text",
-      "id": "4D8F2D2A-CA91-4F28-8051-DB474AB765F6"
-    },
-    {
-      "class": "shapePath",
-      "id": "46E3A75A-9600-463A-BE79-F3D37D36EEAD"
-    },
-    {
-      "class": "shapePath",
-      "id": "D5926D5F-1440-4566-A22B-D1AAD5D20356"
-    },
-    {
-      "class": "shapePath",
-      "id": "3E3FC674-40E7-4CBC-B8C1-11BFD18828D5"
-    },
-    {
-      "class": "shapePath",
-      "id": "5CE7AF53-8536-4172-BC25-01DE534791B9"
-    },
-    {
-      "class": "shapePath",
-      "id": "B913F5E1-7934-48E3-987A-A217A2753B29"
-    },
-    {
-      "class": "shapePath",
-      "id": "D8BEADC2-392B-46D6-99DF-2FF562155D53"
+      "class": "group",
+      "id": "5797E8D3-7A9B-470F-BF78-99ED320BECC3"
     },
     {
       "class": "rectangle",
       "id": "2066C6B9-2D49-4843-9B21-904CE42CA757"
+    },
+    {
+      "class": "group",
+      "id": "370853F9-BCA9-451A-BF3D-B459A8EBF6DC"
     }
   ],
   "name": "Molecule/ Footer",

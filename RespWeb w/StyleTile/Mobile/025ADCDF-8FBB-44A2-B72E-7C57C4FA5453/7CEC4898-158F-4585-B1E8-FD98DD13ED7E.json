@@ -22,7 +22,7 @@
     "height": 75,
     "width": 74,
     "x": 206,
-    "y": 589
+    "y": 599
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -130,6 +130,26 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "66ECCAD1-F8E1-47DD-AB2B-0657550E48D0",
+      "transition": 0
+    },
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
         "asTile": 0,

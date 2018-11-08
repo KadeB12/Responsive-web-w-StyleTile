@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B08310DB-9EFE-4485-BFE7-FB5AB47277AF",
-    "height": 1726,
+    "height": 1723,
     "width": 320,
     "x": -454,
     "y": 3401
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",

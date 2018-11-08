@@ -95,7 +95,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
@@ -115,7 +115,7 @@
         "fillType": 4,
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/a2d5b4f17c56232e470b49a85211aa7c63857f1f.png",
+          "_ref": "images/14ebf3ee059fce3e28bd7847d5d1ceb5b813fe2b.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -132,14 +132,8 @@
   "userInfo": {
     "com.invisionlabs.duplicate": {
       "photos-duplicate": {
-        "asTile": 0,
-        "items": [
-          {
-            "link": "https://sites.ewu.edu/downtowngallery/files/2016/07/Unknown-18-300x180.jpeg",
-            "type": "src"
-          }
-        ],
-        "mode": "web"
+        "category": "Cafe",
+        "mode": "unsplash"
       }
     }
   }

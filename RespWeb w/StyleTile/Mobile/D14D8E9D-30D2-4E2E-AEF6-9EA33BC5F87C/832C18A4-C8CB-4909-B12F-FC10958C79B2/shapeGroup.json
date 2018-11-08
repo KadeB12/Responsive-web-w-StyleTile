@@ -20,7 +20,7 @@
     "height": 17,
     "width": 11,
     "x": 12,
-    "y": 619
+    "y": 624
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -72,9 +72,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5843137254901961,
-          "green": 0.3450980392156863,
-          "red": 0.1450980392156863
+          "blue": 0.1882352941176471,
+          "green": 0.1098039215686275,
+          "red": 0.0431372549019608
         },
         "fillType": 0,
         "gradient": {
@@ -118,6 +118,28 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "DED6E64F-6852-4C0F-8BD1-2ADEB5835293",
+      "transition": 0
+    }
   },
   "windingRule": 1
 }

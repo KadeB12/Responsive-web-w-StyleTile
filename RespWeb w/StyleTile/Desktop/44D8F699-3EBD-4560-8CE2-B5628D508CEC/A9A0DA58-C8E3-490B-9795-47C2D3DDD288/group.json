@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A9A0DA58-C8E3-490B-9795-47C2D3DDD288",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2697,
+    "width": 1440,
+    "x": 0,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0BB53F21-147D-4C60-B3FF-37882F224399"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE9BC519-588D-4FC8-801C-1B8AA7E86ACE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76703262-2B05-4ED3-BF4E-D9F9A70B8D81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62D7D016-D3D0-4438-865D-68F6D447982A"
+    }
+  ],
+  "name": "Background colors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

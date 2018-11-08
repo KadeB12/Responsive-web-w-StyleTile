@@ -22,7 +22,7 @@
     "height": 75,
     "width": 74,
     "x": 40,
-    "y": 589
+    "y": 594
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -90,9 +90,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5843137254901961,
-          "green": 0.3450980392156863,
-          "red": 0.1450980392156863
+          "blue": 0.1882352941176471,
+          "green": 0.1098039215686275,
+          "red": 0.0431372549019608
         },
         "fillType": 0,
         "isEnabled": true,
@@ -147,7 +147,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "6B24EA2B-C1B8-4447-873B-364782564D37",
+      "targetArtboardID": "DED6E64F-6852-4C0F-8BD1-2ADEB5835293",
       "transition": 0
     },
     "com.invisionlabs.duplicate": {

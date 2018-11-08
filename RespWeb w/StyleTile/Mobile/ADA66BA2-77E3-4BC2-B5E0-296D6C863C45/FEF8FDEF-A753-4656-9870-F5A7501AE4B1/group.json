@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "71F49FB5-E2FF-4C4C-86DC-64A7939FB7D2",
-    "height": 122,
-    "width": 118,
+    "height": 135,
+    "width": 131,
     "x": 163,
-    "y": 602
+    "y": 632
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -38,22 +38,6 @@
     {
       "class": "rectangle",
       "id": "ADD416B5-BA9D-4F50-A2AC-E812FB6FC3B7"
-    },
-    {
-      "class": "text",
-      "id": "1C9F59C9-5713-4D00-B204-B42E057FD98E"
-    },
-    {
-      "class": "text",
-      "id": "85551617-FC9A-40FB-8147-DBEE40529B17"
-    },
-    {
-      "class": "rectangle",
-      "id": "330A8391-5513-4246-B83F-214767A27084"
-    },
-    {
-      "class": "rectangle",
-      "id": "4162744A-3B84-43C1-9288-3C7C2D8E278C"
     }
   ],
   "name": "Atom/DirectoryEntry Copy 2",

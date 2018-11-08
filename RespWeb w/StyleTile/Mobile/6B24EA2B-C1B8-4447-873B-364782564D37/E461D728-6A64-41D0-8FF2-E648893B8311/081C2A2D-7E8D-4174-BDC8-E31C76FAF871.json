@@ -10,27 +10,57 @@
             "_class": "color",
             "alpha": 1,
             "blue": 1,
-            "green": 0.8549019607843138,
-            "red": 0.7333333333333333
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AmericanTypewriter-Bold",
-              "size": 6
+              "name": "LucidaGrande",
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 16,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 9
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 14,
+            "minimumLineHeight": 14
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 12,
+        "location": 16
       }
     ],
-    "string": "David Dickens Senior"
+    "string": "Name of Design \nStudent Name"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +81,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5E6977D6-BC36-410D-9366-819F815A56CF",
-    "height": 16.53129657228004,
-    "width": 56.81628787878793,
-    "x": 12.40530303030318,
-    "y": 87.41803278688518
+    "height": 50.53129657228004,
+    "width": 80.81628787878793,
+    "x": 7,
+    "y": 86
   },
-  "glyphBounds": "{{0, 1}, {44, 14}}",
+  "glyphBounds": "{{0, 2}, {61, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -85,19 +115,21 @@
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 0.8549019607843138,
-          "red": 0.7333333333333333
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AmericanTypewriter-Bold",
-            "size": 6
+            "name": "LucidaGrande",
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 14,
+          "minimumLineHeight": 14
         },
         "textStyleVerticalAlignmentKey": 0
       },

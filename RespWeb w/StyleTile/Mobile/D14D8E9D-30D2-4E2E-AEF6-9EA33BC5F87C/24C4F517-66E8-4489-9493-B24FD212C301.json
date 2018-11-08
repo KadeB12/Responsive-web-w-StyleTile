@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Student Gallery"
+    "string": "David Dicken’s Student Gallery"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "7D8D363B-2AB5-4CE9-9B21-F9D40AB4DE99",
     "height": 32,
-    "width": 119,
-    "x": 101,
-    "y": 566
+    "width": 168,
+    "x": 82,
+    "y": 571
   },
-  "glyphBounds": "{{18, 2}, {83, 12}}",
+  "glyphBounds": "{{2, 2}, {165, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Student Gallery",
+  "name": "David Dicken’s Stude",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -105,5 +105,27 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "DED6E64F-6852-4C0F-8BD1-2ADEB5835293",
+      "transition": 0
+    }
+  }
 }

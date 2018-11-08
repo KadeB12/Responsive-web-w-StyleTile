@@ -28,10 +28,10 @@
     "height": 855,
     "width": 320,
     "x": -1148,
-    "y": 2520
+    "y": 2541
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,6 +57,10 @@
     {
       "class": "symbolInstance",
       "id": "0CF9ECFC-6685-4A38-BF52-E7390170F087"
+    },
+    {
+      "class": "text",
+      "id": "D69AC213-CD63-4379-A1D6-7836F7380FC7"
     },
     {
       "class": "symbolInstance",
@@ -68,7 +72,7 @@
     },
     {
       "class": "rectangle",
-      "id": "63AAC153-6774-4A9B-8339-78EE0E718A53"
+      "id": "49EB9324-D2D3-4AA1-91AC-9D332CB6F6D2"
     },
     {
       "class": "text",
@@ -77,6 +81,18 @@
     {
       "class": "group",
       "id": "E4858324-6279-4C3D-B5B5-A68F0796727E"
+    },
+    {
+      "class": "text",
+      "id": "F72348F1-D901-4AF7-9EFA-59CFA7DCEAAA"
+    },
+    {
+      "class": "rectangle",
+      "id": "EC2667E5-B9DC-4738-A06C-1503CE39F1C1"
+    },
+    {
+      "class": "rectangle",
+      "id": "D7C637F4-FA61-450D-9493-9BBE20186FB2"
     },
     {
       "class": "group",

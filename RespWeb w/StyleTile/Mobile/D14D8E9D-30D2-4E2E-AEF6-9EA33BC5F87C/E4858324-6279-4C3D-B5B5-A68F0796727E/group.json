@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "24FF6AE0-DC22-44AA-B49E-C83AE20C804B",
-    "height": 119,
-    "width": 119,
-    "x": 37,
-    "y": 412
+    "height": 128,
+    "width": 128,
+    "x": 29,
+    "y": 433
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -38,22 +38,6 @@
     {
       "class": "rectangle",
       "id": "1A1D30B7-693B-4797-BF22-F5C6CC7BB824"
-    },
-    {
-      "class": "text",
-      "id": "098CEB4B-ED30-4B38-95BE-FB000821E962"
-    },
-    {
-      "class": "text",
-      "id": "0B720B0F-308C-4CD0-87F6-8160D9B938A5"
-    },
-    {
-      "class": "rectangle",
-      "id": "C4DE5A51-4EEF-43F2-AE69-00F579E37B8E"
-    },
-    {
-      "class": "rectangle",
-      "id": "B0261487-1471-4036-A765-992CD0B31FC5"
     }
   ],
   "name": "Atom/DirectoryEntry",

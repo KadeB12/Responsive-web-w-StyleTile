@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "498D4623-0FC4-4EF0-B740-84BBA687E148",
-    "height": 846,
+    "height": 862,
     "width": 320,
     "x": -454,
     "y": 288
@@ -48,15 +48,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "9DED5AE5-E23A-4AE0-B953-FD7C57C2AABB"
     },
     {
-      "class": "bitmap",
-      "id": "3CDF456B-A07C-4592-A226-BCF3913831F3"
+      "class": "group",
+      "id": "2865FD90-D21A-4F86-9D69-A7ED3715F9D6"
     },
     {
       "class": "symbolInstance",

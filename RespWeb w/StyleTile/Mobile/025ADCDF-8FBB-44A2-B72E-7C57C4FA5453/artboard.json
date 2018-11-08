@@ -28,10 +28,10 @@
     "height": 855,
     "width": 320,
     "x": -801,
-    "y": 2252
+    "y": 2382
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -56,11 +56,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "E1A5A267-3603-462F-BC9C-6A6DF7C96314"
+      "id": "25E81229-85C2-4056-8327-1EF68747A564"
     },
     {
       "class": "symbolInstance",
-      "id": "25E81229-85C2-4056-8327-1EF68747A564"
+      "id": "E1A5A267-3603-462F-BC9C-6A6DF7C96314"
+    },
+    {
+      "class": "text",
+      "id": "EE813EEA-C95C-4598-9334-FC322891C7CA"
+    },
+    {
+      "class": "text",
+      "id": "C448CBB7-66F3-45C9-8AE0-FD898B9661F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E3C4E22-480F-4469-AACA-0D64B2B4B52D"
     },
     {
       "class": "rectangle",

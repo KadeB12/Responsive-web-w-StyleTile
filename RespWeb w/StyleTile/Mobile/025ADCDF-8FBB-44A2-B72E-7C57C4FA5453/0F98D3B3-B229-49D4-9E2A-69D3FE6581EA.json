@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "NAME OF DESIGN"
+    "string": "DESIGN DETAILS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,10 +53,10 @@
     "do_objectID": "95C14ABC-DAC3-4CB3-BBA0-5DCAB7CABCBF",
     "height": 25,
     "width": 162,
-    "x": 40,
-    "y": 217
+    "x": 29,
+    "y": 188
   },
-  "glyphBounds": "{{1, 3}, {120, 12}}",
+  "glyphBounds": "{{1, 3}, {114, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "NAME OF DESIGN",
+  "name": "DESIGN DETAILS",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

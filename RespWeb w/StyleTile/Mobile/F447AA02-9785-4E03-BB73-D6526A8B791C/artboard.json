@@ -48,11 +48,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "C24CEFB1-9904-4420-B4F4-24C6FBD4AEEE"
+      "class": "group",
+      "id": "F6A356DA-318C-49C7-9C30-54C963A192EA"
     },
     {
       "class": "group",

@@ -51,24 +51,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "0B0B5688-49C0-4C04-ADE2-2A9F41C268BF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "26BE0C73-B921-4CDD-959E-66DA2DD54F98"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "15F4B22E-0515-4D39-8459-E627E1BECE47"
-    },
-    {
-      "class": "rectangle",
-      "id": "E6D73BC3-1959-4E72-B019-129912854D70"
-    },
-    {
-      "class": "rectangle",
-      "id": "57428E17-1F3C-456B-90BA-AC84568C55CB"
+      "class": "group",
+      "id": "E1B56567-249A-4EC1-8E79-BB6AFB8FFD47"
     },
     {
       "class": "rectangle",
@@ -84,59 +68,7 @@
     },
     {
       "class": "rectangle",
-      "id": "385837FE-143E-4DA2-A9F4-037C1A5805E9"
-    },
-    {
-      "class": "group",
-      "id": "7A260C4A-14A8-4224-93E0-01ACBE0080A1"
-    },
-    {
-      "class": "rectangle",
-      "id": "7F1471BB-3E20-4D17-A859-FAE8C125D6C1"
-    },
-    {
-      "class": "rectangle",
-      "id": "684D0411-9500-41F5-992D-33A4557177D1"
-    },
-    {
-      "class": "text",
-      "id": "DC0B3272-B079-4EF6-835C-1830DED303AF"
-    },
-    {
-      "class": "text",
-      "id": "513FA8AA-D6E5-4393-8999-D811F8B49380"
-    },
-    {
-      "class": "text",
-      "id": "4749E49F-13FB-4FCC-B556-A59139AB5495"
-    },
-    {
-      "class": "text",
-      "id": "BEAEA165-939D-45D1-A90F-2F1AB207C880"
-    },
-    {
-      "class": "text",
-      "id": "31AC5B68-9B32-4532-9079-07471C13CB61"
-    },
-    {
-      "class": "text",
-      "id": "07549F69-3C75-4607-9187-89C0C905D987"
-    },
-    {
-      "class": "group",
-      "id": "0174F034-BAE5-4F54-97E0-94F8FDA481C8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BBD1B03D-78E0-454E-A589-60367FBA5856"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "03394CDF-4681-4893-9333-1C4E70AAA1FF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2DD5594D-4264-4114-917B-9E74B171FFD4"
+      "id": "45805233-C49A-4CD8-A2DA-EA73D45DB795"
     },
     {
       "class": "group",
@@ -144,15 +76,23 @@
     },
     {
       "class": "group",
-      "id": "C9F38B66-E457-4998-9038-04017B92C518"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD17BC0D-976D-4A52-B787-8DAA2480B5A3"
+      "id": "293D48F7-32A6-41D1-88F9-1C003F0836B1"
     },
     {
       "class": "group",
-      "id": "370853F9-BCA9-451A-BF3D-B459A8EBF6DC"
+      "id": "4D9E0997-D816-4F6E-996D-8B6BC6866AEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DD5594D-4264-4114-917B-9E74B171FFD4"
+    },
+    {
+      "class": "group",
+      "id": "47B267E6-B886-4F3D-8FE7-F82A89F15F5B"
+    },
+    {
+      "class": "group",
+      "id": "0174F034-BAE5-4F54-97E0-94F8FDA481C8"
     }
   ],
   "name": "About Us remix Copy",

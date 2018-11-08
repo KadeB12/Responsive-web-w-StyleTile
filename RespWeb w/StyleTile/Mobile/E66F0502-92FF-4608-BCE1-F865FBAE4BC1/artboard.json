@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 999,
+    "height": 1009,
     "width": 320,
     "x": -1842,
     "y": 288
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -63,16 +63,20 @@
       "id": "305D656B-4631-49D4-8AED-60AA43D309CE"
     },
     {
-      "class": "rectangle",
-      "id": "8F9BFA65-5DD9-4D9A-89BE-234D9F85B22A"
-    },
-    {
-      "class": "group",
-      "id": "9EE0E6A4-A50E-4FD5-BBDC-181ACF93F999"
-    },
-    {
       "class": "group",
       "id": "9F1113D8-D360-41AC-BE9D-549B08B86519"
+    },
+    {
+      "class": "rectangle",
+      "id": "741A6836-BBDD-4111-893E-CBA552C5FFFF"
+    },
+    {
+      "class": "text",
+      "id": "7BBFBDEA-8B3C-41C0-B084-D312B1B67E74"
+    },
+    {
+      "class": "rectangle",
+      "id": "5BB8D247-16DB-4FED-A33D-E46B464FEE54"
     },
     {
       "class": "symbolInstance",

@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.1882352941176471,
+            "green": 0.1098039215686275,
+            "red": 0.0431372549019608
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 44,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "Name of Article dolor sit amet, consectetur "
+    "string": "Art and Tasting Event.\nNov. 12th 6:30p.m."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,9 +53,9 @@
     "height": 36,
     "width": 187,
     "x": 45,
-    "y": 369.9999999999999
+    "y": 367
   },
-  "glyphBounds": "{{0, 4}, {159, 32}}",
+  "glyphBounds": "{{0, 4}, {146, 33}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Name of Article dolo",
+  "name": "Art and Tasting Even",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -83,9 +83,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1882352941176471,
+          "green": 0.1098039215686275,
+          "red": 0.0431372549019608
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

@@ -78,11 +78,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 14,
         "location": 184
       }
     ],
-    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpis at elit. Donec consectetur sapien orci, non blandit lectus finibus \nSee More Here!."
+    "string": "Body copy s, a sodales libero finibus in. Suspendisse in imperdiet ante, ac ulla neque, vitae elementum orci turpis at elit. Donec consectetur sapien orci, non blandit lectus finibus \nSee More Here!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -104,11 +104,11 @@
     "constrainProportions": false,
     "do_objectID": "692D87B7-6DF6-452B-B3B2-4DEAC6F8E43C",
     "height": 71,
-    "width": 173,
+    "width": 157,
     "x": 6,
-    "y": 303
+    "y": 312
   },
-  "glyphBounds": "{{0, 2}, {161, 57}}",
+  "glyphBounds": "{{0, 2}, {152, 57}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

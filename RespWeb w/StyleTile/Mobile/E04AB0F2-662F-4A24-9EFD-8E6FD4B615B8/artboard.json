@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BEC8A9C8-7523-42C6-803F-E62EBCA9E241",
-    "height": 929,
+    "height": 950,
     "width": 320,
     "x": -1495,
     "y": 288
@@ -48,8 +48,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CAE95F97-2994-4F34-928B-5FDAD73C5B49"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1024D7E4-2180-4519-8430-9013B40D5DBA"
+    },
     {
       "class": "group",
       "id": "3E456E8D-7C12-4869-B822-B9B164C67157"
@@ -61,10 +69,6 @@
     {
       "class": "group",
       "id": "B0531F1E-ACE6-4E60-BAA0-3F5599CD0EF5"
-    },
-    {
-      "class": "rectangle",
-      "id": "933D1A16-5CEF-4D3E-9CB7-4DB8807C0F4B"
     },
     {
       "class": "symbolInstance",
@@ -83,8 +87,12 @@
       "id": "3C775276-0AA0-42D1-9C0C-56072987AC1C"
     },
     {
-      "class": "symbolInstance",
-      "id": "5DD5A165-2F53-4439-B81A-53EE8748B5F6"
+      "class": "group",
+      "id": "63B64C32-963B-4404-89C7-B1934EE42557"
+    },
+    {
+      "class": "text",
+      "id": "EE9094C3-C067-40A9-B787-046B5CFCC186"
     }
   ],
   "name": "Mobile News and Events",
