@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4FF6E7BE-4DA7-4719-8558-5166BF08EC80",
+  "do_objectID": "39ADA9DF-E051-4CB3-ABE7-10B4D7D3AFB5",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "4429BE96-81FD-4557-A6B0-D5AE39823054",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 379,
-    "width": 172,
-    "x": 12,
-    "y": 461
+    "do_objectID": "16E558CD-00B9-4F03-9BB1-1127FC4B826C",
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 346
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Mobile/Molecule/ Carousel",
+  "name": "Color/Steel Blue",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,33 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "8AE62F0B-4387-4108-81A2-E0597EA161C1",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "031856B3-E76C-43C3-8202-4DB863A8AF72",
-  "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "0DC4FD9E-DB8E-4A26-9113-D7BF52B8E4D0",
-      "transition": 0
-    }
-  },
+  "symbolID": "FEFE1538-461F-4B2B-90A9-B64661B3A15B",
   "verticalSpacing": 0
 }
