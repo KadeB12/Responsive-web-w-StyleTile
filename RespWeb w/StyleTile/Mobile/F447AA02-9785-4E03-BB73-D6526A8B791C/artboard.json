@@ -65,6 +65,22 @@
     {
       "class": "group",
       "id": "C1304523-EEBD-4D61-BB2C-C77C5C033A4B"
+    },
+    {
+      "class": "rectangle",
+      "id": "2BC2BD53-0352-432F-B81E-CC85564D4C9C"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C276CCA-01B1-4492-B832-A03D9724F853"
+    },
+    {
+      "class": "rectangle",
+      "id": "98869873-4090-4058-A83E-7A97A81B8181"
+    },
+    {
+      "class": "rectangle",
+      "id": "269B4755-DCFA-4436-BBE2-534CD6D3A604"
     }
   ],
   "name": "Mobile About Us ",
