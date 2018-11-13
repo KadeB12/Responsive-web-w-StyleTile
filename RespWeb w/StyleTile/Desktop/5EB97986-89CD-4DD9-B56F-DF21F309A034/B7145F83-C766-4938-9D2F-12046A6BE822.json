@@ -51,10 +51,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9F0485BB-5592-43B9-B497-51580C487B69",
-    "height": 196,
+    "height": 185,
     "width": 522,
     "x": 202,
-    "y": 1330
+    "y": 1341
   },
   "glyphBounds": "{{0, 6}, {453, 175}}",
   "hasClippingMask": false,

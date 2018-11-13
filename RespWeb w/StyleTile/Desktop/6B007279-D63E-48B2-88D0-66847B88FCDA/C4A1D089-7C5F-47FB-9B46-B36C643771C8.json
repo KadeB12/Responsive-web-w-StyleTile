@@ -51,7 +51,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8E3442BD-D99B-4D3A-96AF-E79DD9A617DA",
-    "height": 105,
+    "height": 67,
     "width": 576,
     "x": 189,
     "y": 244
@@ -105,5 +105,26 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 2,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 231,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "transition": 0
+    }
+  }
 }
