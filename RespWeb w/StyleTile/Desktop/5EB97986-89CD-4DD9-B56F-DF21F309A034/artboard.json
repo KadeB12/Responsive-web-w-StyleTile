@@ -51,8 +51,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "296C2C5B-2DA6-4B50-AF59-1FE69E8654F3"
+      "class": "group",
+      "id": "6419E064-4955-40BA-A206-EBBC20385FD2"
     },
     {
       "class": "rectangle",
@@ -157,14 +157,6 @@
     {
       "class": "symbolInstance",
       "id": "6527D1BF-FA68-4A8B-8BD4-40A853BF4D61"
-    },
-    {
-      "class": "rectangle",
-      "id": "BA0CF128-C213-40FF-868C-0801E386AF5A"
-    },
-    {
-      "class": "rectangle",
-      "id": "5CF7CA0C-B98F-4992-BDD0-8F6DD1802624"
     }
   ],
   "name": "Facilities Directory Wireframe Copy",

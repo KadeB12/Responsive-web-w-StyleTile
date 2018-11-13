@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F6A356DA-318C-49C7-9C30-54C963A192EA",
+  "do_objectID": "4B63D878-39C3-4468-A3B1-2EBC1A772C90",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,46 +15,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
-    "width": 320,
-    "x": 0,
-    "y": 131
+    "height": 19,
+    "width": 63,
+    "x": 12,
+    "y": 292
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Mobile/Atom/ Button Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "symbolInstance",
-      "id": "2691FC9E-5574-4771-BEAE-AA9D3E151034"
-    },
-    {
-      "class": "rectangle",
-      "id": "436FEF37-C8DA-461D-8085-6D34D297429F"
-    },
-    {
-      "class": "text",
-      "id": "B205437B-AFE5-4C62-8EAF-CA1F35DD1327"
-    },
-    {
-      "class": "text",
-      "id": "016E72B0-92AB-43A2-A20D-01CE9726DD28"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4B63D878-39C3-4468-A3B1-2EBC1A772C90"
+      "_class": "overrideValue",
+      "overrideName": "1EF2629F-39D1-4309-B441-9E044696993B_stringValue",
+      "value": "SEE DEGREES"
     }
   ],
-  "name": "Mobile/Molecule/Header",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -63,6 +49,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "9F546285-2C86-4E00-8CEA-1A6301631AB6",
   "userInfo": {
     "com.invision.prototype": {
       "backgroundOpacity": 0,
@@ -84,5 +71,6 @@
       "targetArtboardID": "AB0C439A-412E-4E84-8829-15BD57990104",
       "transition": 0
     }
-  }
+  },
+  "verticalSpacing": 0
 }

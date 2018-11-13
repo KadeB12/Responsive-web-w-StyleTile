@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4B63D878-39C3-4468-A3B1-2EBC1A772C90",
+  "do_objectID": "2691FC9E-5574-4771-BEAE-AA9D3E151034",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 63,
-    "x": 12,
-    "y": 184
+    "height": 200,
+    "width": 320,
+    "x": 0,
+    "y": 157
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Mobile/Atom/ Button Copy 3",
+  "name": "Color/Steel Blue",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "1EF2629F-39D1-4309-B441-9E044696993B_stringValue",
-      "value": "SEE DEGREES"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -49,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9F546285-2C86-4E00-8CEA-1A6301631AB6",
+  "symbolID": "50AE38AB-42EB-4E72-BCB7-5884F8A8AD5B",
   "verticalSpacing": 0
 }

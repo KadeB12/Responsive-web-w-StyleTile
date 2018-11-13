@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "269B4755-DCFA-4436-BBE2-534CD6D3A604",
+  "do_objectID": "0F3F1969-4A20-41B4-86B9-EDAAE6BC3DCF",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EFB121FA-989F-44D3-BDA0-BEEC4041FB0C",
+    "do_objectID": "7F481AA7-C97B-47A4-96EA-8870D8BC98B8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "221490C6-25BC-4467-9F71-A49AD9886E0B",
-    "height": 167,
-    "width": 110,
-    "x": 14,
-    "y": 877
+    "do_objectID": "17797354-BA5C-47F9-8DC5-5E8FF065A6A6",
+    "height": 200,
+    "width": 173,
+    "x": 0,
+    "y": 357
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -100,7 +100,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "64E453F0-844D-4E47-9AB4-3D9F049C4156",
+    "do_objectID": "3DE342E9-E2E9-4F26-8106-026F6903972F",
     "endMarkerType": 0,
     "fills": [
       {

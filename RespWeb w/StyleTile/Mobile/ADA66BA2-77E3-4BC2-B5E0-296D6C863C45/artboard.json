@@ -28,10 +28,10 @@
     "height": 973,
     "width": 320,
     "x": -1148,
-    "y": 1542
+    "y": 1577
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

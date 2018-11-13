@@ -25,7 +25,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3F2CB204-F249-4AE6-8C70-CACAFA658145",
-    "height": 1228,
+    "height": 1262,
     "width": 320,
     "x": -1148,
     "y": 288
@@ -48,15 +48,43 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "F6A356DA-318C-49C7-9C30-54C963A192EA"
+      "class": "symbolInstance",
+      "id": "2691FC9E-5574-4771-BEAE-AA9D3E151034"
+    },
+    {
+      "class": "rectangle",
+      "id": "436FEF37-C8DA-461D-8085-6D34D297429F"
+    },
+    {
+      "class": "text",
+      "id": "B205437B-AFE5-4C62-8EAF-CA1F35DD1327"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4B63D878-39C3-4468-A3B1-2EBC1A772C90"
     },
     {
       "class": "group",
       "id": "F6FD1CC2-B9C5-42C8-A439-3DAE4E106E71"
+    },
+    {
+      "class": "rectangle",
+      "id": "1CC842DB-128B-4823-A24E-BB0FE44A46ED"
+    },
+    {
+      "class": "text",
+      "id": "C776928E-A4C8-4571-9CC5-05181B3E14D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE042FCE-E674-402E-8BF8-5637BCB44FB2"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F3F1969-4A20-41B4-86B9-EDAAE6BC3DCF"
     },
     {
       "class": "group",
@@ -77,10 +105,6 @@
     {
       "class": "rectangle",
       "id": "98869873-4090-4058-A83E-7A97A81B8181"
-    },
-    {
-      "class": "rectangle",
-      "id": "269B4755-DCFA-4436-BBE2-534CD6D3A604"
     }
   ],
   "name": "Mobile About Us ",
